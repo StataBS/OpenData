@@ -12,15 +12,12 @@ xmlns:odrs = "http://schema.theodi.org/odrs#"
 xmlns:schema="http://schema.org/">
 <dcat:Catalog>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/1">
-     <dct:identifier><![CDATA[1@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T01.1.07">
+     <dct:identifier><![CDATA[T01.1.07@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wohnbevölkerung nach Geschlecht und Zivilstand seit 1900]]></dct:title>
-     <dct:title xml:lang="fr"><![CDATA[Population résidente selon le sexe et l'état civil depuis 1900]]></dct:title>
-     <dct:title xml:lang="en"><![CDATA[Residential population by gender and civil status since 1900]]></dct:title>
      <dct:description xml:lang="de"><![CDATA[Wohnbevölkerung am Monatsende nach Geschlecht, Heimat und Gemeinde]]></dct:description>
-     <dct:description xml:lang="fr"><![CDATA[La population résidente en fin de mois selon le sexe, origine et commune]]></dct:description>
-     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-13T01:00:00Z</dct:issued>
-     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-13T00:00:00Z</dct:modified>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T01:00:00Z</dct:issued>
+     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T00:00:00Z</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about="Reference to publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
@@ -51,24 +48,80 @@ xmlns:schema="http://schema.org/">
      <dcat:keyword xml:lang="de">nationalitaet </dcat:keyword>
      <dcat:keyword xml:lang="en">nationality</dcat:keyword>
      <dcat:keyword xml:lang="fr">nationalite</dcat:keyword>
-    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/dms/statistik/tabellen/01/1/t01-0-01.xlsx]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung.html]]></dcat:landingPage>
      <dct:temporal>
-       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31</schema:endDate>
+       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">01.01.2012</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">31.12.2016</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung.html">
-         <dct:identifier>t01.0.01</dct:identifier>
+         <dct:identifier>T01.1.07</dct:identifier>
          <dct:description xml:lang="de">Bis 2012 wurde die Bevölkerungszahl ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T00:00:00Z</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T00:00:00Z</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/01/1/t01-0-01.xlsx</dcat:accessURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/01/t01-1-07.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/01/t01-1-07.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
          <dcat:byteSize>108000</dcat:byteSize>
+         <dcat:mediaType><![CDATA[application/vnd.ms-excel]]></dcat:mediaType>
+         <dct:format/>
+         <dct:coverage/>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T05.3.01">
+     <dct:identifier><![CDATA[T05.3.01@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Mittlere Detailhandelspreise in Franken]]></dct:title>
+     <dct:description xml:lang="de"><![CDATA[Mittlere Detailhandelspreise in Franken: 2001-2010; 1991-2000]]></dct:description>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">09.03.2017 13:57:50T01:00:00Z</dct:issued>
+     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about="Reference to publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Kuno Bucher]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="Kuno.Bucher@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
+
+
+     <dcat:keyword xml:lang="de">preise</dcat:keyword>
+     <dcat:keyword xml:lang="en">prices</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="">
+         <dct:identifier>T05.3.01</dct:identifier>
+         <dct:description xml:lang="de"></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dct:license/>
+         <dcat:byteSize>0</dcat:byteSize>
          <dcat:mediaType><![CDATA[application/vnd.ms-excel]]></dcat:mediaType>
          <dct:format/>
          <dct:coverage/>
