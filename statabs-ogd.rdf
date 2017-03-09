@@ -129,5 +129,61 @@ xmlns:schema="http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T15.1.01">
+     <dct:identifier><![CDATA[T15.1.01@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Lernende an öff. und privaten Schulen]]></dct:title>
+     <dct:description xml:lang="de"><![CDATA[Alle Schulen, Öff. Schulen, Privatschulen]]></dct:description>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">09.03.2017 13:57:50T01:00:00Z</dct:issued>
+     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about="Reference to publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Kuno Bucher]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="Kuno.Bucher@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/education"/>
+
+
+     <dcat:keyword xml:lang="de">alter</dcat:keyword>
+     <dcat:keyword xml:lang="en">age</dcat:keyword>
+     <dcat:keyword xml:lang="fr">age</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="">
+         <dct:identifier>T15.1.01</dct:identifier>
+         <dct:description xml:lang="de"></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/t15-1-01.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/t15-1-01.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dct:license/>
+         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:mediaType><![CDATA[application/vnd.ms-excel]]></dcat:mediaType>
+         <dct:format/>
+         <dct:coverage/>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
  </dcat:Catalog>
  </rdf:RDF>
