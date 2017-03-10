@@ -15,8 +15,8 @@ xmlns:schema="http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T01.1.07">
      <dct:identifier><![CDATA[T01.1.07@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wohnbevölkerung nach Geschlecht und Zivilstand seit 1900]]></dct:title>
-     <dct:description xml:lang="de"><![CDATA[Wohnbevölkerung am Monatsende nach Geschlecht, Heimat und Gemeinde]]></dct:description>
-     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T01:00:00Z</dct:issued>
+     <dct:description xml:lang="de"><![CDATA[Datenquelle: Volkszählungen. Seit 2010 neues, jährliches Volkszählungssystem: Statistik der Bevölkerung und der Haushalte (STATPOP),Verfügbarkeit: seit 1900; bis 2000 alle 10 Jahre, seit 2010 jährlich,Verfügbarkeit: 7. Oktober 2016 (Daten 2015),Zitiervorschlag: Statistisches Jahrbuch des Kantons Basel-Stadt,Erhebungsart: bis 2000 Befragung, seit 2010 Register]]></dct:description>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">10.03.2017 12:57:28T01:00:00Z</dct:issued>
      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T00:00:00Z</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about="Reference to publisher">
@@ -32,7 +32,7 @@ xmlns:schema="http://schema.org/">
      <dcat:contactPoint>
        <vcard:Individual>
          <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="christa.moll@bs.ch"/>
+         <vcard:hasEmail rdf:resource="Christa.Moll@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
@@ -66,7 +66,7 @@ xmlns:schema="http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/01/t01-1-07.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
-         <dcat:byteSize>108000</dcat:byteSize>
+         <dcat:byteSize>51027</dcat:byteSize>
          <dcat:mediaType><![CDATA[application/vnd.ms-excel]]></dcat:mediaType>
          <dct:format/>
          <dct:coverage/>
@@ -78,8 +78,8 @@ xmlns:schema="http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T05.3.01">
      <dct:identifier><![CDATA[T05.3.01@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Mittlere Detailhandelspreise in Franken]]></dct:title>
-     <dct:description xml:lang="de"><![CDATA[Mittlere Detailhandelspreise in Franken: 2001-2010; 1991-2000]]></dct:description>
-     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">09.03.2017 13:57:50T01:00:00Z</dct:issued>
+     <dct:description xml:lang="de"><![CDATA[Datenquelle: Sektion Preise, Bundesamt für Statistik (BFS),Verfügbarkeit: Seit 1991, jährlich,Verfügbarkeit: 8. Juni 2017,Zitiervorschlag: Statistisches Jahrbuch des Kantons Basel-Stadt,Erhebungsart: Stichprobenerhebung]]></dct:description>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">10.03.2017 12:57:28T01:00:00Z</dct:issued>
      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about="Reference to publisher">
@@ -121,7 +121,7 @@ xmlns:schema="http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>55858</dcat:byteSize>
          <dcat:mediaType><![CDATA[application/vnd.ms-excel]]></dcat:mediaType>
          <dct:format/>
          <dct:coverage/>
@@ -159,7 +159,7 @@ xmlns:schema="http://schema.org/">
      <dcat:keyword xml:lang="de">alter</dcat:keyword>
      <dcat:keyword xml:lang="en">age</dcat:keyword>
      <dcat:keyword xml:lang="fr">age</dcat:keyword>
-    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/15-bildung-wissenschaft.html]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:startDate>
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:endDate>
