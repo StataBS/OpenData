@@ -12,11 +12,11 @@ xmlns:odrs = "http://schema.theodi.org/odrs#"
 xmlns:schema="http://schema.org/">
 <dcat:Catalog>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T01.1.07">
-     <dct:identifier><![CDATA[T01.1.07@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2867">
+     <dct:identifier><![CDATA[2867@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wohnbevölkerung nach Geschlecht und Zivilstand seit 1900]]></dct:title>
      <dct:description xml:lang="de"><![CDATA[Datenquelle: Volkszählungen. Seit 2010 neues, jährliches Volkszählungssystem: Statistik der Bevölkerung und der Haushalte (STATPOP),Verfügbarkeit: seit 1900; bis 2000 alle 10 Jahre, seit 2010 jährlich,Verfügbarkeit: 7. Oktober 2016 (Daten 2015),Zitiervorschlag: Statistisches Jahrbuch des Kantons Basel-Stadt,Erhebungsart: bis 2000 Befragung, seit 2010 Register]]></dct:description>
-     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">10.03.2017 12:57:28T01:00:00Z</dct:issued>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">10.03.2017 13:24:39T01:00:00Z</dct:issued>
      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T00:00:00Z</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about="Reference to publisher">
@@ -57,7 +57,7 @@ xmlns:schema="http://schema.org/">
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung.html">
-         <dct:identifier>T01.1.07</dct:identifier>
+         <dct:identifier>2867</dct:identifier>
          <dct:description xml:lang="de">Bis 2012 wurde die Bevölkerungszahl ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T00:00:00Z</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">13.02.2017T00:00:00Z</dct:modified>
@@ -75,11 +75,11 @@ xmlns:schema="http://schema.org/">
     </dcat:Dataset>
   </dcat:dataset>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T05.3.01">
-     <dct:identifier><![CDATA[T05.3.01@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2663">
+     <dct:identifier><![CDATA[2663@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Mittlere Detailhandelspreise in Franken]]></dct:title>
      <dct:description xml:lang="de"><![CDATA[Datenquelle: Sektion Preise, Bundesamt für Statistik (BFS),Verfügbarkeit: Seit 1991, jährlich,Verfügbarkeit: 8. Juni 2017,Zitiervorschlag: Statistisches Jahrbuch des Kantons Basel-Stadt,Erhebungsart: Stichprobenerhebung]]></dct:description>
-     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">10.03.2017 12:57:28T01:00:00Z</dct:issued>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">10.03.2017 13:24:39T01:00:00Z</dct:issued>
      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about="Reference to publisher">
@@ -112,7 +112,7 @@ xmlns:schema="http://schema.org/">
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="">
-         <dct:identifier>T05.3.01</dct:identifier>
+         <dct:identifier>2663</dct:identifier>
          <dct:description xml:lang="de"></dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
@@ -130,9 +130,9 @@ xmlns:schema="http://schema.org/">
     </dcat:Dataset>
   </dcat:dataset>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/T15.1.01">
-     <dct:identifier><![CDATA[T15.1.01@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Lernende an öff. und privaten Schulen]]></dct:title>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2664">
+     <dct:identifier><![CDATA[2664@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Lernende öffentlicher und privater Kindergärten und Schulen]]></dct:title>
      <dct:description xml:lang="de"><![CDATA[Alle Schulen, Öff. Schulen, Privatschulen]]></dct:description>
      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">09.03.2017 13:57:50T01:00:00Z</dct:issued>
      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
@@ -168,7 +168,7 @@ xmlns:schema="http://schema.org/">
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="">
-         <dct:identifier>T15.1.01</dct:identifier>
+         <dct:identifier>2664</dct:identifier>
          <dct:description xml:lang="de"></dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
