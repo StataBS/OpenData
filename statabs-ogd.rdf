@@ -109,7 +109,7 @@ xmlns:schema="http://schema.org/">
      <dcat:keyword xml:lang="en">education</dcat:keyword>
      <dcat:keyword xml:lang="fr">formation</dcat:keyword>
      <dcat:keyword xml:lang="de">berufsausbildung</dcat:keyword>
-     <dcat:keyword xml:lang="en">	apprenticeship</dcat:keyword>
+     <dcat:keyword xml:lang="en">apprenticeship</dcat:keyword>
      <dcat:keyword xml:lang="fr">formation professionnelle</dcat:keyword>
      <dcat:keyword xml:lang="de">schueler</dcat:keyword>
      <dcat:keyword xml:lang="en">pupils</dcat:keyword>
@@ -131,8 +131,8 @@ xmlns:schema="http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">T00:00:00Z</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/t15-1-01.xlsx</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/t15-1-01.xlsx</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/1/t15-1-01.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/1/t15-1-01.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
          <dcat:byteSize>0</dcat:byteSize>
