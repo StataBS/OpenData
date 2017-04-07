@@ -3,7 +3,11 @@ DCAT-AP Katalog für https://opendata.swiss der Daten des [Statistischen Amts de
 
 Urls der Katalogdatei: 
 - Produktion: https://statabs.github.io/OpenData/statabs-ogd.rdf
-- Produktion: https://statabs.github.io/OpenData/statabs-ogd-abnahme.rdf 
+- Abnahme: https://statabs.github.io/OpenData/statabs-ogd-abnahme.rdf 
+
+URLs der Weboberflächen: 
+- Produktion: https://opendata.swiss/de/organization/statistisches-amt-kanton-basel-stadt
+- Abnahme: http://ogdch-abnahme.clients.liip.ch/de/organization/statistisches-amt-kanton-basel-stadt
 
 Infos zum CKAN Harvester und dem verwendeten RDF Format : 
 - http://handbook.opendata.swiss/de/publish/harvester.html
