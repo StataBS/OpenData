@@ -19,7 +19,7 @@ xmlns:schema="http://schema.org/">
      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
      <dct:publisher>
-       <rdf:Description rdf:about="Reference to publisher">
+       <rdf:Description rdf:about="Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
        </rdf:Description>
      </dct:publisher>
@@ -83,7 +83,7 @@ xmlns:schema="http://schema.org/">
      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:issued>
      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:modified>
      <dct:publisher>
-       <rdf:Description rdf:about="Reference to publisher">
+       <rdf:Description rdf:about="Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
        </rdf:Description>
      </dct:publisher>
