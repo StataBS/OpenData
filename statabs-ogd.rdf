@@ -66,7 +66,7 @@
      <dct:identifier><![CDATA[4994@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Lernende öffentlicher und privater Kindergärten und Schulen]]></dct:title>
      <dct:description xml:lang="de"><![CDATA[Die Tabellen zeigen die Anzahl Lernenden in öffentlichen und privaten Bildungsinstitutionen seit 2001, differenziert nach Stufe beim allgemeinbildenden Unterricht sowie Ausbildungsjahr und -form in der Berufsausbildung.]]></dct:description>
-     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">09.03.2017T13:57:50</dct:issued>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:issued>
      <dct:publisher>
        <rdf:Description rdf:about="Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
@@ -104,7 +104,7 @@
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4994">
          <dct:identifier>4994</dct:identifier>
          <dct:description xml:lang="de">Als Grundlage der Statistik dient eine Bestandsaufnahme an einem bestimmten Stichtag jeweils im September. Berücksichtigt sind Ausbildungen mit klarem Ausbildungsziel aus der obligatorischen Schulpflicht oder dem post-obligatorischen Bereich (ohne Universität und Fachhochschule), die mindestens ein halbes Schuljahr dauern. Die Stufenzuteilung erfolgt nach HarmoS.</dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">09.03.2017T13:57:50</dct:issued>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:issued>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/1/t15-1-01.xlsx</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/15/1/t15-1-01.xlsx</dcat:downloadURL>
