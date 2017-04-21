@@ -62,8 +62,6 @@ xmlns:schema="http://schema.org/">
          <dct:identifier>2663</dct:identifier>
          <dct:description xml:lang="de">Seit der Revision vom Mai 1993 werden die Durchschnittspreise als nach Absatzkanal gewichtetes Mittel berechnet. Gewisse Positionen werden seit der Indexrevision 2005 vom Bundesamt für Statistik nicht mehr publiziert, da die Preishomogenität bei Grundnahrungsmitteln häufig nicht mehr gegeben ist.</dct:description>
          <dct:description xml:lang="en">Since the index revision of May 1993 average prices are weighted by distribution channel. Certain items have been excluded from the price statistic in 2005 due to frequent lack of price homogeneity of staple foods.</dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"></dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"></dct:modified>
          <dct:language>de</dct:language>
          <dct:language>en</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html</dcat:accessURL>
@@ -132,7 +130,6 @@ xmlns:schema="http://schema.org/">
          <dct:identifier>4994</dct:identifier>
          <dct:description xml:lang="de">Als Grundlage der Statistik dient eine Bestandsaufnahme an einem bestimmten Stichtag jeweils im September. Berücksichtigt sind Ausbildungen mit klarem Ausbildungsziel aus der obligatorischen Schulpflicht oder dem post-obligatorischen Bereich (ohne Universität und Fachhochschule), die mindestens ein halbes Schuljahr dauern. Die Stufenzuteilung erfolgt nach HarmoS.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-07-20T00:00:00</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"></dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/zahlen/tabellen/15-bildung-wissenschaft/schulen.html</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/zahlen/tabellen/15-bildung-wissenschaft/schulen.html</dcat:downloadURL>
