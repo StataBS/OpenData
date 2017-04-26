@@ -44,9 +44,11 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="de">teuerung</dcat:keyword>
      <dcat:keyword xml:lang="en">dearth</dcat:keyword>
      <dcat:keyword xml:lang="fr">renchérissement</dcat:keyword>
+     <dcat:keyword xml:lang="it">rincaro</dcat:keyword>
      <dcat:keyword xml:lang="de">index</dcat:keyword>
      <dcat:keyword xml:lang="en">index</dcat:keyword>
      <dcat:keyword xml:lang="fr">indice</dcat:keyword>
+     <dcat:keyword xml:lang="it">indice</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -103,15 +105,19 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="de">bildung</dcat:keyword>
      <dcat:keyword xml:lang="en">education</dcat:keyword>
      <dcat:keyword xml:lang="fr">formation</dcat:keyword>
+     <dcat:keyword xml:lang="it">formazione</dcat:keyword>
      <dcat:keyword xml:lang="de">berufsausbildung</dcat:keyword>
      <dcat:keyword xml:lang="en">apprenticeship</dcat:keyword>
      <dcat:keyword xml:lang="fr">formation professionnelle</dcat:keyword>
+     <dcat:keyword xml:lang="it">	formazione professionale</dcat:keyword>
      <dcat:keyword xml:lang="de">schueler</dcat:keyword>
      <dcat:keyword xml:lang="en">pupils</dcat:keyword>
      <dcat:keyword xml:lang="fr">eleves</dcat:keyword>
+     <dcat:keyword xml:lang="it">scolaro</dcat:keyword>
      <dcat:keyword xml:lang="de">schule</dcat:keyword>
      <dcat:keyword xml:lang="en">school</dcat:keyword>
      <dcat:keyword xml:lang="fr">ecole</dcat:keyword>
+     <dcat:keyword xml:lang="it">scuole</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/15-bildung-wissenschaft.html]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
