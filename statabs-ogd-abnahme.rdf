@@ -38,9 +38,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/prices"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
 
      <dcat:keyword xml:lang="de">preise</dcat:keyword>
      <dcat:keyword xml:lang="en">prices</dcat:keyword>
@@ -104,9 +101,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/education"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
 
      <dcat:keyword xml:lang="de">bildung</dcat:keyword>
      <dcat:keyword xml:lang="en">education</dcat:keyword>
