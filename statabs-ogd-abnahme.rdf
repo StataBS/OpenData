@@ -68,7 +68,7 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
          <dcat:byteSize>55858</dcat:byteSize>
-         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+         <dcat:mediaType><application/vnd.ms-excel></dcat:mediaType>
          <dct:format/>
          <dct:coverage/>
        </dcat:Distribution>
@@ -101,9 +101,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
 
      <dcat:keyword xml:lang="de">bautaetigkeit</dcat:keyword>
      <dcat:keyword xml:lang="en">construction activity</dcat:keyword>
@@ -133,7 +130,7 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
          <dcat:byteSize>115134</dcat:byteSize>
-         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+         <dcat:mediaType><application/vnd.ms-excel></dcat:mediaType>
          <dct:format/>
          <dct:coverage/>
        </dcat:Distribution>
