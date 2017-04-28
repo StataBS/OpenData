@@ -38,7 +38,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/prices"/>
      <dct:language>de</dct:language>
-
      <dcat:keyword xml:lang="de">preise</dcat:keyword>
      <dcat:keyword xml:lang="en">prices</dcat:keyword>
      <dcat:keyword xml:lang="de">teuerung</dcat:keyword>
@@ -49,7 +48,8 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="fr">indice</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html]]></dcat:landingPage>
      <dct:temporal>
-       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-05-31T00:00:00</schema:startDate>
+       <dct:PeriodOfTime>         
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-05-31T00:00:00</schema:startDate>
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-05-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
@@ -101,7 +101,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-
      <dcat:keyword xml:lang="de">bautaetigkeit</dcat:keyword>
      <dcat:keyword xml:lang="en">construction activity</dcat:keyword>
      <dcat:keyword xml:lang="fr">construction</dcat:keyword>
@@ -113,7 +112,8 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html]]></dcat:landingPage>
      <dct:temporal>
-       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-12-31T00:00:00</schema:startDate>
+       <dct:PeriodOfTime>         
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-12-31T00:00:00</schema:startDate>
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
