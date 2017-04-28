@@ -68,7 +68,7 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
          <dcat:byteSize>55858</dcat:byteSize>
-         <dcat:mediaType><application/vnd.ms-excel></dcat:mediaType>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
          <dct:format/>
          <dct:coverage/>
        </dcat:Distribution>
@@ -133,7 +133,7 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dct:license/>
          <dcat:byteSize>115134</dcat:byteSize>
-         <dcat:mediaType><application/vnd.ms-excel></dcat:mediaType>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
          <dct:format/>
          <dct:coverage/>
        </dcat:Distribution>
