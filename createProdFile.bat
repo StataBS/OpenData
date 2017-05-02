@@ -1,0 +1,1 @@
+copy statabs-ogd-abnahme.rdf statabs-ogd.rdf 
