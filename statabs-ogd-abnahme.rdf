@@ -18,7 +18,7 @@ xmlns:schema = "http://schema.org/">
      <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Durchschnittspreise für einzelne Nahrungsmittel, Getränke, Tabakwaren, Heizöl, Treibstoff, Zeitungen und Zeitschriften sowie Konsumationskosten in Restaurants seit 1991. Bei den Nahrungsmitteln, Getränken, Tabakwaren und Mahlzeiten in Personalrestaurants handelt es sich um nationale Durchschnittspreise, bei Heizöl, Treibstoff, Zeitungen, Zeitschriften und den Konsumationspreisen in Restaurants und Cafés um regionale Durchschnittspreise.]]></dct:description>
      <dct:description xml:lang = "en"><![CDATA[The tables show average prices for selected comestible goods, beverages, tobacco products, fuel oil, power fuels, printed press matter and consumption costs in restaurants since 1991. The latter 4 categories apply to regional average prices.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-04-25T00:00:00</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
@@ -38,19 +38,21 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/prices"/>
      <dct:language>de</dct:language>
-
      <dcat:keyword xml:lang="de">preise</dcat:keyword>
      <dcat:keyword xml:lang="en">prices</dcat:keyword>
      <dcat:keyword xml:lang="de">teuerung</dcat:keyword>
      <dcat:keyword xml:lang="en">dearth</dcat:keyword>
      <dcat:keyword xml:lang="fr">renchérissement</dcat:keyword>
+     <dcat:keyword xml:lang="it">rincaro</dcat:keyword>
      <dcat:keyword xml:lang="de">index</dcat:keyword>
      <dcat:keyword xml:lang="en">index</dcat:keyword>
      <dcat:keyword xml:lang="fr">indice</dcat:keyword>
+     <dcat:keyword xml:lang="it">indice</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html]]></dcat:landingPage>
      <dct:temporal>
-       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-05-31T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-05-31T00:00:00</schema:endDate>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-05-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-05-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -59,18 +61,15 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>2663</dct:identifier>
          <dct:description xml:lang="de">Seit der Revision vom Mai 1993 werden die Durchschnittspreise als nach Absatzkanal gewichtetes Mittel berechnet. Gewisse Positionen werden seit der Indexrevision 2005 vom Bundesamt für Statistik nicht mehr publiziert, da die Preishomogenität bei Grundnahrungsmitteln häufig nicht mehr gegeben ist.</dct:description>
          <dct:description xml:lang="en">Since the index revision of May 1993 average prices are weighted by distribution channel. Certain items have been excluded from the price statistic in 2005 due to frequent lack of price homogeneity of staple foods.</dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T00:00:00</dct:issued>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-25T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dct:language>en</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dct:license/>
          <dcat:byteSize>55858</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
-         <dct:format/>
-         <dct:coverage/>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -79,9 +78,9 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3223">
      <dct:identifier><![CDATA[3223@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wohnungsbilanz]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die durch Abbruch, Neu- oder Umbau hervorgerufenen Veränderungen im Wohnungsbestand im Kanton Basel-Stadt auf Ebene Gemeine, sowie für die 19 statistischen Wohnviertel der Stadt  Basel auf. Auf kleinräumiger Ebene geht die Datenreihe bis 2004 zurück, auf kantonaler Ebene bis 1985.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die durch Abbruch, Neu- oder Umbau hervorgerufenen Veränderungen im Wohnungsbestand im Kanton Basel-Stadt auf Ebene Gemeinde, sowie für die 19 statistischen Wohnviertel der Stadt  Basel auf. Auf kleinräumiger Ebene geht die Datenreihe bis 2004 zurück, auf kantonaler Ebene bis 1985.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-04-27T00:00:00</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
@@ -101,20 +100,23 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-
      <dcat:keyword xml:lang="de">bautaetigkeit</dcat:keyword>
      <dcat:keyword xml:lang="en">construction activity</dcat:keyword>
      <dcat:keyword xml:lang="fr">construction</dcat:keyword>
+     <dcat:keyword xml:lang="it">attività edilizia</dcat:keyword>
      <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
      <dcat:keyword xml:lang="en">housing</dcat:keyword>
      <dcat:keyword xml:lang="fr">logement</dcat:keyword>
+     <dcat:keyword xml:lang="it">abitazioni</dcat:keyword>
      <dcat:keyword xml:lang="de">quartier</dcat:keyword>
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
+     <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html]]></dcat:landingPage>
      <dct:temporal>
-       <dct:PeriodOfTime>         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-12-31T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-12-31T00:00:00</schema:endDate>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -122,17 +124,14 @@ xmlns:schema = "http://schema.org/">
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/3223">
          <dct:identifier>3223</dct:identifier>
          <dct:description xml:lang="de">Die Daten beruhen auf der kantonalen Baustatistik. Dargestellt sind bewohnte oder bewohnbare Gebäude. Ausschliesslich von Kollektivhaushaltungen bewohnte Objekte sind nicht Gegenstand der Auswertung. Infolge laufender Datenbereinigungen im kantonalen Gebäude- und Wohnungsregister kann es stets zu entsprechenden Korrekturen am Gebäudebestand kommen.</dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T00:00:00</dct:issued>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-27T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/09/1/t09-1-14.xlsx</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/09/1/t09-1-14.xlsx</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/09/t09-1-14.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dct:license/>
          <dcat:byteSize>115134</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
-         <dct:format/>
-         <dct:coverage/>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
