@@ -191,6 +191,8 @@ xmlns:schema = "http://schema.org/">
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4827">
          <dct:identifier>4827</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Bevölkerungsstatistik (mittlere Wohnbevölkerung).</dct:description>
+         <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
+         <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>         
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4827.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4827.tsv</dcat:downloadURL>
