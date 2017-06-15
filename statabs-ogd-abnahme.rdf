@@ -1224,7 +1224,7 @@ xmlns:schema = "http://schema.org/">
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
 		 <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-		 <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modif		 
+		 <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>		 
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4857.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4857.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
