@@ -100,7 +100,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dcat:keyword xml:lang="de">bautaetigkeit</dcat:keyword>
      <dcat:keyword xml:lang="en">construction activity</dcat:keyword>
@@ -292,7 +292,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -357,7 +357,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory and environment"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -544,7 +544,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Martina.Schriber@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/employment and income"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -605,7 +605,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Martina.Schriber@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/employment and income"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -670,7 +670,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -735,7 +735,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/crime and criminal justice"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/legislation"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -849,7 +849,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/education and science"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/education"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -967,7 +967,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/employment and income"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1195,7 +1195,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/education and science"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/education"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1256,7 +1256,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory and environment"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1317,7 +1317,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory and environment"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1504,7 +1504,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:mathias.bestgen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/culture, media and information society"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/culture"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1561,7 +1561,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Lukas.Mohler@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/employment and income"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1683,7 +1683,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1805,7 +1805,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/employment and income"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1862,7 +1862,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/employment and income"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1919,7 +1919,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Michele.Thommen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/social security"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -1976,7 +1976,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Kuno.Bucher@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/education and science"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/education"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -2220,7 +2220,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Mathias.Bestgen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/social security"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
@@ -2278,7 +2278,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Michele.Thommen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/social security"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -2510,7 +2510,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/public order and safety"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/public-order"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
@@ -2568,7 +2568,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/public order and safety"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/public-order"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
@@ -2626,7 +2626,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Mathias.Bestgen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/social security"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -2687,7 +2687,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Michele.Thommen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/social security"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
@@ -2806,7 +2806,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -2871,7 +2871,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Mathias.Bestgen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/health"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
@@ -2986,7 +2986,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -3043,7 +3043,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:michele.thommen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -3161,7 +3161,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction and housing"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
@@ -3218,7 +3218,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:fabienne.hofer@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory and environment"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
      <dct:language>en</dct:language>
      <dct:language>fr</dct:language>
