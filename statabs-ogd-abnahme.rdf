@@ -192,8 +192,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4827</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Bevölkerungsstatistik (mittlere Wohnbevölkerung).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4827.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4827.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4827.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4827.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -318,8 +318,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4831</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Baustatistik (Gebäudebestand am Jahresende).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4831.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4831.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4831.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4831.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>780</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -377,8 +377,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4832</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die amtliche Vermessung des Kantons Basel-Stadt. Als Grünfläche gelten private und öffentliche bestockte (Wald, übrige) oder humusierte Flächen (Acker, Wiese, Friedhof, Gartenanlage, Gewässervorland, Park, Reben, Schrebergarten, Sportanlage, Tierpark, übrige). Periodische Nachführung alle 6–12 Jahre.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4832.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4832.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4832.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4832.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>772</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -440,8 +440,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4824</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Bevölkerungsstatistik (staatlich anerkannte Religionen, mittlere Wohnbevölkerung).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4824.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4824.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4824.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4824.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>776</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -499,8 +499,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4825</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Bevölkerungsstatistik (Wohnbevölkerung in Privathaushalten am Jahresende).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4825.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4825.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4825.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4825.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>794</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -558,8 +558,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4839</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bilden die Strukturerhebung (SE) des Bundesamt für Statistik und die Arbeitslosenstatistik des Staatsekretariats für Wirtschaft (SECO): Erwerbspersonen aus den Jahren 2010-2014, Hochrechnung auf Basis einer Stichprobe von 5000 Personen pro Jahr.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4839.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4839.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4839.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4839.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>772</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -621,8 +621,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4838</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die Statistik der Unternehmensstruktur (STATENT) des Bundesamt für Statistik.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4838.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4838.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4838.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4838.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>777</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -684,8 +684,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4830</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Baustatistik (Gebäudebestand am Jahresende).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4830.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4830.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4830.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4830.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>775</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -739,8 +739,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4853</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4853.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4853.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4853.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4853.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>173</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -794,8 +794,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4874</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Befragung 55plus wird seit 2011 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt wohnhaften Personen im Alter von 55 oder mehr Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4874.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4874.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4874.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4874.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>142</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -853,8 +853,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4862</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4862.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4862.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4862.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4862.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>319</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -908,8 +908,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4858</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4858.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4858.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4858.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4858.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>330</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -963,8 +963,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4861</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4861.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4861.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4861.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4861.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>263</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1018,8 +1018,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4860</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4860.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4860.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4860.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4860.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>214</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1073,8 +1073,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4859</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4859.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4859.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4859.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4859.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>269</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1128,8 +1128,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4724</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4724.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4724.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4724.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4724.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1187,8 +1187,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4857</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4857.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4857.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4857.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4857.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>314</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1246,8 +1246,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4720</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4720.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4720.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4720.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4720.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1309,8 +1309,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4721</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4721.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4721.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4721.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4721.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>251</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1368,8 +1368,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4865</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Befragung 55plus wird seit 2011 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt wohnhaften Personen im Alter von 55 oder mehr Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4865.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4865.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4865.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4865.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>87</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1427,8 +1427,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4836</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Steuerstatistik (ordentliche Veranlagung natürlicher Personen): Totaler Einkommenssteuerertrag geteilt durch die Anzahl Veranlagungen.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4836.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4836.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4836.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4836.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>787</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1482,8 +1482,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4870</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Jugendbefragung wird seit 2009 in Form einer schriftlichen Befragung bei 1000 Jugendlichen im Alter von 12-18 Jahren, die im Kanton Basel-Stadt in eine öffentliche Schule gehen durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4870.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4870.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4870.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4870.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>83</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1545,8 +1545,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4837</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die Strukturerhebung des Bundesamt für Statistik: gepoolte Daten von 2010 bis 2014.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4837.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4837.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4837.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4837.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>691</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1600,8 +1600,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4855</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4855.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4855.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4855.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4855.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1663,8 +1663,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4833</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Baustatistik (Wohnungsbestand am Jahresende).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4833.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4833.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4833.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4833.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>773</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1718,8 +1718,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4864</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4864.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4864.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4864.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4864.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>68</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1773,8 +1773,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4931</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4931.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4931.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4931.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4931.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>150</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1828,8 +1828,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4932</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4932.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4932.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4932.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4932.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>276</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1883,8 +1883,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4849</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Familienbefragung wird seit 2009 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt angemeldeten Haushalten mit mindestens 1 Kind unter 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4849.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4849.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4849.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4849.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>172</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1946,8 +1946,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4826</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Bildungsstatistik ( Lernende an öffentlichen Schulen mit Elternwohnort Basel-Stadt zu Beginn des jeweiligen Schuljahres; Stichtag im September).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4826.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4826.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4826.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4826.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>755</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2001,8 +2001,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4872</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4872.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4872.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4872.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4872.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>255</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2056,8 +2056,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4933</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4933.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4933.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4933.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4933.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>251</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2119,8 +2119,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4829</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Bevölkerungsstatistik (mittlere Wohnbevölkerung).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4829.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4829.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4829.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4829.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2175,8 +2175,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4718</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Befragung 55plus wird seit 2011 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt wohnhaften Personen im Alter von 55 oder mehr Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4718.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4718.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4718.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4718.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>367</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2230,8 +2230,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4716</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Familienbefragung wird seit 2009 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt angemeldeten Haushalten mit mindestens 1 Kind unter 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4716.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4716.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4716.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4716.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>385</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2285,8 +2285,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4719</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4719.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4719.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4719.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4719.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>334</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2340,8 +2340,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4856</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4856.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4856.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4856.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4856.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>259</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2399,8 +2399,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4828</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Bevölkerungsstatistik (Wohnbevölkerung am Jahresende).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4828.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4828.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4828.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4828.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2455,8 +2455,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4852</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei ca. 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4852.tsvh</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4852.tsvh</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4852.tsvh</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4852.tsvh</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2511,8 +2511,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4854</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei ca. 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4854.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4854.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4854.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4854.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>303</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2570,8 +2570,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4822</dct:identifier>
          <dct:description xml:lang="de">Datengrundlage bilden die kantonale Sozialhilfestatistik (Anzahl Dossiers) und die kantonale Bevölkerungsstatistik (mittlere Wohnbevölkerung).</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4822.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4822.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4822.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4822.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>654</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2626,8 +2626,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4848</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Familienbefragung wird seit 2009 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt angemeldeten Haushalten mit mindestens 1 Kind unter 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4848.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4848.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4848.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4848.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>377</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2685,8 +2685,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4835</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bildet die kantonale Steuerstatistik (ordentliche Veranlagung natürlicher Personen): Totaler Vermögenssteuerertrag geteilt durch die Anzahl Veranlagungen.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4835.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4835.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4835.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4835.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>786</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2748,8 +2748,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4834</dct:identifier>
          <dct:description xml:lang="de">Die Datengrundlage bilden die kantonale Baustatistik und die kantonale Bevölkerungsstatistik: Gesamte Wohnfläche der durch Privatpersonen belegten Wohnungen geteilt durch das Total der dort wohnenden Personen.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4834.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4834.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4834.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4834.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>666</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2804,8 +2804,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4156</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Befragung 55plus wird seit 2011 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt wohnhaften Personen im Alter von 55 oder mehr Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4156.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4156.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4156.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4156.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>166</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2859,8 +2859,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4851</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Befragung 55plus wird seit 2011 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt wohnhaften Personen im Alter von 55 oder mehr Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4851.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4851.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4851.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4851.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>174</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2914,8 +2914,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4127</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4127.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4127.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4127.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4127.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>266</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2973,8 +2973,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4144</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Familienbefragung wird seit 2009 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt angemeldeten Haushalten mit mindestens 1 Kind unter 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4144.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4144.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4144.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4144.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>241</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3028,8 +3028,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4155</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4155.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4155.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4155.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4155.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>263</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3083,8 +3083,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4151</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4151.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4151.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4151.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4151.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>261</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3146,8 +3146,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4150</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4858.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4858.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4858.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4858.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3201,8 +3201,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4875</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Befragung 55plus wird seit 2011 in Form einer schriftlichen Befragung bei 5000 im Kanton Basel-Stadt wohnhaften Personen im Alter von 55 oder mehr Jahren durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4875.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4875.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4875.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4875.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>175</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3256,8 +3256,8 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4850</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Jugendbefragung wird seit 2009 in Form einer schriftlichen Befragung bei 1000 Jugendlichen im Alter von 12-18 Jahren, die im Kanton Basel-Stadt in eine öffentliche Schule gehen durchgeführt.</dct:description>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4850.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4850.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4850.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4850.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>150</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
