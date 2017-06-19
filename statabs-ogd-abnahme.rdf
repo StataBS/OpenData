@@ -259,8 +259,8 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4823.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/blob/master/data/4823.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4823.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4823.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>771</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -751,7 +751,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4853">
          <dct:identifier>4853</dct:identifier>
@@ -808,7 +808,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4874">
          <dct:identifier>4874</dct:identifier>
@@ -869,7 +869,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4862">
          <dct:identifier>4862</dct:identifier>
@@ -926,7 +926,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4858">
          <dct:identifier>4858</dct:identifier>
@@ -983,7 +983,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4861">
          <dct:identifier>4861</dct:identifier>
@@ -1040,7 +1040,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4860">
          <dct:identifier>4860</dct:identifier>
@@ -1097,7 +1097,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4859">
          <dct:identifier>4859</dct:identifier>
@@ -1154,7 +1154,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4724">
          <dct:identifier>4724</dct:identifier>
@@ -1215,7 +1215,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4857">
          <dct:identifier>4857</dct:identifier>
@@ -1276,7 +1276,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4720">
          <dct:identifier>4720</dct:identifier>
@@ -1341,7 +1341,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4721">
          <dct:identifier>4721</dct:identifier>
@@ -1402,7 +1402,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4865">
          <dct:identifier>4865</dct:identifier>
@@ -1520,7 +1520,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4870">
          <dct:identifier>4870</dct:identifier>
@@ -1541,7 +1541,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4837">
      <dct:identifier><![CDATA[4837@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Erwerbstätigenquote]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der erwerbstätigen Wohnbevölkerung an der gesamten erwerbsfähigen Wohnbevölkerung (15 bis 64 Jahre; Nettoerwerbstätigenquote) auf Ebene Wohnviertel in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der erwerbstätigen Wohnbevölkerung an der gesamten erwerbsfähigen Wohnbevölkerung (15 bis 64 Jahre, Nettoerwerbstätigenquote) auf Ebene Wohnviertel in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
      <dct:publisher>
@@ -1642,7 +1642,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4855">
          <dct:identifier>4855</dct:identifier>
@@ -1764,7 +1764,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4864">
          <dct:identifier>4864</dct:identifier>
@@ -2057,7 +2057,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4872">
          <dct:identifier>4872</dct:identifier>
@@ -2114,7 +2114,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4933">
          <dct:identifier>4933</dct:identifier>
@@ -2294,7 +2294,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4716">
          <dct:identifier>4716</dct:identifier>
@@ -2351,7 +2351,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4719">
          <dct:identifier>4719</dct:identifier>
@@ -2408,7 +2408,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4856">
          <dct:identifier>4856</dct:identifier>
@@ -2527,7 +2527,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4852">
          <dct:identifier>4852</dct:identifier>
@@ -2535,8 +2535,8 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4852.tsvh</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4852.tsvh</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4852.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4852.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2585,7 +2585,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4854">
          <dct:identifier>4854</dct:identifier>
@@ -2704,7 +2704,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4848">
          <dct:identifier>4848</dct:identifier>
@@ -2888,7 +2888,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4156">
          <dct:identifier>4156</dct:identifier>
@@ -2945,7 +2945,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4851">
          <dct:identifier>4851</dct:identifier>
@@ -3002,7 +3002,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4127">
          <dct:identifier>4127</dct:identifier>
@@ -3063,7 +3063,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4144">
          <dct:identifier>4144</dct:identifier>
@@ -3120,7 +3120,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4155">
          <dct:identifier>4155</dct:identifier>
@@ -3177,7 +3177,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4151">
          <dct:identifier>4151</dct:identifier>
@@ -3235,14 +3235,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">green space</dcat:keyword>
      <dcat:keyword xml:lang="fr">verdure</dcat:keyword>
      <dcat:keyword xml:lang="it">area verde</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4858]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4150]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4150">
          <dct:identifier>4150</dct:identifier>
@@ -3250,8 +3250,8 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4858.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4858.tsv</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4150.tsv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4150.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3299,7 +3299,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4875">
          <dct:identifier>4875</dct:identifier>
@@ -3356,7 +3356,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/quadrennial"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4850">
          <dct:identifier>4850</dct:identifier>
