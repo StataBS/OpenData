@@ -67,8 +67,8 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-25T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dct:language>en</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:1f0cba44-f7e8-415e-b429-3463d6f3098c/t05-3-01.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:1f0cba44-f7e8-415e-b429-3463d6f3098c/t05-3-01.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>55858</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
@@ -77,9 +77,123 @@ xmlns:schema = "http://schema.org/">
     </dcat:Dataset>
   </dcat:dataset>
   <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2812">
+     <dct:identifier><![CDATA[2812@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Einwohnerdichte nach Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Einwohnerzahl pro ha für den Kanton, für die Gemeinden und die Wohnviertel. Dabei wird die Einwohnerzahl jeweils pro ha Gesamtfläche, pro ha Wohnzone sowie pro ha Wohn- und Industriezone angegeben. Die Datenreihe liegt seit 2007 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dcat:keyword xml:lang="de">wohnen</dcat:keyword>
+     <dcat:keyword xml:lang="en">living</dcat:keyword>
+     <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
+     <dcat:keyword xml:lang="it">abitare</dcat:keyword>
+     <dcat:keyword xml:lang="de">flaeche</dcat:keyword>
+     <dcat:keyword xml:lang="en">surface</dcat:keyword>
+     <dcat:keyword xml:lang="fr">superficie</dcat:keyword>
+     <dcat:keyword xml:lang="it">superficie</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2812">
+         <dct:identifier>2812</dct:identifier>
+         <dct:description xml:lang="de">Die Bevölkerungszahl wurde bis 2012 ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:1382f65b-a276-42ac-853d-27feebb9ca02/t01-1-17.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:1382f65b-a276-42ac-853d-27feebb9ca02/t01-1-17.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>37105</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2813">
+     <dct:identifier><![CDATA[2813@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Bevölkerungsbilanz am Jahresende nach Heimat, Gemeinde und Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen Veränderungen der Einwohnerzahl sowohl für den gesamten Kanton als auch die einzelnen Wohnviertel und Landgemeinden. Die Veränderungen sind differenziert nach Geburten und Todesfälle, Zu- und Wegzug sowie Umzüge. Zusätzlich sind die Daten getrennt nach Schweizer und Ausländer dargestellt. Die Datenreihe liegt seit 2007 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+     <dcat:keyword xml:lang="de">bilanz</dcat:keyword>
+     <dcat:keyword xml:lang="en">balance</dcat:keyword>
+     <dcat:keyword xml:lang="fr">bilan</dcat:keyword>
+     <dcat:keyword xml:lang="it">bilancio</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2813">
+         <dct:identifier>2813</dct:identifier>
+         <dct:description xml:lang="de">Die Bevölkerungszahl wurde bis 2012 ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:8b6d4f7d-9b40-42de-85bf-c06703cde0b5/t01-1-19.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:8b6d4f7d-9b40-42de-85bf-c06703cde0b5/t01-1-19.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>55616</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3223">
      <dct:identifier><![CDATA[3223@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Wohnungsbilanz]]></dct:title>
+     <dct:title xml:lang="de"><![CDATA[Detailhandel]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die durch Abbruch, Neu- oder Umbau hervorgerufenen Veränderungen im Wohnungsbestand im Kanton Basel-Stadt auf Ebene Gemeinde, sowie für die 19 statistischen Wohnviertel der Stadt  Basel auf. Auf kleinräumiger Ebene geht die Datenreihe bis 2004 zurück, auf kantonaler Ebene bis 1985.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-04-27T00:00:00</dct:modified>
@@ -129,8 +243,8 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-27T00:00:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/09/1/t09-1-14.xlsx</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/09/1/t09-1-14.xlsx</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:b1bf9e97-132a-4e76-b8e4-45462ad16e83/t09-1-14.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:b1bf9e97-132a-4e76-b8e4-45462ad16e83/t09-1-14.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>115134</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
