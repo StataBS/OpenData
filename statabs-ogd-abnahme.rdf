@@ -193,7 +193,7 @@ xmlns:schema = "http://schema.org/">
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3223">
      <dct:identifier><![CDATA[3223@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Detailhandel]]></dct:title>
+     <dct:title xml:lang="de"><![CDATA[Wohnungsbilanz]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die durch Abbruch, Neu- oder Umbau hervorgerufenen Veränderungen im Wohnungsbestand im Kanton Basel-Stadt auf Ebene Gemeinde, sowie für die 19 statistischen Wohnviertel der Stadt  Basel auf. Auf kleinräumiger Ebene geht die Datenreihe bis 2004 zurück, auf kantonaler Ebene bis 1985.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-04-27T00:00:00</dct:modified>
