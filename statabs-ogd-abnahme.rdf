@@ -77,6 +77,114 @@ xmlns:schema = "http://schema.org/">
     </dcat:Dataset>
   </dcat:dataset>
   <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3147">
+     <dct:identifier><![CDATA[3147@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Reineinkommen und Reinvermögen nach Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen Mittelwert und Median des Reineinkommens und Reinvermögens für die Wohnviertel und Landgemeinden. Zudem werden die Erträge aus Einkommens- und Vermögenssteuer ausgewiesen. Zusätzlich gibt der Gini-Koeffizient Hinweise über die Gleichmässigkeit der Verteilung von Einkommen und Vermögen.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Ulrich Gräf]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Ulrich-Maximilian.Graef@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/finances"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">steuern</dcat:keyword>
+     <dcat:keyword xml:lang="en">taxes</dcat:keyword>
+     <dcat:keyword xml:lang="fr">impôts</dcat:keyword>
+     <dcat:keyword xml:lang="it">tassa</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/18-oeffentliche-finanzen/steuern.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/3147">
+         <dct:identifier>3147</dct:identifier>
+         <dct:description xml:lang="de">Die Daten beruhen auf den aktuellen Steuerdaten der Steuerverwaltung Basel-Stadt. Ausgewertet werden die einzelnen Veranlagungen von in Basel-Stadt wohnhaften und ganzjährig steuerpflichtigen Personen. Veranlagungen repräsentieren bei Verheirateten und bei in eingetragener Partnerschaft Lebenden zwei Steuerpflichtige.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:f18e6f80-088e-45f1-8554-c645baa9fcf2/t18-2-03.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:f18e6f80-088e-45f1-8554-c645baa9fcf2/t18-2-03.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>33894</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2542">
+     <dct:identifier><![CDATA[2542@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Beschäftigte nach Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Anzahl der Beschäftigten nach Wohnviertel und Landgemeinde. Zusätzlich sind die Angaben der Beschäftigten in Vollzeitäquivalente umgerechnet dargestellt. Die Datenreihe liegt seit 2011 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Martina Schriber]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Martina.Schriber@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">beschaeftigte</dcat:keyword>
+     <dcat:keyword xml:lang="en">employee</dcat:keyword>
+     <dcat:keyword xml:lang="fr">salarié</dcat:keyword>
+     <dcat:keyword xml:lang="it">lavoratore</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/3-erwerbsleben/beschaeftigte.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2542">
+         <dct:identifier>2542</dct:identifier>
+         <dct:description xml:lang="de">Statistik der Unternehmensstruktur (STATENT) des Bundesamt für Statistik</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:de7b780e-6d5c-454c-8217-7988c643b4de/t03-2-02.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:de7b780e-6d5c-454c-8217-7988c643b4de/t03-2-02.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>28345</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2812">
      <dct:identifier><![CDATA[2812@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Einwohnerdichte nach Wohnviertel]]></dct:title>
@@ -101,6 +209,7 @@ xmlns:schema = "http://schema.org/">
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
      <dcat:keyword xml:lang="de">wohnen</dcat:keyword>
      <dcat:keyword xml:lang="en">living</dcat:keyword>
      <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
@@ -113,7 +222,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-12-31T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -158,6 +267,7 @@ xmlns:schema = "http://schema.org/">
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
      <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
      <dcat:keyword xml:lang="en">population</dcat:keyword>
      <dcat:keyword xml:lang="fr">population</dcat:keyword>
@@ -169,8 +279,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung.html]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -185,6 +295,122 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:8b6d4f7d-9b40-42de-85bf-c06703cde0b5/t01-1-19.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>55616</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3206">
+     <dct:identifier><![CDATA[3206@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Gebäudebestand]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen den Bestand, die Gebäudeart und die Bauperiode der Gebäude im Kanton aufgeteilt auf die einzelnen Wohnviertel und Landgemeinden. Die Datenreihe liegt seit 1970 vor, ab 2002 mit jährlichen Zahlen.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Vitus Thali]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">gebaeudeart</dcat:keyword>
+     <dcat:keyword xml:lang="en">building type</dcat:keyword>
+     <dcat:keyword xml:lang="fr">type de bâtiment</dcat:keyword>
+     <dcat:keyword xml:lang="it">tipo d edificio</dcat:keyword>
+     <dcat:keyword xml:lang="de">gebaeude</dcat:keyword>
+     <dcat:keyword xml:lang="en">building</dcat:keyword>
+     <dcat:keyword xml:lang="fr">bâtiment</dcat:keyword>
+     <dcat:keyword xml:lang="it">edificio</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen/gebaeude-wohnungen.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1970-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/3206">
+         <dct:identifier>3206</dct:identifier>
+         <dct:description xml:lang="de">Die Daten ab 2013 stammen vom kantonalen Gebäude- und Wohnungsregister GWR. Infolge stetiger Datenbereinigungen ergeben sich Korrekturen am Gebäudebestand. Die jährliche Veränderung des Gebäudebestandes seit 2012 ist somit nicht nur in der Bautätigkeit begründet.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:be94f09f-533f-46a6-ae69-4b52670b0df5/t09-1-02.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:be94f09f-533f-46a6-ae69-4b52670b0df5/t09-1-02.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>36865</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3207">
+     <dct:identifier><![CDATA[3207@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Leerwohnungen nach Zimmerzahl, Wohnviertel und Gemeinde]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Anzahl leerer Wohnungen nach Wohnviertel und Landgemeinde. Die Angaben sind zusätzlich unterteilt nach der Anzahl der Zimmer pro Wohnung. Ebenfalls ausgewiesen ist die Leerstandsquote pro Wohnviertel und Landgemeinde. Die liegen seit 1995 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Vitus Thali]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
+     <dcat:keyword xml:lang="en">housing</dcat:keyword>
+     <dcat:keyword xml:lang="fr">logement</dcat:keyword>
+     <dcat:keyword xml:lang="it">abitazioni</dcat:keyword>
+     <dcat:keyword xml:lang="de">leerstand</dcat:keyword>
+     <dcat:keyword xml:lang="en">vacancy</dcat:keyword>
+     <dcat:keyword xml:lang="fr">logements vacants</dcat:keyword>
+     <dcat:keyword xml:lang="it">	stato sfitto</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen/leerstand.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-06-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-01T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/3207">
+         <dct:identifier>3207</dct:identifier>
+         <dct:description xml:lang="de">Die Daten werden durch eine stichtagsbezogene Vollerhebung ermittelt. Als Leerwohnung gilt eine Wohnung, welche am Stichtag (1. Juni) unbesetzt, aber bewohnbar ist und zur dauernden Miete von mindestens drei Monaten oder zum Verkauf angeboten wird.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:46821755-9b73-47d6-a6d8-d20c442c065a/t09-2-03.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:46821755-9b73-47d6-a6d8-d20c442c065a/t09-2-03.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>149346</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -228,7 +454,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen.html]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen/gebaeude-wohnungen.html]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-12-31T00:00:00</schema:startDate>
@@ -247,6 +473,172 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:b1bf9e97-132a-4e76-b8e4-45462ad16e83/t09-1-14.xlsx</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>115134</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3224">
+     <dct:identifier><![CDATA[3224@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Wohnungsbestand]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen zum einen die Anzahl Wohnungen nach Zimmerzahl für den gesamten Kanton seit 1990 jährlich. Zum anderen ist die Anzahl Wohnungen für die einzelnen Wohnviertel und Landgemeinden seit 2002 jährlich ausgewiesen.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Vitus Thali]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
+     <dcat:keyword xml:lang="en">housing</dcat:keyword>
+     <dcat:keyword xml:lang="fr">logement</dcat:keyword>
+     <dcat:keyword xml:lang="it">abitazioni</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen/gebaeude-wohnungen.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/3224">
+         <dct:identifier>3224</dct:identifier>
+         <dct:description xml:lang="de">Die Daten beruhen auf der kantonalen Baustatistik. Dargestellt sind bewohnte oder bewohnbare Gebäude. Ausschliesslich von Kollektivhaushaltungen bewohnte Objekte sind nicht Gegenstand der Auswertung. Infolge laufender Datenbereinigungen im kantonalen Gebäude- und Wohnungsregister kann es stets zu entsprechenden Korrekturen am Gebäudebestand kommen.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:edca14ac-4bd3-4096-89a3-b688cea691b9/t09-1-03.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:edca14ac-4bd3-4096-89a3-b688cea691b9/t09-1-03.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>32954</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2802">
+     <dct:identifier><![CDATA[2802@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Gewanderte Personen von/nach NWCH nach Wohnviertel und Alter]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabelle zeigt wie viele Personen in ein Wohnviertel gezogen sind und wie viele weggezogen sind. Die Angaben sind in fünf Altersgruppen unterteilt. Für die Wohnviertel und Landgemeinde sind ausserdem die Wanderungssaldi, also die Summen von Zu- und Wegzügen, ausgewiesen.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+     <dcat:keyword xml:lang="de">zuzug</dcat:keyword>
+     <dcat:keyword xml:lang="en">immigration</dcat:keyword>
+     <dcat:keyword xml:lang="fr">immigration</dcat:keyword>
+     <dcat:keyword xml:lang="it">immigrazione</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/wanderungen.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2802">
+         <dct:identifier>2802</dct:identifier>
+         <dct:description xml:lang="de">Die Bevölkerungszahl wurde bis 2012 ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:5f1ac5d2-df2c-49a4-bed6-d3abf30efd00/t01-4-09.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:5f1ac5d2-df2c-49a4-bed6-d3abf30efd00/t01-4-09.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>27842</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2805">
+     <dct:identifier><![CDATA[2805@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Innerhalb des Kantons umgezogene Personen nach Wohnviertelkombination]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabelle zeigt die Anzahl Personen, die aus einem Wohnviertel in ein anderes gezogen sind. Die Angaben sind als Kreuztabelle dargestellt, so dass für jedes Wohnviertel und die Landgemeinden ersichtlich ist, woher wie viele Personen gekommen sind. Die Datenreihe liegt seit 2004 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">sesshaftigkeit</dcat:keyword>
+     <dcat:keyword xml:lang="en">settledness</dcat:keyword>
+     <dcat:keyword xml:lang="fr">sédentarité</dcat:keyword>
+     <dcat:keyword xml:lang="it">sedentarieta</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/wanderungen.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2805">
+         <dct:identifier>2805</dct:identifier>
+         <dct:description xml:lang="de">Kantonale Bevölkerungsstatistik.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:19132503-b634-44cb-8c5a-f57420df5af0/t01-4-15.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:19132503-b634-44cb-8c5a-f57420df5af0/t01-4-15.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>111292</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -293,7 +685,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4827]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4827]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -358,7 +750,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4823]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4823]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -423,7 +815,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4831]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4831]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -484,7 +876,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4832]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4832]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-01T00:00:00</schema:startDate>
@@ -549,7 +941,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4824]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4824]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -610,7 +1002,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4825]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4825]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-01T00:00:00</schema:startDate>
@@ -671,7 +1063,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">unemployment</dcat:keyword>
      <dcat:keyword xml:lang="fr">chômage</dcat:keyword>
      <dcat:keyword xml:lang="it">disoccupazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4839]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4839]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -736,7 +1128,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4838]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4838]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
@@ -801,7 +1193,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4830]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4830]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -858,7 +1250,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">safety</dcat:keyword>
      <dcat:keyword xml:lang="fr">sécurité</dcat:keyword>
      <dcat:keyword xml:lang="it">sicurezza</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4853]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4853]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -915,7 +1307,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">parliament</dcat:keyword>
      <dcat:keyword xml:lang="fr">parlement</dcat:keyword>
      <dcat:keyword xml:lang="it">parlamento</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4874]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4874]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -976,7 +1368,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4862]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4862]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1033,7 +1425,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4858]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4858]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1090,7 +1482,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">income</dcat:keyword>
      <dcat:keyword xml:lang="fr">revenu</dcat:keyword>
      <dcat:keyword xml:lang="it">reddito</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4861]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4861]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1147,7 +1539,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">taxes</dcat:keyword>
      <dcat:keyword xml:lang="fr">impôts</dcat:keyword>
      <dcat:keyword xml:lang="it">tassa</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4860]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4860]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1204,7 +1596,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">administration</dcat:keyword>
      <dcat:keyword xml:lang="fr">administration</dcat:keyword>
      <dcat:keyword xml:lang="it">amministrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4859]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4859]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1261,7 +1653,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">parliament</dcat:keyword>
      <dcat:keyword xml:lang="fr">parlement</dcat:keyword>
      <dcat:keyword xml:lang="it">parlamento</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4724]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4724]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1322,7 +1714,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">school</dcat:keyword>
      <dcat:keyword xml:lang="fr">ecole</dcat:keyword>
      <dcat:keyword xml:lang="it">scuole</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4857]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4857]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1383,7 +1775,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">quality of life</dcat:keyword>
      <dcat:keyword xml:lang="fr">qualité de vie</dcat:keyword>
      <dcat:keyword xml:lang="it">qualita della vita</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4720]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4720]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1448,7 +1840,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">quality of life</dcat:keyword>
      <dcat:keyword xml:lang="fr">qualité de vie</dcat:keyword>
      <dcat:keyword xml:lang="it">qualita della vita</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4721]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4721]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1509,7 +1901,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">age</dcat:keyword>
      <dcat:keyword xml:lang="fr">age</dcat:keyword>
      <dcat:keyword xml:lang="it">eta</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4865]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4865]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -1570,7 +1962,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4836]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4836]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
@@ -1627,7 +2019,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">leisure</dcat:keyword>
      <dcat:keyword xml:lang="fr">loisirs</dcat:keyword>
      <dcat:keyword xml:lang="it">ricreativo</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4870]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4870]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -1692,7 +2084,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4837]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4837]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-01T00:00:00</schema:startDate>
@@ -1720,7 +2112,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4855">
      <dct:identifier><![CDATA[4855@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Einschätzung Auslandsbevölkerung]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4er Likert-Skala die Zustimmung zur Aussage, dass es grundsätzlich zu viele Menschen aus dem Ausland im Kanton Basel-Stadt gibt. Datenbasis ist die seit 2003 alle 4 Jahre durchgeführte kantonale Bevölkerungsbefragung.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likert-Skala die Zustimmung zur Aussage, dass es grundsätzlich zu viele Menschen aus dem Ausland im Kanton Basel-Stadt gibt. Datenbasis ist die seit 2003 alle 4 Jahre durchgeführte kantonale Bevölkerungsbefragung.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
      <dct:publisher>
@@ -1749,7 +2141,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4855]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4855]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1814,7 +2206,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4833]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4833]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
@@ -1871,7 +2263,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">volunteering</dcat:keyword>
      <dcat:keyword xml:lang="fr">service volontaire</dcat:keyword>
      <dcat:keyword xml:lang="it">volontariato</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4864]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4864]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-01T00:00:00</schema:startDate>
@@ -1928,7 +2320,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">labour market</dcat:keyword>
      <dcat:keyword xml:lang="fr">marché du travail</dcat:keyword>
      <dcat:keyword xml:lang="it">mercato del lavoro</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4931]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4931]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -1985,7 +2377,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">labour market</dcat:keyword>
      <dcat:keyword xml:lang="fr">marché du travail</dcat:keyword>
      <dcat:keyword xml:lang="it">mercato del lavoro</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4932]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4932]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -2013,7 +2405,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4849">
      <dct:identifier><![CDATA[4849@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Gutes Verhältnis zur Nachbarschaft]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4er Likertskala den Anteil Familien mit guten Nachbarschaftsbeziehungen seit 2009. Die Datengrundlage bildet die seit 2009 alle 4 Jahre stattfindende kantonale Familienbefragung.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likertskala den Anteil Familien mit guten Nachbarschaftsbeziehungen seit 2009. Die Datengrundlage bildet die seit 2009 alle 4 Jahre stattfindende kantonale Familienbefragung.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
      <dct:publisher>
@@ -2042,7 +2434,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4849]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4849]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -2107,7 +2499,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4826]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4826]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -2164,7 +2556,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">parliament</dcat:keyword>
      <dcat:keyword xml:lang="fr">parlement</dcat:keyword>
      <dcat:keyword xml:lang="it">parlamento</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4872]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4872]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -2221,7 +2613,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">parliament</dcat:keyword>
      <dcat:keyword xml:lang="fr">parlement</dcat:keyword>
      <dcat:keyword xml:lang="it">parlamento</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4933]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4933]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -2286,7 +2678,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4829]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4829]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -2344,7 +2736,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">support</dcat:keyword>
      <dcat:keyword xml:lang="fr">soutien</dcat:keyword>
      <dcat:keyword xml:lang="it">assistenza</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4718]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4718]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
@@ -2401,7 +2793,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">support</dcat:keyword>
      <dcat:keyword xml:lang="fr">soutien</dcat:keyword>
      <dcat:keyword xml:lang="it">assistenza</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4716]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4716]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -2429,7 +2821,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4719">
      <dct:identifier><![CDATA[4719@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Einschätzung der kulturellen Vielfalt]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4er Likert-Skala die Einschätzung der multikulturellen Zusammensetzung der Bevölkerung. Datenbasis ist die seit 2003 alle 4 Jahre durchgeführte kantonale Bevölkerungsbefragung.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likert-Skala die Einschätzung der multikulturellen Zusammensetzung der Bevölkerung. Datenbasis ist die seit 2003 alle 4 Jahre durchgeführte kantonale Bevölkerungsbefragung.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
      <dct:publisher>
@@ -2458,7 +2850,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4719]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4719]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -2483,10 +2875,10 @@ xmlns:schema = "http://schema.org/">
     </dcat:Dataset>
   </dcat:dataset>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4856">
-     <dct:identifier><![CDATA[4856@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4875">
+     <dct:identifier><![CDATA[4875@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Beitrag Auslandsbevölkerung]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4er Likert-Skala die Zustimmung zur Aussage, dass wir ohne die Menschen aus dem Ausland  nicht so gut leben würden. Datenbasis ist die seit 2003 alle 4 Jahre durchgeführte kantonale Bevölkerungsbefragung.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likert-Skala die Zustimmung zur Aussage, dass wir ohne die Menschen aus dem Ausland  nicht so gut leben würden. Datenbasis ist die seit 2003 alle 4 Jahre durchgeführte kantonale Bevölkerungsbefragung.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
      <dct:publisher>
@@ -2515,7 +2907,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4856]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4856]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -2524,8 +2916,8 @@ xmlns:schema = "http://schema.org/">
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
-       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4856">
-         <dct:identifier>4856</dct:identifier>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4875">
+         <dct:identifier>4875</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
@@ -2576,7 +2968,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4828]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4828]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -2634,7 +3026,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">safety</dcat:keyword>
      <dcat:keyword xml:lang="fr">sécurité</dcat:keyword>
      <dcat:keyword xml:lang="it">sicurezza</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4852]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4852]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -2692,7 +3084,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">safety</dcat:keyword>
      <dcat:keyword xml:lang="fr">sécurité</dcat:keyword>
      <dcat:keyword xml:lang="it">sicurezza</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4854]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4854]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -2753,7 +3145,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4822]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4822]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
@@ -2811,7 +3203,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">support</dcat:keyword>
      <dcat:keyword xml:lang="fr">soutien</dcat:keyword>
      <dcat:keyword xml:lang="it">assistenza</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4848]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4848]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -2872,7 +3264,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4835]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4835]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
@@ -2937,7 +3329,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4834]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4834]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
@@ -2995,7 +3387,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">living</dcat:keyword>
      <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
      <dcat:keyword xml:lang="it">abitare</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4156]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4156]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
@@ -3052,7 +3444,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4851]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4851]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
@@ -3077,8 +3469,8 @@ xmlns:schema = "http://schema.org/">
     </dcat:Dataset>
   </dcat:dataset>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4127">
-     <dct:identifier><![CDATA[4127@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4856">
+     <dct:identifier><![CDATA[4856@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Zufriedenheit mit dem Wohnungsangebot]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likert-Skala die Zufriedenheit der Basler Wohnbevölkerung mit dem Wohnungsangebot im Kanton. Datengrundlage ist die kantonale Bevölkerungsbefragung, die seit 2003 alle 4 Jahre durchgeführt wird.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
@@ -3109,7 +3501,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">living</dcat:keyword>
      <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
      <dcat:keyword xml:lang="it">abitare</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4127]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4127]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -3118,8 +3510,8 @@ xmlns:schema = "http://schema.org/">
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
-       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4127">
-         <dct:identifier>4127</dct:identifier>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4856">
+         <dct:identifier>4856</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
@@ -3170,7 +3562,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">family</dcat:keyword>
      <dcat:keyword xml:lang="fr">famille</dcat:keyword>
      <dcat:keyword xml:lang="it">famiglia</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4144]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4144]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -3227,7 +3619,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4155]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4155]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -3284,7 +3676,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">building</dcat:keyword>
      <dcat:keyword xml:lang="fr">bâtiment</dcat:keyword>
      <dcat:keyword xml:lang="it">edificio</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4151]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4151]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -3349,7 +3741,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">green space</dcat:keyword>
      <dcat:keyword xml:lang="fr">verdure</dcat:keyword>
      <dcat:keyword xml:lang="it">area verde</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4150]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4150]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
@@ -3377,7 +3769,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4875">
      <dct:identifier><![CDATA[4875@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Zufriedenheit mit Sozialkontakten im Wohnumfeld]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt  auf einer 4er Likert-Skala die Zufriedenheit von Personen ab 55 Jahren mit den Sozialkontakten. Datengrundlage ist die kantonale Befragung 55plus, die seit 2011 alle 4 Jahre durchgeführt wird.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt  auf einer 4-stufigen Likert-Skala die Zufriedenheit von Personen ab 55 Jahren mit den Sozialkontakten. Datengrundlage ist die kantonale Befragung 55plus, die seit 2011 alle 4 Jahre durchgeführt wird.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
      <dct:publisher>
@@ -3406,7 +3798,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4875]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4875]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
@@ -3463,7 +3855,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
      <dcat:keyword xml:lang="it">integrazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart.html?id=4850]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4850]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
@@ -3483,6 +3875,404 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>150</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4099">
+     <dct:identifier><![CDATA[4099@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Wohnbevölkerung nach Alter und Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Einwohnerzahl für die einzelnen Wohnviertel und Landgemeinden unterteilt nach Altersgruppen. Die Altersgruppen sind in Fünfjahresschritten dargestellt. Zusätzlich sind die Daten getrennt nach Schweizer und Ausländer dargestellt. Die Daten liegen jeweils für das vorangegangene Jahr vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T15:59:41</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T15:59:41</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:christa.moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:keyword xml:lang="de">altersstruktur</dcat:keyword>
+     <dcat:keyword xml:lang="en">age structure</dcat:keyword>
+     <dcat:keyword xml:lang="fr">structure d age</dcat:keyword>
+     <dcat:keyword xml:lang="it">struttura d eta</dcat:keyword>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/bestand-struktur.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4099">
+         <dct:identifier>4099</dct:identifier>
+         <dct:description xml:lang="de">Die Bevölkerungszahl wurde bis 2012 ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T15:59:41</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-24T15:59:41</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:71d497e1-2581-4585-ae82-28039a2563b4/t01-1-22.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:71d497e1-2581-4585-ae82-28039a2563b4/t01-1-22.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>145742</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/6518">
+     <dct:identifier><![CDATA[6518@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Wohnbevölkerung nach Wohnviertel - Monatsbestand]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Entwicklung der Einwohnerzahl pro Monat des aktuellen Jahres. Die Einwohner sind unterteilt in Schweizer und Ausländer und aufgeteilt auf die 19 Wohnviertel und 2 Landgemeinden des Kantons Basel-Stadt.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:35:14</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:35:14</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/bestand-struktur.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/monthly"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/6518">
+         <dct:identifier>6518</dct:identifier>
+         <dct:description xml:lang="de">Die Bevölkerungszahl wurde bis 2012 ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:35:14</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T11:35:14</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:cb7607d3-a99a-4e4e-bf07-d43f473fd727/t01-0-03.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:cb7607d3-a99a-4e4e-bf07-d43f473fd727/t01-0-03.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>94654</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4100">
+     <dct:identifier><![CDATA[4100@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Wohnbevölkerung nach Heimat und Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Einwohnerzahl nach Staatsangehörigkeit für die einzelnen Wohnviertel und Landgemeinden. Einzeln aufgeführt sind alle seit 2000 vorkommenden Herkunftsländer sowie insgesamt der jeweilige Ausländeranteil. Die Datenreihe liegt seit 2000 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">auslaender</dcat:keyword>
+     <dcat:keyword xml:lang="en">foreigner</dcat:keyword>
+     <dcat:keyword xml:lang="fr">étranger</dcat:keyword>
+     <dcat:keyword xml:lang="it">straniero</dcat:keyword>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/bestand-struktur.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4100">
+         <dct:identifier>4100</dct:identifier>
+         <dct:description xml:lang="de">Die Bevölkerungszahl wurde bis 2012 ermittelt, indem der Vormonatsbestand durch die Berücksichtigung natürlicher und räumlicher Ereignisse fortgeschrieben wurde. Seit 2013 basiert die Bevölkerungsstatistik direkt auf Auswertungen aus dem kantonalen Einwohnerregister.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:9bbc4394-5560-4a5a-874d-2738418949c4/t01-1-23.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:9bbc4394-5560-4a5a-874d-2738418949c4/t01-1-23.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>171517</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2837">
+     <dct:identifier><![CDATA[2837@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Lebendgeborene nach Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Geborenen für die einzelnen Wohnviertel und Landgemeinden. Zusätzlich sind die Daten getrennt nach Schweizer und Ausländer dargestellt. Die Datenreihe liegt seit 2000 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+     <dcat:keyword xml:lang="de">geburten</dcat:keyword>
+     <dcat:keyword xml:lang="en">birth</dcat:keyword>
+     <dcat:keyword xml:lang="fr">naissances</dcat:keyword>
+     <dcat:keyword xml:lang="it">nascite</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/geburten-todesfaelle.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2837">
+         <dct:identifier>2837</dct:identifier>
+         <dct:description xml:lang="de">Kantonale Bevölkerungsstatistik</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:96243d2b-e857-4d9b-abb1-19b320bd1ed5/t01-3-14.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:96243d2b-e857-4d9b-abb1-19b320bd1ed5/t01-3-14.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>37301</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2838">
+     <dct:identifier><![CDATA[2838@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Gestorbene nach Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Gestorbenen für die einzelnen Wohnviertel und Landgemeinden. Zusätzlich sind die Daten getrennt nach Schweizer und Ausländer dargestellt. Die Datenreihe liegt seit 2000 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+     <dcat:keyword xml:lang="de">todesfälle</dcat:keyword>
+     <dcat:keyword xml:lang="en">death</dcat:keyword>
+     <dcat:keyword xml:lang="fr">décès</dcat:keyword>
+     <dcat:keyword xml:lang="it">decessi</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/geburten-todesfaelle.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2838">
+         <dct:identifier>2838</dct:identifier>
+         <dct:description xml:lang="de">Kantonale Bevölkerungsstatistik.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:fa3abec2-8b61-4d8b-92a8-558400fc5c15/t01-3-25.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:fa3abec2-8b61-4d8b-92a8-558400fc5c15/t01-3-25.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>39258</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3980">
+     <dct:identifier><![CDATA[3980@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Arbeitsstätten nach Branche und Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Anzahl Arbeitsstätten zum einen unterteilt nach Branchen für den gesamten Kanton und zum anderen aufgeteilt nach Wohnviertel. Die Datenreihe liegt seit 2011 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Martina Schriber]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Martina.Schriber@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:keyword xml:lang="de">unternehmen</dcat:keyword>
+     <dcat:keyword xml:lang="en">businesses</dcat:keyword>
+     <dcat:keyword xml:lang="fr">entreprises</dcat:keyword>
+     <dcat:keyword xml:lang="it">imprese</dcat:keyword>
+     <dcat:keyword xml:lang="de">branche</dcat:keyword>
+     <dcat:keyword xml:lang="en">economic branch</dcat:keyword>
+     <dcat:keyword xml:lang="fr">branche économique</dcat:keyword>
+     <dcat:keyword xml:lang="it">rami economici</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/3-erwerbsleben/beschaeftigte.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/3980">
+         <dct:identifier>3980</dct:identifier>
+         <dct:description xml:lang="de">Die Daten beruhen auf der Statistik der Unternehmensstruktur (STATENT), die vom Bundesamt für Statistik geführt wird. Sie basiert auf den Registern der AHV-Ausgleichskassen und stellt damit einen Wechsel der Methoden von der Vollerhebung zu den Registerdaten dar. Die STATENT löst die letztmalig 2008 durchgeführte Betriebszählung (BZ) ab.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:2a06ebea-3f8e-4fcb-abf7-279397da0b6e/t03-2-08.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:2a06ebea-3f8e-4fcb-abf7-279397da0b6e/t03-2-08.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>32424</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5216">
+     <dct:identifier><![CDATA[5216@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Gebäudebilanz nach Wohnviertel]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Gebäudebilanz im Verlauf eines Jahres. Die baulichen Veränderungen werden nach Neubau, Abbruch und Korrektur differenziert. Ausserdem erhalten die Tabellen Angaben über die Anzahl Stockwerke, Wohnungen, und Zimmer pro Wohnung. Alle Daten liegen differenziert nach Wohnviertel und Landgemeinden seit 2004 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt StatA]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Vitus Thali]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Vitus.Thali@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bautaetigkeit</dcat:keyword>
+     <dcat:keyword xml:lang="en">construction activity</dcat:keyword>
+     <dcat:keyword xml:lang="fr">construction</dcat:keyword>
+     <dcat:keyword xml:lang="it">attività edilizia</dcat:keyword>
+     <dcat:keyword xml:lang="de">gebaeude</dcat:keyword>
+     <dcat:keyword xml:lang="en">building</dcat:keyword>
+     <dcat:keyword xml:lang="fr">bâtiment</dcat:keyword>
+     <dcat:keyword xml:lang="it">edificio</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen/gebaeude-wohnungen.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-12-31T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/5216">
+         <dct:identifier>5216</dct:identifier>
+         <dct:description xml:lang="de">Die Daten beruhen auf der kantonalen Baustatistik. Dargestellt sind bewohnte oder bewohnbare Gebäude. Ausschliesslich von Kollektivhaushaltungen bewohnte Objekte sind nicht Gegenstand der Auswertung. Infolge laufender Datenbereinigungen im kantonalen Gebäude- und Wohnungsregister kann es stets zu entsprechenden Korrekturen am Gebäudebestand kommen.</dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-02T00:00:00</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:fefcb3e8-daff-46ff-a4ff-325a49eca566/t09-1-13.xlsx</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dam/jcr:fefcb3e8-daff-46ff-a4ff-325a49eca566/t09-1-13.xlsx</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>101972</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
