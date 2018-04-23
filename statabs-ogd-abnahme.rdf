@@ -4322,7 +4322,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4334.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4372,7 +4372,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4338.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4422,7 +4422,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4259.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4472,7 +4472,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4257.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4523,7 +4523,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4248.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4573,7 +4573,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4261.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4623,7 +4623,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5799.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4677,7 +4677,7 @@ Im Kanton Basel-Stadt werden zudem 50% der Energieproduktion aus der Kehrichtver
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4221.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4729,7 +4729,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4231.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4779,7 +4779,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4330.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4829,7 +4829,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4239.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4879,7 +4879,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4332.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4929,7 +4929,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4309.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -4979,7 +4979,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4264.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5029,7 +5029,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4297.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5079,7 +5079,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4260.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5129,7 +5129,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4258.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5179,7 +5179,7 @@ Für die Wasserqualität ist entscheidend, wie viele Schadstoffe trotz Kläranla
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4246.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5233,7 +5233,7 @@ Für detaillierte Angaben zur Methodik der kantonalen Bevölkerungsstatistik sie
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4318.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5283,7 +5283,7 @@ Für detaillierte Angaben zur Methodik der kantonalen Bevölkerungsstatistik sie
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4243.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5333,7 +5333,7 @@ Für detaillierte Angaben zur Methodik der kantonalen Bevölkerungsstatistik sie
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4307.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5383,7 +5383,7 @@ Für detaillierte Angaben zur Methodik der kantonalen Bevölkerungsstatistik sie
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4284.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5433,7 +5433,7 @@ Für detaillierte Angaben zur Methodik der kantonalen Bevölkerungsstatistik sie
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4251.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5485,7 +5485,7 @@ Der Indikator berücksichtigt die vier Hauptkategorien der Arealstatistik (Stand
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4249.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5539,7 +5539,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4253.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5592,7 +5592,7 @@ Der Bruttoenergieverbrauch wird für die leitungsgebundenen Energieträger erhob
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4230.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5645,7 +5645,7 @@ Die Berechnungsmethode verwendet den Produktionsansatz. Dabei wird die Wertschö
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4323.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5697,7 +5697,7 @@ Die CO<sub>2</sub>-Emissionen werden ausgehend vom Bruttoenergieverbrauch gemäs
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4299.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5747,7 +5747,7 @@ Die CO<sub>2</sub>-Emissionen werden ausgehend vom Bruttoenergieverbrauch gemäs
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4302.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5797,7 +5797,7 @@ Die CO<sub>2</sub>-Emissionen werden ausgehend vom Bruttoenergieverbrauch gemäs
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4335.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5847,7 +5847,7 @@ Die CO<sub>2</sub>-Emissionen werden ausgehend vom Bruttoenergieverbrauch gemäs
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4328.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5900,7 +5900,7 @@ Die Daten werden im Rahmen der kantonalen Energiestatistik bei den Energieversor
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4224.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -5953,7 +5953,7 @@ Alle bis zum Erhebungsjahr eingebauten Schallschutzfenster, welche durch Kantons
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4268.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6003,7 +6003,7 @@ Alle bis zum Erhebungsjahr eingebauten Schallschutzfenster, welche durch Kantons
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4298.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6053,7 +6053,7 @@ Alle bis zum Erhebungsjahr eingebauten Schallschutzfenster, welche durch Kantons
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4273.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6103,7 +6103,7 @@ Alle bis zum Erhebungsjahr eingebauten Schallschutzfenster, welche durch Kantons
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4226.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6156,7 +6156,7 @@ Skalierung des Bruttoenergieverbrauchs über das Bruttoinlandprodukt (BIP) sowie
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4229.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6209,7 +6209,7 @@ Summe der von ausserhalb des Kantons importierten Energie dividiert durch den ge
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4225.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6259,7 +6259,7 @@ Summe der von ausserhalb des Kantons importierten Energie dividiert durch den ge
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4222.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6309,7 +6309,7 @@ Summe der von ausserhalb des Kantons importierten Energie dividiert durch den ge
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4329.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6359,7 +6359,7 @@ Summe der von ausserhalb des Kantons importierten Energie dividiert durch den ge
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4274.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6411,7 +6411,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4278.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6461,7 +6461,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4312.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6511,7 +6511,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4266.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6561,7 +6561,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4310.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6611,7 +6611,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4316.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6661,7 +6661,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4236.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6711,7 +6711,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4291.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6761,7 +6761,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4280.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6811,7 +6811,7 @@ Die Jahresmittelwerte berechnen sich aus den Messdaten verschiedener Stationen i
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4252.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6864,7 +6864,7 @@ Die Anzahl Grenzwertüberschreitungen basiert auf den Stunden-Mittelwerten versc
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4279.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6914,7 +6914,7 @@ Die Anzahl Grenzwertüberschreitungen basiert auf den Stunden-Mittelwerten versc
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4277.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -6964,7 +6964,7 @@ Die Anzahl Grenzwertüberschreitungen basiert auf den Stunden-Mittelwerten versc
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4228.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7017,7 +7017,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4300.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7067,7 +7067,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4263.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7117,7 +7117,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4295.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7167,7 +7167,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4314.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7217,7 +7217,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5800.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7267,7 +7267,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4292.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7317,7 +7317,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4256.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7367,7 +7367,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4306.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7417,7 +7417,7 @@ Die Summe der Tage eines Jahres, an denen das Maximum der Lufttemperatur über 3
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4315.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7469,7 +7469,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4301.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7519,7 +7519,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4308.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7571,7 +7571,7 @@ Die Daten zur landwirtschaftlichen Nutzfläche werden im Rahmen der landwirtscha
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4254.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7624,7 +7624,7 @@ Der LBI wird auf Basis der jährlichen Werte der Konzentrationen der drei Schads
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4275.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7676,7 +7676,7 @@ Die angegebenen Werte beruhen auf Modellierungen. Die Lärmimmission an den Geb�
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4269.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7726,7 +7726,7 @@ Die angegebenen Werte beruhen auf Modellierungen. Die Lärmimmission an den Geb�
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4270.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7776,7 +7776,7 @@ Die angegebenen Werte beruhen auf Modellierungen. Die Lärmimmission an den Geb�
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4267.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7826,7 +7826,7 @@ Die angegebenen Werte beruhen auf Modellierungen. Die Lärmimmission an den Geb�
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4241.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7876,7 +7876,7 @@ Die angegebenen Werte beruhen auf Modellierungen. Die Lärmimmission an den Geb�
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4296.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7929,7 +7929,7 @@ Die Daten basieren auf der Auswertung (Stichtag) der durch die Motorfahrzeugkont
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4325.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -7979,7 +7979,7 @@ Die Daten basieren auf der Auswertung (Stichtag) der durch die Motorfahrzeugkont
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5797.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8029,7 +8029,7 @@ Die Daten basieren auf der Auswertung (Stichtag) der durch die Motorfahrzeugkont
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4311.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8083,7 +8083,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4223.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8133,7 +8133,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4232.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8183,7 +8183,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4250.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8233,7 +8233,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4283.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8283,7 +8283,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4235.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8333,7 +8333,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4244.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8383,7 +8383,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4294.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8433,7 +8433,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4293.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8483,7 +8483,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4304.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8533,7 +8533,7 @@ Für den Kanton Basel-Stadt sind die Zahlen vor 2010 der Statistik der erneuerba
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4238.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8587,7 +8587,7 @@ Im Kanton Basel-Stadt werden zusätzlich Sonderabfälle mit berücksichtigt.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4331.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8637,7 +8637,7 @@ Im Kanton Basel-Stadt werden zusätzlich Sonderabfälle mit berücksichtigt.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4245.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8690,7 +8690,7 @@ Der Rindviehbestand wird im Rahmen der Landwirtschaftlichen Betriebsstrukturhebu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4276.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8744,7 +8744,7 @@ Im Kanton Basel-Stadt werden zusätzlich Sonderabfälle mit berücksichtigt.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4337.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8794,7 +8794,7 @@ Im Kanton Basel-Stadt werden zusätzlich Sonderabfälle mit berücksichtigt.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4317.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8846,7 +8846,7 @@ Zu den Siedlungsflächen werden in der Arealstatistik die folgenden Kategorien g
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4255.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8896,7 +8896,7 @@ Zu den Siedlungsflächen werden in der Arealstatistik die folgenden Kategorien g
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4333.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8946,7 +8946,7 @@ Zu den Siedlungsflächen werden in der Arealstatistik die folgenden Kategorien g
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4227.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -8996,7 +8996,7 @@ Zu den Siedlungsflächen werden in der Arealstatistik die folgenden Kategorien g
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4272.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9049,7 +9049,7 @@ Die Jahresmittelwerte der einzelnen Kategorien basieren auf den Messwerten versc
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4281.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9099,7 +9099,7 @@ Die Jahresmittelwerte der einzelnen Kategorien basieren auf den Messwerten versc
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4285.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9149,7 +9149,7 @@ Die Jahresmittelwerte der einzelnen Kategorien basieren auf den Messwerten versc
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4247.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9202,7 +9202,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4322.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9255,7 +9255,7 @@ Skalierung des Stromverbrauchs über die mittlere Wohnbevölkerung. Die Daten zu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4321.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9305,7 +9305,7 @@ Skalierung des Stromverbrauchs über die mittlere Wohnbevölkerung. Die Daten zu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4303.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9355,7 +9355,7 @@ Skalierung des Stromverbrauchs über die mittlere Wohnbevölkerung. Die Daten zu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4265.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9405,7 +9405,7 @@ Skalierung des Stromverbrauchs über die mittlere Wohnbevölkerung. Die Daten zu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4242.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9455,7 +9455,7 @@ Skalierung des Stromverbrauchs über die mittlere Wohnbevölkerung. Die Daten zu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4262.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9505,7 +9505,7 @@ Skalierung des Stromverbrauchs über die mittlere Wohnbevölkerung. Die Daten zu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4336.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9555,7 +9555,7 @@ Skalierung des Stromverbrauchs über die mittlere Wohnbevölkerung. Die Daten zu
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4319.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9609,7 +9609,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5798.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9659,7 +9659,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4290.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9709,7 +9709,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4288.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9759,7 +9759,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4237.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9809,7 +9809,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4240.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9862,7 +9862,7 @@ Im Kanton Basel-Stadt werden die Daten zum Wasserverbrauch von den Industriellen
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4234.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9915,7 +9915,7 @@ Im Kanton Basel-Stadt werden die Daten zum Wasserverbrauch von den Industriellen
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4233.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9967,7 +9967,7 @@ Die Berechnung dieses Indikators basiert auf dem Gebäude- und Wohnungsregister 
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4320.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -10018,7 +10018,7 @@ Die Berechnung dieses Indikators basiert auf dem Gebäude- und Wohnungsregister 
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4287.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>2018-04-23</dcat:mediaType>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
