@@ -4307,7 +4307,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4356,8 +4356,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4338]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4407,7 +4407,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4457,7 +4457,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4507,7 +4507,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4531,7 +4531,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5799">
      <dct:identifier><![CDATA[5799@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Anteil biologisch bewirtschafteter Landwirtschaftsfläche]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-05-0511' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Anteil der biologisch bewirtschafteten Fläche in Prozent der gesamten landwirtschaftlichen Nutzfläche. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -4556,8 +4556,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=5799]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4607,7 +4607,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4656,8 +4656,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4231]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4731,7 +4731,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4239">
      <dct:identifier><![CDATA[4239@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Ausbaugrad der Abwasserreinigungsanlagen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-16-1614' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der mittlere Ausbaugrad der Abwasserreinigungsanlagen (ARAs) zeigt das Potential der ARA-Infrastrukturen für die Reinigung der zugeführten Abwässer. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -4756,8 +4756,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4239]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4781,7 +4781,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4332">
      <dct:identifier><![CDATA[4332@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Bauabfälle]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährliche Menge an mineralischen Bauabfällen (ohne unverschmutzen Aushub), welche auf Inertstoffdeponien entsorgt werden. <br><br>Inerte Bauabfälle bestehen zu mehr als 95% aus gesteinsähnlichen Bestandteilen wie Beton, Ziegeln, Backsteinen, Mauerabbruch, Asbestzement («Eternit»), Glas oder Strassenaufbruch. Als chemisch inert (lat. für untätig, unbeteiligt, träge) bezeichnet man Substanzen, die mit potenziellen Reaktionspartnern (Luft, Wasser) nicht oder nur in verschwindend geringem Masse reagieren. Inertabfälle lösen sich nicht auf, sind nicht brennbar und bauen sich nicht biologisch ab. Sie beeinträchtigen andere Materialien, mit denen sie in Berührung kommen nicht in einer Weise, die zu Umweltverschmutzung führt oder sich negativ auf die menschliche Gesundheit auswirken könnte. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Jährliche Menge an mineralischen Bauabfällen (ohne unverschmutzen Aushub), welche auf Inertstoffdeponien entsorgt werden. Inerte Bauabfälle bestehen zu mehr als 95% aus gesteinsähnlichen Bestandteilen wie Beton, Ziegeln, Backsteinen, Mauerabbruch, Asbestzement («Eternit»), Glas oder Strassenaufbruch. Als chemisch inert (lat. für untätig, unbeteiligt, träge) bezeichnet man Substanzen, die mit potenziellen Reaktionspartnern (Luft, Wasser) nicht oder nur in verschwindend geringem Masse reagieren. Inertabfälle lösen sich nicht auf, sind nicht brennbar und bauen sich nicht biologisch ab. Sie beeinträchtigen andere Materialien, mit denen sie in Berührung kommen nicht in einer Weise, die zu Umweltverschmutzung führt oder sich negativ auf die menschliche Gesundheit auswirken könnte. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -4857,7 +4857,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4907,7 +4907,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4957,7 +4957,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -4981,7 +4981,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4258">
      <dct:identifier><![CDATA[4258@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Belastete Standorte nach ihrer altlastenrechtlichen Bewertung]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt alle rechtskräftigen belasteten Standorte im Kanton nach ihrer altlastenrechtlichen Beurteilung. Belastete Standorte sind Areale, auf denen der Untergrund durch Ablagerungen von Abfällen, durch betriebliche Tätigkeiten oder durch Unfälle nachweislich oder mit grosser Wahrscheinlichkeit verunreinigt ist. Es gibt  Ablagerungs-, Betriebs- und Unfallstandorte.<br> ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt alle rechtskräftigen belasteten Standorte im Kanton nach ihrer altlastenrechtlichen Beurteilung. Belastete Standorte sind Areale, auf denen der Untergrund durch Ablagerungen von Abfällen, durch betriebliche Tätigkeiten oder durch Unfälle nachweislich oder mit grosser Wahrscheinlichkeit verunreinigt ist. Es gibt  Ablagerungs-, Betriebs- und Unfallstandorte. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -5007,7 +5007,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5057,7 +5057,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5107,7 +5107,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1971-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5131,7 +5131,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4243">
      <dct:identifier><![CDATA[4243@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Biodiversität der Fliessgewässer]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-16-1613' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Die Biodiversität und der biologische Zustand von Fliessgewässern lassen sich Anhand des Vorhandenseins und der Zusammensetzung von Kleinlebewesen der Gewässersohle (Makrozoobenthos) und der Fischfauna bewerten. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -5156,8 +5156,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4243]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5207,7 +5207,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5231,7 +5231,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4284">
      <dct:identifier><![CDATA[4284@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Biotopwert]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1509' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Biotopwert umschreibt die ökologische Bedeutung eines Baumbestandes anhand der drei Hauptkriterien Strukturvielfalt, Artenvielfalt und Naturnähe. Er ist somit eine ökologische Masszahl zur Beurteilung von Wäldern als Lebensraum für Tiere und Pflanzen. Der Biotopwert wird in die drei Klassen «Hoch», «Mittel» und «Gering» eingeteilt. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -5256,8 +5256,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4284]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1984-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5307,7 +5307,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5357,7 +5357,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5407,7 +5407,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5457,7 +5457,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5481,7 +5481,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4299">
      <dct:identifier><![CDATA[4299@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[CO2-Emissionen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Summe der aus den kantonalen Energieverbräuchen resultierenden CO&2&-Emissionen in die Atmosphäre.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Summe der aus den kantonalen Energieverbräuchen resultierenden CO2-Emissionen in die Atmosphäre.  ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -5506,8 +5506,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4299]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5531,7 +5531,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4302">
      <dct:identifier><![CDATA[4302@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[CO2-Emissionen Neuzulassungen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Durchschnittliche CO&2&-Emissionen der innerhalb eines Jahres neu immatrikulierten und in Verkehr gesetzten Motorfahrzeuge im jeweiligen Kanton. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Durchschnittliche CO2-Emissionen der innerhalb eines Jahres neu immatrikulierten und in Verkehr gesetzten Motorfahrzeuge im jeweiligen Kanton. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -5557,7 +5557,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5607,7 +5607,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5657,7 +5657,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5706,8 +5706,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4268]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5757,7 +5757,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5807,7 +5807,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5857,7 +5857,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5907,7 +5907,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -5957,7 +5957,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6006,8 +6006,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4222]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6057,7 +6057,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6107,7 +6107,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6131,7 +6131,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4278">
      <dct:identifier><![CDATA[4278@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Feinstaub-Immissionen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Jahresmittelwert der Feinstaub-Immissionen an verschiedenen Messstandorten in den Kantonen Basel-Stadt und Basel-Landschaft. Unter Feinstaub (PM10) versteht man Partikel, die kleiner sind als 10 Mikrometer. Dieser Staub ist ein physikalisch-chemisch komplexes Gemisch. Er entsteht bei industriellen und gewerblichen Produktionsprozessen, Verbrennungsprozessen, mechanischen Prozessen (Abrieb, Aufwirbelung) sowie durch sekundäre Bildung (aus SO&2&, NO&x&, NH&3&, VOC). Feinstaub (PM10) ist in seiner Zusammensetzung sehr vielfältig und kann Russ, Schwermetalle, Sulfat, Nitrat, Ammonium, organischen Kohlenstoff, polyzyklische aromatische Kohlenwasserstoffe oder Dioxine/Furane enthalten. <br>Der gesetzlich festgelegte Grenzwert gemäss Luftreinhalte-Verordnung beträgt für den Jahresmittelwert von Feinstaub (PM10) 20 µg/m<sup>3</sup>.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Jahresmittelwert der Feinstaub-Immissionen an verschiedenen Messstandorten in den Kantonen Basel-Stadt und Basel-Landschaft. Unter Feinstaub (PM10) versteht man Partikel, die kleiner sind als 10 Mikrometer. Dieser Staub ist ein physikalisch-chemisch komplexes Gemisch. Er entsteht bei industriellen und gewerblichen Produktionsprozessen, Verbrennungsprozessen, mechanischen Prozessen (Abrieb, Aufwirbelung) sowie durch sekundäre Bildung (aus SO2, NOx, NH3, VOC). Feinstaub (PM10) ist in seiner Zusammensetzung sehr vielfältig und kann Russ, Schwermetalle, Sulfat, Nitrat, Ammonium, organischen Kohlenstoff, polyzyklische aromatische Kohlenwasserstoffe oder Dioxine/Furane enthalten. Der gesetzlich festgelegte Grenzwert gemäss Luftreinhalte-Verordnung beträgt für den Jahresmittelwert von Feinstaub (PM10) 20 µg/m3.  ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -6157,7 +6157,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6207,7 +6207,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6257,7 +6257,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6307,7 +6307,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6357,7 +6357,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6381,7 +6381,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4236">
      <dct:identifier><![CDATA[4236@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Gelöster Organischer Kohlenstoff (DOC)]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-16-1607' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der im Wasser gelöste organische Kohlenstoff (dissolved organic carbon, DOC) ist ein Summenparameter für verschiedene natürliche und industriell hergestellte organische Substanzen. Er wird im gereinigten Abwasser in den Abläufen der Abwasserreinigungsanlagen (ARA) gemessen.  ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -6406,8 +6406,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4236]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6431,7 +6431,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4291">
      <dct:identifier><![CDATA[4291@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Gepflegte Jungwaldfläche]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1512' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Fläche, auf welcher Jungwald gefplegt wird. Unter Jungwaldpflege sind gezielte waldbauliche Eingriffe zu verstehen, welche die Durchmischung der Baumarten fördern, die Stammqualität verbessern und die Resistenz der Bäume gegenüber mechanischen Belastungen (z.B. Schneelast) erhöhen. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -6456,8 +6456,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4291]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6507,7 +6507,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6557,7 +6557,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6581,7 +6581,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4279">
      <dct:identifier><![CDATA[4279@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Grenzwertüberschreitungen Ozon]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Anzahl Stunden-Mittelwerte pro Jahr, welche über dem in der Luftreinhalte-Verordnung (LRV) gesetzlich festgelegten Grenzwert von 120 µg/m<sup>3</sup> liegen, unterschieden nach Art der Lage der Messstationen. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Anzahl Stunden-Mittelwerte pro Jahr, welche über dem in der Luftreinhalte-Verordnung (LRV) gesetzlich festgelegten Grenzwert von 120 µg/m3 liegen, unterschieden nach Art der Lage der Messstationen. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -6607,7 +6607,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6656,8 +6656,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4277]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6706,8 +6706,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4228]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1962-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6757,7 +6757,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6807,7 +6807,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6831,7 +6831,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4314">
      <dct:identifier><![CDATA[4314@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Hochwasser]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Anteil der beobachteten Flüsse mit einem Hochwasserereignis im jeweiligen Jahr. Wird bei einem Oberflächengewässer eine Abflussmenge überschritten, welche im Schnitt nur alle 10 Jahre vorkommt, dann gilt dieses Ereignis als Hochwasserereignis (der sogenannte HQ10-Wert entspricht dem Abfluss eines Gewässers in m<sup>3</sup>/s, der statistisch betrachtet alle 10 Jahre überschritten wird).  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Anteil der beobachteten Flüsse mit einem Hochwasserereignis im jeweiligen Jahr. Wird bei einem Oberflächengewässer eine Abflussmenge überschritten, welche im Schnitt nur alle 10 Jahre vorkommt, dann gilt dieses Ereignis als Hochwasserereignis (der sogenannte HQ10-Wert entspricht dem Abfluss eines Gewässers in m3/s, der statistisch betrachtet alle 10 Jahre überschritten wird).  ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -6856,8 +6856,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4314]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6881,7 +6881,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5800">
      <dct:identifier><![CDATA[5800@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Holzernte nach Sortimenten]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1503' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Jährlich geerntete Holzmenge nach Sortimenten (Stamm-, Energie- und Industrieholz) in den Kantonen Basel-Stadt und Basel-Landschaft. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -6906,8 +6906,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=5800]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -6957,7 +6957,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7056,8 +7056,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4315]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7081,9 +7081,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4301">
      <dct:identifier><![CDATA[4301@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Jahresmitteltemperatur]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr gemessenen Lufttemperatur. Das 30-jährige gleitende Mittel der Lufttemperatur ist ein Indikator für den längerfristigen Entwicklungstrend der Lufttemperatur.
-<br><br>
-Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg gemessenen Lufttemperatur. Der Wert des 30-jährigen gleitenden Mittels eines Jahres ist der Mittelwert der Jahresmittelwerte über einen Zeitraum von -14 bis +15 Jahren und zeigt die längerfristige, geglättete Entwicklung. <br>Die Temperaturmessungen erfolgen an der Meteorologischen Station Basel-Binningen in 2 m über Grund (317 m ü. M; 47°33&#039; N / 7°35&#039; E; seit 1929). Die historischen Messungen vor 1929 fanden an verschiedenen Orten in und um Basel statt, u.a. am Heuberg 16 (1755-1804) oder beim Bernoullianum (1874-1941), und wurden auf den heutigen Standort reduziert, d.h. statistisch angeglichen (siehe M. Bider, H. Schüepp & H. von Rudloff (1958): Die Reduktion der]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr gemessenen Lufttemperatur. Das 30-jährige gleitende Mittel der Lufttemperatur ist ein Indikator für den längerfristigen Entwicklungstrend der Lufttemperatur. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -7133,7 +7131,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4308">
      <dct:identifier><![CDATA[4308@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Landschaftszerschneidung]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-03-0303' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Zerschneidungsgrad der Landschaft. Der  Begriff «Landschaftszerschneidung» beschreibt dabei die räumliche Trennung von Landschaftselementen durch Barrieren (Verkehrswege, Siedlungen, etc.). ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -7209,7 +7207,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7259,7 +7257,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7309,7 +7307,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7333,7 +7331,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4270">
      <dct:identifier><![CDATA[4270@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Lärmmindernder Strassenbelag]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-10-1008' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Strassenbeläge, welche gegenüber dem Standardbelag zu geringeren Lärmemissionen führen, gelten als lärmmindernd. Der Indikator zeigt, auf wie vielen Kilometern der Kantonsstrassen lärmmindernde Strassenbeläge eingebaut sind. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -7358,8 +7356,8 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4270]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7409,7 +7407,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7509,7 +7507,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7533,7 +7531,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5797">
      <dct:identifier><![CDATA[5797@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Nachhaltige Holznutzung]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1504' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Verhältnis zwischen nachwachsender und genutzter Holzmenge. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -7558,8 +7556,8 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=5797]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7609,7 +7607,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7659,7 +7657,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7709,7 +7707,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7733,7 +7731,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4283">
      <dct:identifier><![CDATA[4283@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Nutzungsdruck]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1508' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Anzahl der bewilligten Rodungs- und Veranstaltungsgesuche als Mass für den Nutzungsdruck auf das Waldgebiet. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -7758,8 +7756,8 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4283]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7859,7 +7857,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7909,7 +7907,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7958,8 +7956,8 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4238]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8009,7 +8007,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8033,7 +8031,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4245">
      <dct:identifier><![CDATA[4245@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Revitalisierungsrate Oberflächengewässer]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-16-1616' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Länge der jährlich revitalisierten Gewässerabschnitte im Vergleich zur Gesamtlänge der gemäss Revitalisierungsplanung prioritär zu revitalisierenden Gewässerstrecken.  ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8058,8 +8056,8 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4245]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8109,7 +8107,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8159,7 +8157,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8209,7 +8207,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8233,7 +8231,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4333">
      <dct:identifier><![CDATA[4333@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Sonderabfälle]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährlich anfallende Menge an Sonderabfällen. <br><br>Sonderabfälle sind gemäss Verordnung über den Verkehr mit Abfällen (VeVA) diejenigen Abfälle, deren umweltverträgliche Entsorgung auf Grund ihrer Zusammensetzung, ihrer chemisch-physikalischen oder ihrer biologischen Eigenschaften auch im Inlandverkehr umfassende besondere technische und organisatorische Massnahmen erfordert. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Jährlich anfallende Menge an Sonderabfällen. Sonderabfälle sind gemäss Verordnung über den Verkehr mit Abfällen (VeVA) diejenigen Abfälle, deren umweltverträgliche Entsorgung auf Grund ihrer Zusammensetzung, ihrer chemisch-physikalischen oder ihrer biologischen Eigenschaften auch im Inlandverkehr umfassende besondere technische und organisatorische Massnahmen erfordert. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8259,7 +8257,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8309,7 +8307,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8333,7 +8331,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4272">
      <dct:identifier><![CDATA[4272@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stickoxid-Emissionen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährlichen Emissionen an Stickoxiden (NO&x&). Unter dem Begriff Stickoxide werden Stickstoffdioxid (NO&2&) und Stickstoffmonoxid (NO) zusammengefasst. Sie entstehen beim Verbrennen von Brenn- und Treibstoffen und ihre Hauptquelle ist der Strassenverkehr. Stickoxid ist eine wichtige Vorläufersubstanz für die Bildung von sauren Niederschlägen, sekundärem Feinstaub und - zusammen mit den flüchtigen organischen Verbindungen - von Ozon und Sommersmog.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährlichen Emissionen an Stickoxiden (NOx). Unter dem Begriff Stickoxide werden Stickstoffdioxid (NO2) und Stickstoffmonoxid (NO) zusammengefasst. Sie entstehen beim Verbrennen von Brenn- und Treibstoffen und ihre Hauptquelle ist der Strassenverkehr. Stickoxid ist eine wichtige Vorläufersubstanz für die Bildung von sauren Niederschlägen, sekundärem Feinstaub und - zusammen mit den flüchtigen organischen Verbindungen - von Ozon und Sommersmog.  ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8359,7 +8357,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8409,7 +8407,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8433,7 +8431,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4285">
      <dct:identifier><![CDATA[4285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stickstoffeintrag Wald]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1505' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Unter dem Begriff Stickstoffeintrag wird die Deposition von Stickoxiden und Ammoniak verstanden. Stickoxide und Ammoniak werden von den Pflanzen und dem Boden gasförmig oder durch Partikel aus der Luft aufgenommen. Stickoxide (Motorisierter Verkehr, Heizungen) und Ammoniak (Landwirtschaft) werden durch chemische Prozesse in der Atmosphäre in Partikel umgewandelt.Die kritischen Belastungsgrenzen (Critical Loads) liegen für Wälder im Bereich von 10 bis 20 Kilogramm Stickstoff pro Hektar und Jahr. Eine Überschreitung der Critical Loads führt langfristig zu negativen Auswirkungen auf Ökosysteme. Im Waldgebiet der Kantone Basel-Stadt und Basel-Landschaft ist der Stickstoffeintrag praktisch flächendeckend zu hoch. Der Indikator zeigt daher die Flächenanteile des Waldes nach dem Ausmass der Überschreitung der Critical Loads. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8458,8 +8456,8 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4285]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8483,7 +8481,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4247">
      <dct:identifier><![CDATA[4247@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Störfälle und Ereignisse]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Unter dem Begriff «Ereignisse» sind Alarmierungen an die Chemiefachberatung der Industriefeuerwehr Regio Basel (IRFB) zu verstehen. Es handelt sich dabei um Ereignisse mit radioaktiven, biologischen oder chemischen Gefahren. Als Störfall gilt nach Definition der Störfallverordnung (StFV) ein ausserordentliches Ereignis in einem Betrieb, auf einem Verkehrsweg oder in einer Rohrleitungsanlage, bei dem erhebliche Einwirkungen auftreten: <br><br>a.) ausserhalb des Betriebsareals, <br>b.) auf oder ausserhalb des Verkehrswegs, <br>c.) ausserhalb der Rohrleitungsanlage. <br><br>Die eigentliche Entscheidung, ob ein Ereignis als Störfall einzustufen ist, liegt aber im Ermessen der zuständigen Fachstelle. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Unter dem Begriff «Ereignisse» sind Alarmierungen an die Chemiefachberatung der Industriefeuerwehr Regio Basel (IRFB) zu verstehen. Es handelt sich dabei um Ereignisse mit radioaktiven, biologischen oder chemischen Gefahren. Als Störfall gilt nach Definition der Störfallverordnung (StFV) ein ausserordentliches Ereignis in einem Betrieb, auf einem Verkehrsweg oder in einer Rohrleitungsanlage, bei dem erhebliche Einwirkungen auftreten: a.) ausserhalb des Betriebsareals, b.) auf oder ausserhalb des Verkehrswegs, c.) ausserhalb der Rohrleitungsanlage. Die eigentliche Entscheidung, ob ein Ereignis als Störfall einzustufen ist, liegt aber im Ermessen der zuständigen Fachstelle. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8509,7 +8507,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8533,10 +8531,7 @@ Die Jahresmitteltemperatur entspricht dem Mittelwert der über ein Jahr hinweg g
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4322">
      <dct:identifier><![CDATA[4322@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stromverbrauch nach Produktionsart]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährlicher Stromverbrauch nach Produktionsart.
-<br><br>
-Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energieversorgungsunternehmen erhoben.
-; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Jährlicher Stromverbrauch nach Produktionsart. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8561,8 +8556,8 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4322]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8612,7 +8607,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8662,7 +8657,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8712,7 +8707,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8762,7 +8757,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8812,7 +8807,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8862,7 +8857,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8886,11 +8881,7 @@ Die Daten zum Stromverbrauch werden im Rahmen der Energiestatistik bei den Energ
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5798">
      <dct:identifier><![CDATA[5798@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Waldfläche]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Anteil der Waldfläche an der gesamten Kantonsfläche.
-<br><br>
-Die Daten basieren auf der Arealstatistik. Der Wald gemäss Arealstatistik umfasst geschlossene und aufgelöste Waldflächen, jedoch nicht Gebüschwald und Gehölze.<br><br>Die Arealstatistik erhebt im Turnus von zwölf bzw. neun Jahren Informationen zur Bodennutzung und -bedeckung der Schweiz auf der Grundlage von Luftbildern des Bundesamtes für Landestopografie (Punktstichprobenerhebung im Abstand von 100 x 100m).
-Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst. 
-; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Anteil der Waldfläche an der gesamten Kantonsfläche. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8915,8 +8906,8 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=5798]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8940,7 +8931,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4290">
      <dct:identifier><![CDATA[4290@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Waldrandpflege]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-09-1514' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Kumulierte Länge der aufgewerteten Waldränder in Kilometern pro Jahr. Die Eingriffstiefe der Waldrandpflege beträgt durchschnittlich 15 Meter. Die Pflege von einem Kilometer Waldrand entspricht also einer Fläche von 1,5 Hektar. Nach dem Ersteingriff benötigen Waldränder eine periodische Nachpflege, damit ihre Funktion als Vernetzungselement und ihr Wert als Lebensraum erhalten bleiben. Je nach Standort beträgt das Eingriffsintervall vier bis acht Jahre. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -8965,8 +8956,8 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4290]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8990,7 +8981,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4288">
      <dct:identifier><![CDATA[4288@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Waldreservate]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1511' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Kumulierte Fläche der Waldreservate im Verhältnis zur gesamten Waldfläche. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -9015,8 +9006,8 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4288]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -9090,7 +9081,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4240">
      <dct:identifier><![CDATA[4240@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wassertemperatur Oberflächengewässer]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-16-1609' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Gemäss den ökologischen Zielen für oberirdische Gewässer in der eidgenössischen Gewässerschutzverordnung (GSchV) soll die Wasserqualität so beschaffen sein, dass die Temperaturverhältnisse naturnah sind. Alle Gewässerorgansimen besitzen Temperaturoptima und reagieren empfindlich auf unnatürliche Temperaturverschiebungen. Die Anzahl Tage mit mittleren Wassertemperaturen von über 20 °C sind ein Indikator für die Belastung der Gewässerorganismen durch zu hohe Temperaturen. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -9115,8 +9106,8 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4240]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -9166,7 +9157,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1974-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -9216,7 +9207,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1974-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -9265,8 +9256,8 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4320]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -9290,7 +9281,7 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4287">
      <dct:identifier><![CDATA[4287@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Zwangsnutzungen ]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Eine detaillierte Beschreibung des Indikators (Definition und Methodik) findet sich im <a href='http://www.umweltberichtbeiderbasel.bs.ch/indikatoren-15-1506' target='_blank'>Umweltbericht beider Basel</a>.; ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Holzmenge, welche dem Wald nicht aufgrund einer waldbaulichen Planung, sondern infolge eingetretener Schäden (z.B. Windwurf, Lawinen, Insekten, Steinschlag) entnommen wurde. ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-16T13:51:32</dct:modified>
      <dct:publisher>
@@ -9316,8 +9307,8 @@ Im Kanton Basel-Stadt werden 3&#039;698 Punkte erfasst.
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4287]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
