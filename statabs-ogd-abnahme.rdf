@@ -7106,8 +7106,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4301]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1755-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -7206,8 +7206,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4308]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2099-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
