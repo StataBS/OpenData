@@ -1300,9 +1300,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/politics"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
      <dcat:keyword xml:lang="de">parlament</dcat:keyword>
      <dcat:keyword xml:lang="en">parliament</dcat:keyword>
      <dcat:keyword xml:lang="fr">parlement</dcat:keyword>
@@ -1992,7 +1989,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Engagement in Organisationen und Vereinen]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der Basler Jugendlichen zwischen 12 und 18 Jahren, die sich in einem Verein engagieren. Datengrundlage ist die kantonale Jugendbefragung, die seit 2009 alle 4 Jahre durchgeführt wird.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-12-18T09:54:36</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -2007,7 +2004,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:contactPoint>
        <vcard:Individual>
          <vcard:fn><![CDATA[Mathias Bestgen]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:mathias.bestgen@bs.ch"/>
+         <vcard:hasEmail rdf:resource="mailto:Mathias.Bestgen@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/culture"/>
@@ -2020,19 +2017,13 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="fr">loisirs</dcat:keyword>
      <dcat:keyword xml:lang="it">ricreativo</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4870]]></dcat:landingPage>
-     <dct:temporal>
-       <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
-       </dct:PeriodOfTime>
-     </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4870">
          <dct:identifier>4870</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Jugendbefragung wird seit 2009 in Form einer schriftlichen Befragung bei 1000 Jugendlichen im Alter von 12-18 Jahren, die im Kanton Basel-Stadt in eine öffentliche Schule gehen durchgeführt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-18T09:54:36</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4870.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4870.tsv</dcat:downloadURL>
@@ -2786,9 +2777,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">unterstuetzung</dcat:keyword>
      <dcat:keyword xml:lang="en">support</dcat:keyword>
      <dcat:keyword xml:lang="fr">soutien</dcat:keyword>
@@ -2843,9 +2834,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -2875,8 +2866,8 @@ xmlns:schema = "http://schema.org/">
     </dcat:Dataset>
   </dcat:dataset>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4875">
-     <dct:identifier><![CDATA[4875@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4856">
+     <dct:identifier><![CDATA[4856@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Beitrag Auslandsbevölkerung]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likert-Skala die Zustimmung zur Aussage, dass wir ohne die Menschen aus dem Ausland  nicht so gut leben würden. Datenbasis ist die seit 2003 alle 4 Jahre durchgeführte kantonale Bevölkerungsbefragung.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
@@ -2900,9 +2891,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -2916,8 +2907,8 @@ xmlns:schema = "http://schema.org/">
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
-       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4875">
-         <dct:identifier>4875</dct:identifier>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4856">
+         <dct:identifier>4856</dct:identifier>
          <dct:description xml:lang="de">Die kantonale Bevölkerungsbefragung wird seit 2003 nach der CATI-Methode bei rund 1500 im Kanton Basel-Stadt wohnhaften Personen ab 18 Jahren durchgeführt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
@@ -2957,9 +2948,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sesshaftigkeit</dcat:keyword>
      <dcat:keyword xml:lang="en">settledness</dcat:keyword>
      <dcat:keyword xml:lang="fr">sédentarité</dcat:keyword>
@@ -3019,9 +3010,9 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/public-order"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sicherheit</dcat:keyword>
      <dcat:keyword xml:lang="en">safety</dcat:keyword>
      <dcat:keyword xml:lang="fr">sécurité</dcat:keyword>
@@ -3077,9 +3068,9 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/public-order"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sicherheit</dcat:keyword>
      <dcat:keyword xml:lang="en">safety</dcat:keyword>
      <dcat:keyword xml:lang="fr">sécurité</dcat:keyword>
@@ -3134,9 +3125,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sozialhilfe</dcat:keyword>
      <dcat:keyword xml:lang="en">welfare</dcat:keyword>
      <dcat:keyword xml:lang="fr">aide sociale</dcat:keyword>
@@ -3196,9 +3187,9 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">unterstuetzung</dcat:keyword>
      <dcat:keyword xml:lang="en">support</dcat:keyword>
      <dcat:keyword xml:lang="fr">soutien</dcat:keyword>
@@ -3253,9 +3244,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/administration"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">steuern</dcat:keyword>
      <dcat:keyword xml:lang="en">taxes</dcat:keyword>
      <dcat:keyword xml:lang="fr">impôts</dcat:keyword>
@@ -3314,9 +3305,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
      <dcat:keyword xml:lang="en">housing</dcat:keyword>
      <dcat:keyword xml:lang="fr">logement</dcat:keyword>
@@ -3380,9 +3371,9 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/health"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnen</dcat:keyword>
      <dcat:keyword xml:lang="en">living</dcat:keyword>
      <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
@@ -3437,9 +3428,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -3494,9 +3485,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnen</dcat:keyword>
      <dcat:keyword xml:lang="en">living</dcat:keyword>
      <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
@@ -3551,9 +3542,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
      <dcat:keyword xml:lang="en">housing</dcat:keyword>
      <dcat:keyword xml:lang="fr">logement</dcat:keyword>
@@ -3612,9 +3603,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/health"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -3669,9 +3660,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">gebaeude</dcat:keyword>
      <dcat:keyword xml:lang="en">building</dcat:keyword>
      <dcat:keyword xml:lang="fr">bâtiment</dcat:keyword>
@@ -3726,9 +3717,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">quartier</dcat:keyword>
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
@@ -3791,9 +3782,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -3848,9 +3839,9 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language>en</dct:language>
-     <dct:language>fr</dct:language>
-     <dct:language>it</dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
+     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -3903,6 +3894,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:christa.moll@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
+     <dct:language>de</dct:language>
      <dcat:keyword xml:lang="de">altersstruktur</dcat:keyword>
      <dcat:keyword xml:lang="en">age structure</dcat:keyword>
      <dcat:keyword xml:lang="fr">structure d age</dcat:keyword>
@@ -4187,6 +4179,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Martina.Schriber@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
+     <dct:language>de</dct:language>
      <dcat:keyword xml:lang="de">unternehmen</dcat:keyword>
      <dcat:keyword xml:lang="en">businesses</dcat:keyword>
      <dcat:keyword xml:lang="fr">entreprises</dcat:keyword>
@@ -7501,7 +7494,7 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/health"/>
      <dct:language>de</dct:language>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4241]]></dcat:landingPage>
      <dct:temporal>
@@ -7531,7 +7524,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4325">
      <dct:identifier><![CDATA[4325@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Motorfahrzeuge]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Motorfahrzeugbestand entspricht der Anzahl an verkehrsberechtigten Motorfahrzeugen, der Motorisierungsgrad der Anzahl Personenwagen pro 1000 Einwohner. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Entwicklung des Motorfahrzeugbestands und des Motorisierungsgrads (Anzahl Personenwagen pro 1000 Einwohner der mittleren Wohnbevölkerung).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -7551,8 +7544,12 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/mobility"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">fahrzeuge</dcat:keyword>
+     <dcat:keyword xml:lang="en">vehicles</dcat:keyword>
+     <dcat:keyword xml:lang="fr">véhicules</dcat:keyword>
+     <dcat:keyword xml:lang="it">veicoli</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4325]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7564,14 +7561,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4325">
          <dct:identifier>4325</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Datengrundlage sind die verkehrsberechtigten Fahrzeuge gemäss Register der Motorfahrzeugkontrolle Basel-Stadt (Stichdatum 30. September).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4325.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4325.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>435</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7581,7 +7578,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5797">
      <dct:identifier><![CDATA[5797@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Nachhaltige Holznutzung]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Verhältnis zwischen nachwachsender und genutzter Holzmenge. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt das Verhältnis zwischen nachwachsender und genutzter Holzmenge in Prozent.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -7603,6 +7600,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wald</dcat:keyword>
+     <dcat:keyword xml:lang="en">forest</dcat:keyword>
+     <dcat:keyword xml:lang="fr">forêt</dcat:keyword>
+     <dcat:keyword xml:lang="it">bosco</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=5797]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7614,14 +7615,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/5797">
          <dct:identifier>5797</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Zuwachsdaten stammen vom Stichprobennetz des Amtes für Wald beider Basel und den Waldentwicklungsplänen, die Nutzungsdaten werden jeweils durch die Forstbetriebe erhoben.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5797.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5797.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>227</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7631,7 +7632,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4223">
      <dct:identifier><![CDATA[4223@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Neue erneuerbare Energien]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährliche Produktion von neuen erneuerbaren Energien im Kantonsgebiet. Darunter fallen Sonnenenergie, Umweltwärme, Biomasse, Windenergie sowie erneuerbare Anteile der Energiegewinnung in Kehrichtverbrennungs- und Abwasserreinigungsanlagen. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährliche Produktion von neuen erneuerbaren Energien im Kanton Basel-Stadt in Gigawattstunden nach Kategorie (Sonnenenergie, Umweltwärme, Biomasse, Windenergie sowie erneuerbare Anteile der Energiegewinnung aus KVA oder ARA).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -7651,8 +7652,12 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/energy"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">strom</dcat:keyword>
+     <dcat:keyword xml:lang="en">electricity</dcat:keyword>
+     <dcat:keyword xml:lang="fr">électricité</dcat:keyword>
+     <dcat:keyword xml:lang="it">elettricità</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4223]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7664,14 +7669,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4223">
          <dct:identifier>4223</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Zahlen werden im Rahmen der kantonalen Energiestatistik durch das Statistische Amt Basel-Stadt direkt bei den Anlagebetreibern erhoben (Windenergie, Deponie-/Klär-/Biogas etc.) oder geschätzt (z.B. Umweltwärme).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4223.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4223.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>309</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7703,6 +7708,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4232]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7714,14 +7723,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4232">
          <dct:identifier>4232</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Das Amt für Umwelt und Energie Basel-Stadt nimmt an verschiedenen Messstellen im Kanton ein- bis viermal pro Jahr eine Grundwasserprobe zur Mesung des Nitrat- bzw. Stickstoffgehalts.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4232.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4232.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>264</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7751,8 +7760,12 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/agriculture"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bodennutzung</dcat:keyword>
+     <dcat:keyword xml:lang="en">land use</dcat:keyword>
+     <dcat:keyword xml:lang="fr">utilisation du sol</dcat:keyword>
+     <dcat:keyword xml:lang="it">utilizzazione del suolo</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4250]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7764,14 +7777,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4250">
          <dct:identifier>4250</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten zur landwirtschaftlichen Nutzfläche werden im Rahmen der landwirtschaftlichen Strukturerhebung vom Bundesamt für Statistik (BFS) erhoben. Sie stimmen nicht zwingend mit den Landwirtschaftsflächen der Arealstatistik überein.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4250.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4250.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>1050</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7803,6 +7816,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wald</dcat:keyword>
+     <dcat:keyword xml:lang="en">forest</dcat:keyword>
+     <dcat:keyword xml:lang="fr">forêt</dcat:keyword>
+     <dcat:keyword xml:lang="it">bosco</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4283]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7814,14 +7831,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4283">
          <dct:identifier>4283</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Jährliche Auswertung der bewilligten Rodungs- und Veranstaltungsgesuche des Amtes für Wald beider Basel.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4283.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4283.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>148</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7831,7 +7848,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4244">
      <dct:identifier><![CDATA[4244@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Organische Spurenstoffe in Gewässern]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Die organischen Spurenstoffe umfassen eine grosse Anzahl an chemischen Stoffen, die unter anderem aus Medikamenten, Haushaltschemikalien, Industriechemikalien oder Pflanzenschutzmitteln stammen. Der Indikator zeigt die Anzahl Messungen von Spurenstoffen über 0,1 µg/l in der Rheinüberwachungsstation, die zu Ursachenabklärungen und Massnahmen zur Behebung der Verunreinigung geführt haben. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Anzahl Messungen von Spurenstoffen über 0,1 µg/l in der Rheinüberwachungsstation, die zu Ursachenabklärungen und Massnahmen zur Behebung der Verunreinigung geführt haben.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -7853,6 +7870,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4244]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7864,14 +7885,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4244">
          <dct:identifier>4244</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Rheinüberwachungsstation (RÜS) des Amtes für Umwelt und Energie Basel-Stadt misst täglich eine grosse Anzahl von Spurenstoffen im Rhein.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4244.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4244.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>316</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7881,7 +7902,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4294">
      <dct:identifier><![CDATA[4294@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Ozonschichtabbauende Stoffe (Halone) in Löschanlagen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Halone (vollständig halogenierte bromhaltige Fluorkohlenwasserstoffe) tragen zur Zerstörung der Ozonschicht bei, welche die Erde vor der gefährlichen ultravioletten Strahlung abschirmt. Die Menge der als Löschmittel verwendeten Halone ist ein Indikator für die potenzielle Belastung der Luft mit solchen Stoffen. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Menge der als Löschmittel verwendeten Halone in Kilogramm, die zur Zerstörung der Ozonschicht beitragen können.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -7903,6 +7924,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">luft</dcat:keyword>
+     <dcat:keyword xml:lang="en">air</dcat:keyword>
+     <dcat:keyword xml:lang="fr">air</dcat:keyword>
+     <dcat:keyword xml:lang="it">aria</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4294]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7914,14 +7939,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4294">
          <dct:identifier>4294</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Angaben stammen aus dem Halonkataster der envico AG, welche im Auftrag des Bundesamtes für Umwelt (BAFU) die gesetzlich verpflichteten Meldungen der Betreiber von halonhaltigen Löschanlagen verwaltet.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4294.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4294.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>192</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7931,7 +7956,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4293">
      <dct:identifier><![CDATA[4293@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Ozonschichtabbauende Stoffe in Kälteanlagen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[In Kälte- und Wärmepumpenanlagen eingesetzte synthetische Kältemittel können, wenn sie in die Atmosphäre gelangen, ozonabbauend (FCKW, HFCKW) oder als Treibhausgase wirken (HFKW). Ozonabbauende Kältemittel tragen zur Zerstörung der Ozonschicht bei, welche die Erde vor der gefährlichen ultravioletten Strahlung abschirmt. Die Menge der verwendeten Kältemittel ist ein Indikator für die potenzielle Belastung der Luft mit solchen Stoffen. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die in Kälte- und Wärmepumpenanlagen eingesetzte Menge synthetischer Kältemittel in Kilogramm, die zum Abau der Ozzonschicht beitragen können.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -7953,6 +7978,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">luft</dcat:keyword>
+     <dcat:keyword xml:lang="en">air</dcat:keyword>
+     <dcat:keyword xml:lang="fr">air</dcat:keyword>
+     <dcat:keyword xml:lang="it">aria</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4293]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -7964,14 +7993,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4293">
          <dct:identifier>4293</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Angaben stammen aus dem gesetzlich verpflichtenden Melderegister des Bundesamtes für Umwelt (BAFU).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4293.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4293.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>184</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -7981,7 +8010,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4238">
      <dct:identifier><![CDATA[4238@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Pflanzenschutzmittel im Grundwasser]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Anteil der Grundwasser-Messstellen, an welchen pro Jahr mindestens eine Überschreitung des Anforderungswertes für Pflanzenschutzmittel (PSM) festgestellt wurde. Gemäss Gewässerschutzverordnung soll im Grundwasser eine Pflanzenschutzmittel-Konzentration von 0.1 µg/l nicht überschritten werden.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der Grundwasser-Messstellen, an welchen pro Jahr mindestens eine Überschreitung des Anforderungswertes für Pflanzenschutzmittel (PSM) von 0.1 µg/l registriert wurde.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8003,6 +8032,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4238]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8014,14 +8047,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4238">
          <dct:identifier>4238</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Grundwasserqualität wird vom Amt für Umwelt und Energie Basel-Stadt an verschiedenen Standorten in Brunnen und Quellen gemessen. Die Häufigkeit der Messungen pro Standort variiert dabei, in der Regel 1-2 Messungen an rund 20 Standorten.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4238.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4238.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>377</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8031,7 +8064,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4331">
      <dct:identifier><![CDATA[4331@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Recyclingquote]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Die Recyclingquote gibt Aufschluss über den Anteil an separat verwerteten Siedlungsabfällen (ohne Sammlung bei Verkaufsstellen) am Gesamtvolumen der Siedlungsabfälle. Siedlungsabfälle enthalten die aus Haushalten stammenden Abfälle sowie andere Abfälle vergleichbarer Zusammensetzung. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil an separat verwerteten Siedlungsabfällen (Altpapier/Karton, Altglas, Altmetall/Alu/Weissblech, Grüngut und Textilien, ohne Sammlungen bei Verkaufsstellen) am Gesamtvolumen der Siedlungsabfälle.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8053,6 +8086,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">abfall</dcat:keyword>
+     <dcat:keyword xml:lang="en">waste</dcat:keyword>
+     <dcat:keyword xml:lang="fr">déchets</dcat:keyword>
+     <dcat:keyword xml:lang="it">immondizia</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4331]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8064,14 +8101,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4331">
          <dct:identifier>4331</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die kantonale Abfallstatistik des Amtes für Umwelt und Energie Basel-Stadt bildet die Datengrundlage zur Berechnung der Recyclingquote, welche die Menge an separat gesammelten Abfallkategorien dem Gesamtvolumen an Siedlungsabfällen gegenüberstellt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4331.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4331.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>147</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8081,7 +8118,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4245">
      <dct:identifier><![CDATA[4245@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Revitalisierungsrate Oberflächengewässer]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Länge der jährlich revitalisierten Gewässerabschnitte im Vergleich zur Gesamtlänge der gemäss Revitalisierungsplanung prioritär zu revitalisierenden Gewässerstrecken.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der jährlich revitalisierten Gewässerabschnitte der gemäss Revitalisierungsplanung prioritär zu revitalisierenden Gewässerstrecken.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8103,6 +8140,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4245]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8114,14 +8155,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4245">
          <dct:identifier>4245</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die revitalisierten Streckenabschnitte werden jährlich durch das Amt für Umwelt und Energie Basel-Stadt erfasst.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4245.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4245.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>68</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8151,8 +8192,12 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/agriculture"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">tiere</dcat:keyword>
+     <dcat:keyword xml:lang="en">animals</dcat:keyword>
+     <dcat:keyword xml:lang="fr">animals</dcat:keyword>
+     <dcat:keyword xml:lang="it">animali</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4276]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8164,14 +8209,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4276">
          <dct:identifier>4276</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Der Rindviehbestand wird im Rahmen der Landwirtschaftlichen Betriebsstrukturhebung durch das Bundesamt für Statistik schweizweit nach einheitlichen Kriterien und identischer Methodik flächendeckend ermittelt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4276.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4276.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>204</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8181,7 +8226,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4337">
      <dct:identifier><![CDATA[4337@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Siedlungsabfälle]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährliche Menge an Siedlungsabfällen pro Einwohner, welche durch die Gemeinden gesammelt werden. Abfälle, welche von privaten Entsorgungsdiensten gesammelt werden, sind darin nicht berücksichtigt. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährliche Menge an Siedlungsabfällen in Kilogramm pro Einwohner, welche durch die Gemeinden gesammelt werden. Abfälle, welche von privaten Entsorgungsdiensten gesammelt werden, sind darin nicht berücksichtigt.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8203,6 +8248,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">abfall</dcat:keyword>
+     <dcat:keyword xml:lang="en">waste</dcat:keyword>
+     <dcat:keyword xml:lang="fr">déchets</dcat:keyword>
+     <dcat:keyword xml:lang="it">immondizia</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4337]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8214,14 +8263,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4337">
          <dct:identifier>4337</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten umfassen die in der Kehrichtverwertungsanlage Basel verbrannten Siedlungsabfälle und die gesammelten Altstoffe aus Separatsammlungen (pro Einwohner der mittleren Wohnbevölkerung).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4337.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4337.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>165</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8231,7 +8280,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4255">
      <dct:identifier><![CDATA[4255@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Siedlungsfläche]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Entwicklung der Siedlungsflächen. Als Siedlungsflächen gelten in der Arealstatistik alle Flächen, bei welchen die Bodennutzung überwiegend durch Arbeiten, Wohnen, Erholung und Verkehr geprägt ist. Die Siedlungsflächen können somit auch ausserhalb der Bauzonen liegen. Zudem können sie auch Grünflächen enthalten, sofern diese Siedlungszwecken dienen (Erholungs- und Parkanlagen, Hausgärten, Golfplätze etc.). ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Entwicklung der Siedlungsflächen in Hektaren gemäss Arealstatistik (Bodennutzung überwiegend durch Arbeiten, Wohnen, Erholung und Verkehr geprägt).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8253,6 +8302,7 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bauzonen</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4255]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8260,18 +8310,18 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4255">
          <dct:identifier>4255</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Arealstatistik erhebt im Turnus von zwölf bzw. neun Jahren Informationen zur Bodennutzung und -bedeckung der Schweiz auf der Grundlage von Luftbildern des Bundesamtes für Landestopografie (Stichpunktprobenerhebung im Abstand von 100 x 100m; im Kanton Basel-Stadt 3'698 Punkte).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4255.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4255.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>65</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8281,7 +8331,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4333">
      <dct:identifier><![CDATA[4333@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Sonderabfälle]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährlich anfallende Menge an Sonderabfällen. Sonderabfälle sind gemäss Verordnung über den Verkehr mit Abfällen (VeVA) diejenigen Abfälle, deren umweltverträgliche Entsorgung auf Grund ihrer Zusammensetzung, ihrer chemisch-physikalischen oder ihrer biologischen Eigenschaften auch im Inlandverkehr umfassende besondere technische und organisatorische Massnahmen erfordert. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährlich anfallende Menge an Sonderabfällen in Tonnen, deren umweltverträgliche Entsorgung umfassende besondere technische und organisatorische Massnahmen erfordert.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8303,6 +8353,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">abfall</dcat:keyword>
+     <dcat:keyword xml:lang="en">waste</dcat:keyword>
+     <dcat:keyword xml:lang="fr">déchets</dcat:keyword>
+     <dcat:keyword xml:lang="it">immondizia</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4333]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8314,14 +8368,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4333">
          <dct:identifier>4333</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Auswertung aus der Datenbank zur Verordnung über den Verkehr mit Abfällen (VeVA) des Amtes für Umwelt und Energie Basel-Stadt, in welcher sämtliche Sonderabfälle registriert sind.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4333.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4333.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>274</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8331,7 +8385,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4227">
      <dct:identifier><![CDATA[4227@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Spezifischer Heizenergieverbrauch von neuen Bauten]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Durchschnittlicher spezifischer Heizwärmebedarf aller in einem Jahr bewilligten Neubauten. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den durchschnittlichen spezifischen Heizwärmebedarf aller in einem Jahr bewilligten Neubauten in Liter Zeizöläquivalenten pro Quadratmeter.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8351,12 +8405,13 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/energy"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bauwesen</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4227]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-01T00:00:00</schema:startDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
@@ -8364,14 +8419,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4227">
          <dct:identifier>4227</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten werden im Rahmen des Baugesuchsverfahrens durch das Amt für Umwelt und Energie Basel-Stadt erhoben.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4227.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4227.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>68</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8381,7 +8436,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4272">
      <dct:identifier><![CDATA[4272@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stickoxid-Emissionen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährlichen Emissionen an Stickoxiden (NOx). Unter dem Begriff Stickoxide werden Stickstoffdioxid (NO2) und Stickstoffmonoxid (NO) zusammengefasst. Sie entstehen beim Verbrennen von Brenn- und Treibstoffen und ihre Hauptquelle ist der Strassenverkehr. Stickoxid ist eine wichtige Vorläufersubstanz für die Bildung von sauren Niederschlägen, sekundärem Feinstaub und - zusammen mit den flüchtigen organischen Verbindungen - von Ozon und Sommersmog.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährlichen Emissionen an Stickoxiden (NOx) in Tonnen für Basel-Stadt und Basel-Landschaft zusammen.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8403,6 +8458,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">luft</dcat:keyword>
+     <dcat:keyword xml:lang="en">air</dcat:keyword>
+     <dcat:keyword xml:lang="fr">air</dcat:keyword>
+     <dcat:keyword xml:lang="it">aria</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4272]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8414,14 +8473,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4272">
          <dct:identifier>4272</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten werden mittels Erhebungen, Modellierungen und Berechnungen durch das Lufthygieneamt beider Basel ermittelt. Die Emissionen sind das Produkt aus der Jahresleistung der Aktivitäten in den Bereichen Industrie, Verkehr und Feuerungen und den jeweiligen schadstoffspezifischen Emissionsfaktoren.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4272.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4272.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>109</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8431,7 +8490,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4281">
      <dct:identifier><![CDATA[4281@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stickstoffdioxid-Immissionen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Jahresmittelwert der Stickstoffdioxid-Immissionen im Vergleich zum gesetzlich festgelegten Grenzwert gemäss Luftreinhalte-Verordnung. Sie entstehen beim Verbrennen von Brenn- und Treibstoffen, insbesondere bei hohen Verbrennungstemperaturen. Hauptquelle ist der Strassenverkehr. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Jahresmittelwert der Stickstoffdioxid-Immissionen im Vergleich zum gesetzlich festgelegten Grenzwert gemäss Luftreinhalte-Verordnung.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8453,6 +8512,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">luft</dcat:keyword>
+     <dcat:keyword xml:lang="en">air</dcat:keyword>
+     <dcat:keyword xml:lang="fr">air</dcat:keyword>
+     <dcat:keyword xml:lang="it">aria</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4281]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8464,14 +8527,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4281">
          <dct:identifier>4281</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Jahresmittelwerte der einzelnen Kategorien basieren auf den Messwerten verschiedener Stationen des Lufthygieneamtes beider Basel, die einen unterschiedlichen Expositionsgrad darstellen.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4281.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4281.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>775</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8481,7 +8544,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4285">
      <dct:identifier><![CDATA[4285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stickstoffeintrag Wald]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Unter dem Begriff Stickstoffeintrag wird die Deposition von Stickoxiden und Ammoniak verstanden. Stickoxide und Ammoniak werden von den Pflanzen und dem Boden gasförmig oder durch Partikel aus der Luft aufgenommen. Stickoxide (Motorisierter Verkehr, Heizungen) und Ammoniak (Landwirtschaft) werden durch chemische Prozesse in der Atmosphäre in Partikel umgewandelt.Die kritischen Belastungsgrenzen (Critical Loads) liegen für Wälder im Bereich von 10 bis 20 Kilogramm Stickstoff pro Hektar und Jahr. Eine Überschreitung der Critical Loads führt langfristig zu negativen Auswirkungen auf Ökosysteme. Im Waldgebiet der Kantone Basel-Stadt und Basel-Landschaft ist der Stickstoffeintrag praktisch flächendeckend zu hoch. Der Indikator zeigt daher die Flächenanteile des Waldes nach dem Ausmass der Überschreitung der Critical Loads. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Deposition von Stickoxiden und Ammoniak in Relation zur kritischen Belastungsgrenze für Wälder(Critical Loads von 10 bis 20 Kilogramm Stickstoff pro Hektar und Jahr).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8503,6 +8566,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wald</dcat:keyword>
+     <dcat:keyword xml:lang="en">forest</dcat:keyword>
+     <dcat:keyword xml:lang="fr">forêt</dcat:keyword>
+     <dcat:keyword xml:lang="it">bosco</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4285]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8514,14 +8581,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4285">
          <dct:identifier>4285</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Modellberechnung aufgrund von Emissionsdaten des Lufthygieneamtes beider Basel.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4285.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4285.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>318</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8531,7 +8598,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4247">
      <dct:identifier><![CDATA[4247@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Störfälle und Ereignisse]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Unter dem Begriff «Ereignisse» sind Alarmierungen an die Chemiefachberatung der Industriefeuerwehr Regio Basel (IRFB) zu verstehen. Es handelt sich dabei um Ereignisse mit radioaktiven, biologischen oder chemischen Gefahren. Als Störfall gilt nach Definition der Störfallverordnung (StFV) ein ausserordentliches Ereignis in einem Betrieb, auf einem Verkehrsweg oder in einer Rohrleitungsanlage, bei dem erhebliche Einwirkungen auftreten: a.) ausserhalb des Betriebsareals, b.) auf oder ausserhalb des Verkehrswegs, c.) ausserhalb der Rohrleitungsanlage. Die eigentliche Entscheidung, ob ein Ereignis als Störfall einzustufen ist, liegt aber im Ermessen der zuständigen Fachstelle. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt Alarmierungen an die Chemiefachberatung der Industriefeuerwehr Regio Basel (IRFB) mit radioaktiven, biologischen oder chemischen Gefahren sowie ausserordentliches Ereignisse nach Störfallverordnung (StFV).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8553,6 +8620,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">stoerfall</dcat:keyword>
+     <dcat:keyword xml:lang="en">incident</dcat:keyword>
+     <dcat:keyword xml:lang="fr">incident</dcat:keyword>
+     <dcat:keyword xml:lang="it">incidente</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4247]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8564,14 +8635,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4247">
          <dct:identifier>4247</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Jährliche Auswertung der Einsatzliste der Chemiefachberatung der Industriefeuerwehr Regio Basel (IRFB) durch das Kantonale Laboratorium Basel-Stadt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4247.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4247.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>355</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8581,7 +8652,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4322">
      <dct:identifier><![CDATA[4322@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stromverbrauch nach Produktionsart]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährlicher Stromverbrauch nach Produktionsart. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den jährlichen Stromverbrauch in Gigawattstunden nach Produktionsart.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8601,8 +8672,12 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/energy"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">strom</dcat:keyword>
+     <dcat:keyword xml:lang="en">electricity</dcat:keyword>
+     <dcat:keyword xml:lang="fr">électricité</dcat:keyword>
+     <dcat:keyword xml:lang="it">elettricità</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4322]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8610,18 +8685,18 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4322">
          <dct:identifier>4322</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten zum Stromverbrauch werden im Rahmen der kantonalen Energiestatistik alle zwei Jahre durch das Statistische Amt Basel-Stadt bei den Energieversorgungsunternehmen erhoben.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4322.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4322.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>243</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8631,7 +8706,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4321">
      <dct:identifier><![CDATA[4321@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Stromverbrauch pro Einwohner]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährlicher Stromverbrauch pro Einwohner. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeit den jährlichen Stromverbrauch in Megawattstunden pro Einwohner (Basis mittlere Wohnbevölkerung).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8651,8 +8726,12 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/energy"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">strom</dcat:keyword>
+     <dcat:keyword xml:lang="en">electricity</dcat:keyword>
+     <dcat:keyword xml:lang="fr">électricité</dcat:keyword>
+     <dcat:keyword xml:lang="it">elettricità</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4321]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8660,18 +8739,18 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4321">
          <dct:identifier>4321</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten zum Stromverbrauch werden im Rahmen der kantonalen Energiestatistik alle zwei Jahre durch das Statistische Amt Basel-Stadt bei den Energieversorgungsunternehmen erhoben.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4321.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4321.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>91</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8681,7 +8760,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4303">
      <dct:identifier><![CDATA[4303@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Strukturen der Fliessgewässer]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Die Beurteilung der Struktur der Fliessgewässer erfolgt über die ökomorphologische Bewertung. Die Fliessstrecken werden in fünf Kategorien von «natürlich, naturnah», bis «eingedolt» eingeteilt. Die Bewertung erfolgt nach dem Modul-Stufen-Konzept, Stufe F des Bundesamtes für Umwelt (BAFU, 1998: www.modul-stufen-konzept.ch/fg/index). ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Struktur der Fliessgewässer gemäss ökomorphologischer Kategorie (Einteilung von «natürlich, naturnah», bis «eingedolt») nach dem Modul-Stufen-Konzept, Stufe F des Bundesamtes für Umwelt (BAFU, 1998: www.modul-stufen-konzept.ch/fg/index).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8703,25 +8782,29 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4303]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4303">
          <dct:identifier>4303</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Im Kanton Basel-Stadt wurde eine Fliesstrecke von insgesamt 35 km bewertet. Seit 2014 ist der Rhein infolge der Aktualisierung der Revitalisierungsplanung miteinbezogen.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4303.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4303.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>163</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8731,7 +8814,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4265">
      <dct:identifier><![CDATA[4265@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Tätigkeiten mit gentechnisch veränderten und pathogenen Organismen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Anzahl gemeldeter Tätigkeiten (vorwiegend Forschungs- und Diagnostiktätigkeiten), bei welchen mit gentechnisch veränderten, pathogenen oder gebietsfremden Organismen im geschlossenen System umgegangen wird, die bei inkorrekter Handhabung das Potenzial haben, Mensch und Umwelt zu gefährden. Die betroffenen Betriebe sind verpflichtet, dem Risiko entsprechende Sicherheitsmassnahmen zu treffen. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Anzahl gemeldeter Forschungs- und Dignosetätigkeiten  mit gentechnisch veränderten, pathogenen oder gebietsfremden Organismen in geschlossenen System, die bei inkorrekter Handhabung Mensch und Umwelt gefährden können.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8753,6 +8836,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">biotechnologie</dcat:keyword>
+     <dcat:keyword xml:lang="en">biotechnology</dcat:keyword>
+     <dcat:keyword xml:lang="fr">biotechnologie</dcat:keyword>
+     <dcat:keyword xml:lang="it">biotecnologia</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4265]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8764,14 +8851,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4265">
          <dct:identifier>4265</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die gemäss Einschliessungsverordnung melde- bzw. bewilligungspflichtigen Eingaben an das Kantonale Laboratorium Basel-Stadt werden durch die Koordinationsstelle Biotechnologie des Bundes in der Datenbank ECOGEN zentral verwaltet.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4265.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4265.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>363</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8781,7 +8868,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4262">
      <dct:identifier><![CDATA[4262@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Unbeabsichtigte Freisetzung von gentechnisch veränderten Organismen]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[In Häfen und an Bahnhöfen umgeschlagenes Getreide kann vereinzelt gentechnisch veränderte Samen von anderen Pflanzen (z. B. Raps) enthalten, welche dort unbeabsichtigt freigesetzt werden können. Der Indikator zeigt die Anzahl daraus resultierender, wild gewachsener Rapspflanzen, welche positiv auf gentechnische Veränderung getestet wurden (GV-Rapspflanzen).  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Anzahl  wild gewachsener Rapspflanzen in gefährdeten Gebieten, welche positiv auf gentechnische Veränderung getestet wurden.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8803,6 +8890,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">biotechnologie</dcat:keyword>
+     <dcat:keyword xml:lang="en">biotechnology</dcat:keyword>
+     <dcat:keyword xml:lang="fr">biotechnologie</dcat:keyword>
+     <dcat:keyword xml:lang="it">biotecnologia</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4262]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8814,14 +8905,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4262">
          <dct:identifier>4262</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Auswertung der beprobten Rapspflanzen an zwei neuralgischen Standorten in Basel-Stadt (Hafen Kleinhünigen, Bahnhof St. Johann) durch das kantonale Laboratorium Basel-Stadt.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4262.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4262.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>91</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8831,7 +8922,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4336">
      <dct:identifier><![CDATA[4336@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Verbrennungsrückstände]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Menge der in der Kehrichtverbrennungsanlage (KVA Basel) anfallenden Verbrennungsrückstände (Schlacke, Filterstaub und Filterkuchen). ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Menge der in der Kehrichtverwertungsanlage (KVA Basel) anfallenden Verbrennungsrückstände (Schlacke, Filterstaub und Filterkuchen).]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8853,6 +8944,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">abfall</dcat:keyword>
+     <dcat:keyword xml:lang="en">waste</dcat:keyword>
+     <dcat:keyword xml:lang="fr">déchets</dcat:keyword>
+     <dcat:keyword xml:lang="it">immondizia</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4336]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8864,14 +8959,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4336">
          <dct:identifier>4336</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Berechnung auf Grundlage der Werte der Jahresberichte der Kehrichtverwertungsanlage Basel.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4336.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4336.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>158</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8901,8 +8996,12 @@ xmlns:schema = "http://schema.org/">
          <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/mobility"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">verkehr</dcat:keyword>
+     <dcat:keyword xml:lang="en">traffic</dcat:keyword>
+     <dcat:keyword xml:lang="fr">trafic</dcat:keyword>
+     <dcat:keyword xml:lang="it">traffico</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4319]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8914,14 +9013,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4319">
          <dct:identifier>4319</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Datengrundlage sind die Messwerte der Dauerzählstellen im Kanton Basel-Stadt. In die Berechnung fliesst der gemäss Gesamtverkehrsmodell gewichtete Veränderungswert pro Zählstelle ein. Der Index kann alle fünf Jahre durch die Auswertung des «Mikrozensus Verkehr» überprüft werden.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4319.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4319.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>331</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8931,7 +9030,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5798">
      <dct:identifier><![CDATA[5798@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Waldfläche]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Anteil der Waldfläche an der gesamten Kantonsfläche. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der Waldfläche an der gesamten Kantonsfläche.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -8953,6 +9052,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wald</dcat:keyword>
+     <dcat:keyword xml:lang="en">forest</dcat:keyword>
+     <dcat:keyword xml:lang="fr">forêt</dcat:keyword>
+     <dcat:keyword xml:lang="it">bosco</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=5798]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -8960,18 +9063,18 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/5798">
          <dct:identifier>5798</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten basieren auf der Arealstatistik, welche  im Turnus von zwölf bzw. neun Jahren Informationen zur Bodennutzung und -bedeckung der Schweiz auf der Grundlage von Luftbildern des Bundesamtes für Landestopografie (Punktstichprobenerhebung im Abstand von 100 x 100m; im Kanton Basel-Stadt 3'698 Punkte).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5798.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/5798.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>60</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -8981,7 +9084,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4290">
      <dct:identifier><![CDATA[4290@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Waldrandpflege]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Kumulierte Länge der aufgewerteten Waldränder in Kilometern pro Jahr. Die Eingriffstiefe der Waldrandpflege beträgt durchschnittlich 15 Meter. Die Pflege von einem Kilometer Waldrand entspricht also einer Fläche von 1,5 Hektar. Nach dem Ersteingriff benötigen Waldränder eine periodische Nachpflege, damit ihre Funktion als Vernetzungselement und ihr Wert als Lebensraum erhalten bleiben. Je nach Standort beträgt das Eingriffsintervall vier bis acht Jahre. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die kumulierte Länge der aufgewerteten Waldränder in Kilometern pro Jahr. Die Eingriffstiefe der Waldrandpflege beträgt durchschnittlich 15 Meter. Die Pflege von einem Kilometer Waldrand entspricht also einer Fläche von 1,5 Hektar.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9003,6 +9106,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wald</dcat:keyword>
+     <dcat:keyword xml:lang="en">forest</dcat:keyword>
+     <dcat:keyword xml:lang="fr">forêt</dcat:keyword>
+     <dcat:keyword xml:lang="it">bosco</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4290]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9014,14 +9121,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4290">
          <dct:identifier>4290</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Seit 2008 werden durch das Amt für Wald beider Basel Ersteingriffe und Nachpflege in Waldrandflächen systematisch jährlich erfasst.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4290.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4290.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>170</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9031,7 +9138,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4288">
      <dct:identifier><![CDATA[4288@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Waldreservate]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Kumulierte Fläche der Waldreservate im Verhältnis zur gesamten Waldfläche. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die kumulierte Fläche der Waldreservate im Verhältnis zur gesamten Waldfläche.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9053,6 +9160,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wald</dcat:keyword>
+     <dcat:keyword xml:lang="en">forest</dcat:keyword>
+     <dcat:keyword xml:lang="fr">forêt</dcat:keyword>
+     <dcat:keyword xml:lang="it">bosco</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4288]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9064,14 +9175,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4288">
          <dct:identifier>4288</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Aufsummierung der kantonal geschützten Waldflächen (Schutz per Regierungsratsbeschluss oder langfristigem Dienstbarkeitsvertrag, ohne kommunale Unterschutzstellungen) durch das Amt für Wald beider Basel.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4288.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4288.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>202</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9081,7 +9192,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4237">
      <dct:identifier><![CDATA[4237@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wassertemperatur Grundwasser]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Mittelwert der Jahrestemperatur des Grundwassers berechnet aus Temperaturdaten von mehreren Messstellen. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeit den Mittelwert der Jahrestemperatur des Grundwassers im Kanton Basel-Stadt.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9103,6 +9214,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4237]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9114,14 +9229,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4237">
          <dct:identifier>4237</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Das Amt für Umwelt und Energie Basel-Stadt ermittelt die Jahrestemperatur des Grundwassers als Mittelwert der kontinuierlichen Messungen der Grundwassertemperatur an 82 Messstellen.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4237.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4237.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>259</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9131,7 +9246,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4240">
      <dct:identifier><![CDATA[4240@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wassertemperatur Oberflächengewässer]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Gemäss den ökologischen Zielen für oberirdische Gewässer in der eidgenössischen Gewässerschutzverordnung (GSchV) soll die Wasserqualität so beschaffen sein, dass die Temperaturverhältnisse naturnah sind. Alle Gewässerorgansimen besitzen Temperaturoptima und reagieren empfindlich auf unnatürliche Temperaturverschiebungen. Die Anzahl Tage mit mittleren Wassertemperaturen von über 20 °C sind ein Indikator für die Belastung der Gewässerorganismen durch zu hohe Temperaturen. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt für ausgesuchte Messstation im Kanton Basel-Stadt die Anzahl Tage mit mittleren Wassertemperaturen von über 20 °C. Diese liefern Hinweise auf die Belastung der Gewässerorganismen durch zu hohe Temperaturen.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9153,6 +9268,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4240]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9164,14 +9283,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4240">
          <dct:identifier>4240</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Das Amt für Umwelt und Energie Basel-Stadt berechnet für die Messstellen "Rhein" und "Wiese, tief" jeweils den Tagesmittelwert aus den 10-minütlichen Messungen der Wassertemperatur.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4240.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4240.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>156</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9181,7 +9300,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4234">
      <dct:identifier><![CDATA[4234@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wasserverbrauch Gewerbe und Industrie]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährliche Brauchwassermenge der Industrie und des Gewerbes. Der Indikator umfasst sowohl den Verbrauch aus dem öffentlichen Netz als auch die privaten Grundwasserförderungen.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährliche Brauchwassermenge der Industrie und des Gewerbes und umfasst sowohl den Verbrauch aus dem öffentlichen Netz als auch die privaten Grundwasserförderungen.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9203,6 +9322,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4234]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9214,14 +9337,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4234">
          <dct:identifier>4234</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Verbrauchsdaten setzen sich zusammen aus Angeben der industriellen Werke Basel IWB (Summe von Verbrauch durch Gewerbe, Temporär, Bau, Industrie) und des Amtes für Umwelt und Energie (Grundwasserförderung privat).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4234.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4234.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>316</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9231,7 +9354,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4233">
      <dct:identifier><![CDATA[4233@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wasserverbrauch Haushalte und Kleingewerbe]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Jährliche Wassermenge ab dem öffentlichen Netz, welche durch Haushalte und Kleingewerbe verbraucht wird. Private Quellen und Grundwasserfassungen werden dabei nicht berücksichtigt.  ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die jährliche Wassermenge ab dem öffentlichen Netz, welche durch Haushalte und Kleingewerbe verbraucht wird. Private Quellen und Grundwasserfassungen werden dabei nicht berücksichtigt.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9253,6 +9376,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wasser</dcat:keyword>
+     <dcat:keyword xml:lang="en">water</dcat:keyword>
+     <dcat:keyword xml:lang="fr">eau</dcat:keyword>
+     <dcat:keyword xml:lang="it">acqua</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4233]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9264,14 +9391,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4233">
          <dct:identifier>4233</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten zum Wasserverbrauch werden von den Industriellen Werken Basel (IWB) erhoben.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4233.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4233.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>329</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9281,7 +9408,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4320">
      <dct:identifier><![CDATA[4320@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wohnfläche]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Die durchschnittliche Wohnfläche pro Bewohner erlaubt Aussagen über die Wohnraumverhältnisse der beiden Kantone, nicht aber über die Verteilung des Wohnraums oder über die Wohnraumqualität. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Entwicklung der durchschnittlichen Wohnfläche pro Bewohner und erlaubt damit Aussagen über die Wohnraumverhältnisse im Kanton Basel-Stadt.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9303,6 +9430,10 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wohnen</dcat:keyword>
+     <dcat:keyword xml:lang="en">living</dcat:keyword>
+     <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
+     <dcat:keyword xml:lang="it">abitare</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4320]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9314,14 +9445,14 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4320">
          <dct:identifier>4320</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Berechnung basiert auf dem Gebäude- und Wohnungsregister (GWR) sowie dem amtlichen Personenregister, indem die Gesamtfläche der bewohnten Wohnungen durch die Summe der zugeordneten Bewohner dividiert wird.</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4320.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4320.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>56</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9331,7 +9462,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4287">
      <dct:identifier><![CDATA[4287@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Zwangsnutzungen ]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Holzmenge, welche dem Wald nicht aufgrund einer waldbaulichen Planung, sondern infolge eingetretener Schäden (z.B. Windwurf, Lawinen, Insekten, Steinschlag) entnommen wurde. ]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Der Indikator beschreibt die Holzmenge, welche dem Wald nicht aufgrund einer waldbaulichen Planung, sondern infolge eingetretener Schäden (z.B. Windwurf, Lawinen, Insekten, Steinschlag) entnommen wurde.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
      <dct:publisher>
@@ -9354,6 +9485,10 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
      <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">wald</dcat:keyword>
+     <dcat:keyword xml:lang="en">forest</dcat:keyword>
+     <dcat:keyword xml:lang="fr">forêt</dcat:keyword>
+     <dcat:keyword xml:lang="it">bosco</dcat:keyword>
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4287]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
@@ -9365,14 +9500,146 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/4287">
          <dct:identifier>4287</dct:identifier>
-         <dct:description xml:lang="de">Umweltbericht beider Basel</dct:description>
+         <dct:description xml:lang="de">Die Daten werden von den Forstbetrieben erhoben und jeweils im Rahmen des Jahresberichts an das Amt für Wald beider Basel gemeldet (Selbstdeklaration der Forstbetriebe).</dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4287.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4287.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:byteSize>248</dcat:byteSize>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3285">
+     <dct:identifier><![CDATA[3285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Bevölkerungsszenarien liefern kleinräumige Ergebnisse auf der Ebene Wahlkreise der Stadt Basel sowie gemeinsam für die Gemeinden Riehen und Bettingen. Neben der absoluten Bevölkerungsentwicklung stellen die Szenarien auch die Entwicklung der Bevölkerungsstruktur bis 2040 dar: Die Bevölkerung wird nach Alter, Geschlecht und Staatsangehörigkeit (Schweiz und Ausland) ausgewiesen. Auch stehen verschiedene demografische Komponenten wie Geburten und Sterbefälle, Einbürgerungen oder Wanderungsbewegungen zur Verfügung.
+
+Beschreibung der Variablen:]]></dct:description>
+     <dct:description xml:lang = "en"><![CDATA[The population projections provide small-scale results for the city of Basel and the communities Riehen and Bettingen. In addition to the absolute population change, the scenarios show the development of the structure of the population until 2040: The population is reported according to age, gender and nationality (Switzerland and abroad). There are also various demographic components such as births and deaths, naturalizations or migration.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Lukas Mohler]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:lukas.mohler@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+     <dcat:keyword xml:lang="de">prognose </dcat:keyword>
+     <dcat:keyword xml:lang="en">forecast</dcat:keyword>
+     <dcat:keyword xml:lang="fr">pronostic</dcat:keyword>
+     <dcat:keyword xml:lang="it">prognosi</dcat:keyword>
+     <dcat:keyword xml:lang="de">bevoelkerungspyramide</dcat:keyword>
+     <dcat:keyword xml:lang="en">age pyramid</dcat:keyword>
+     <dcat:keyword xml:lang="fr">pyramide démographique</dcat:keyword>
+     <dcat:keyword xml:lang="it">piramide demografica</dcat:keyword>
+     <dcat:keyword xml:lang="de">altersstruktur</dcat:keyword>
+     <dcat:keyword xml:lang="en">age structure</dcat:keyword>
+     <dcat:keyword xml:lang="fr">structure d age</dcat:keyword>
+     <dcat:keyword xml:lang="it">struttura d eta</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/analysen-berichte/gesellschaft-soziales/bevoelkerungsszenarien.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2040-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/3285">
+         <dct:identifier>3285</dct:identifier>
+         <dct:description xml:lang="de">Name,Typ,Beschreibung
+Alter,Numerisch,Alter
+Geo,Alphanumerisch,Perimeter (Basel-Stadt oder Wahlkreise)
+Geschlecht,Alphanumerisch,Geschlecht (Mann oder Frau)
+Herkunft,Alphanumerisch,Herkunft (Schweiz oder Ausland)
+Jahr,Numerisch,Jahr
+bestand_hist,Numerisch,Bevölkerungsbestand historisch
+bestand_hoch,Numerisch,Bevölkerungsbestand hohes Szenario
+bestand_mittel,Numerisch,Bevölkerungsbestand mittleres Szenario
+bestand_tief,Numerisch,Bevölkerungsbestand tiefes Szenario
+geb_hist,Numerisch,Geburten historisch
+geb_hoch,Numerisch,Geburten hohes Szenario
+geb_mittel,Numerisch,Geburten mittleres Szenario
+geb_tief,Numerisch,Geburten tiefes Szenario
+tod_hist,Numerisch,Todesfälle historisch
+tod_hoch,Numerisch,Todesfälle hohes Szenario
+tod_mittel,Numerisch,Todesfälle mittleres Szenario
+tod_tief,Numerisch,Todesfälle tiefes Szenario
+s_geb_tod_hist,Numerisch,Geburtensaldo historisch
+s_geb_tod_hoch,Numerisch,Geburtensaldo hohes Szenario
+s_geb_tod_mittel,Numerisch,Geburtensaldo mittleres Szenario
+s_geb_tod_tief,Numerisch,Geburtensaldo tiefes Szenario
+zuz_hist,Numerisch,Zuzüge interkantonal historisch
+zuz_hoch,Numerisch,Zuzüge interkantonal hohes Szenario
+zuz_mittel,Numerisch,Zuzüge interkantonal mittleres Szenario
+zuz_tief,Numerisch,Zuzüge interkantonal tiefes Szenario
+wegz_hist,Numerisch,Wegzüge interkantonal historisch
+wegz_hoch,Numerisch,Wegzüge interkantonal hohes Szenario
+wegz_mittel,Numerisch,Wegzüge interkantonal mittleres Szenario
+wegz_tief,Numerisch,Wegzüge interkantonal tiefes Szenario
+s_ink_hist,Numerisch,Saldo interkantonale Wanderung historisch
+s_ink_hoch,Numerisch,Saldo interkantonale Wanderung hohes Szenario
+s_ink_mittel,Numerisch,Saldo interkantonale Wanderung mittleres Szenario
+s_ink_tief,Numerisch,Saldo interkantonale Wanderung tiefes Szenario
+einw_hist,Numerisch,Einwanderung international historisch
+einw_hoch,Numerisch,Einwanderung international hohes Szenario
+einw_mittel,Numerisch,Einwanderung international mittleres Szenario
+einw_tief,Numerisch,Einwanderung international tiefes Szenario
+ausw_hist,Numerisch,Auswanderung international historisch
+ausw_hoch,Numerisch,Auswanderung international hohes Szenario
+ausw_mittel,Numerisch,Auswanderung international mittleres Szenario
+ausw_tief,Numerisch,Auswanderung international tiefes Szenario
+s_int_hist,Numerisch,Saldo internationale Wanderung historisch
+s_int_hoch,Numerisch,Saldo internationale Wanderung hohes Szenario
+s_int_mittel,Numerisch,Saldo internationale Wanderung mittleres Szenario
+s_int_tief,Numerisch,Saldo internationale Wanderung tiefes Szenario
+s_wtotal_hist,Numerisch,Saldo Wanderung total historisch
+s_wtotal_hoch,Numerisch,Saldo Wanderung total hohes Szenario
+s_wtotal_mittel,Numerisch,Saldo Wanderung total mittleres Szenario
+s_wtotal_tief,Numerisch,Saldo Wanderung total tiefes Szenario
+uhin_hist,Numerisch,Umzüge intrakantonal hin historisch
+uhin_hoch,Numerisch,Umzüge intrakantonal hin hohes Szenario
+uhin_mittel,Numerisch,Umzüge intrakantonal hin mittleres Szenario
+uhin_tief,Numerisch,Umzüge intrakantonal hin tiefes Szenario
+uweg_hist,Numerisch,Umzüge intrakantonal weg historisch
+uweg_hoch,Numerisch,Umzüge intrakantonal weg hohes Szenario
+uweg_mittel,Numerisch,Umzüge intrakantonal weg mittleres Szenario
+uweg_tief,Numerisch,Umzüge intrakantonal weg tiefes Szenario
+s_umz_hist,Numerisch,Saldo Umzüge intrakantonal historisch
+s_umz_hoch,Numerisch,Saldo Umzüge intrakantonal hohes Szenario
+s_umz_mittel,Numerisch,Saldo Umzüge intrakantonal mittleres Szenario
+s_umz_tief,Numerisch,Saldo Umzüge intrakantonal tiefes Szenario
+einb_hist,Numerisch,Einbürgerungen historisch
+einb_hoch,Numerisch,Einbürgerungen hohes Szenario
+einb_mittel,Numerisch,Einbürgerungen mittleres Szenario
+einb_tief,Numerisch,Einbürgerungen tiefes Szenario</dct:description>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2018.csv</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2018.csv</dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+         <dcat:byteSize>261500000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
