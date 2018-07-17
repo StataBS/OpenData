@@ -2777,9 +2777,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">unterstuetzung</dcat:keyword>
      <dcat:keyword xml:lang="en">support</dcat:keyword>
      <dcat:keyword xml:lang="fr">soutien</dcat:keyword>
@@ -2834,9 +2831,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -2891,9 +2885,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -2948,9 +2939,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sesshaftigkeit</dcat:keyword>
      <dcat:keyword xml:lang="en">settledness</dcat:keyword>
      <dcat:keyword xml:lang="fr">sédentarité</dcat:keyword>
@@ -3010,9 +2998,6 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/public-order"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sicherheit</dcat:keyword>
      <dcat:keyword xml:lang="en">safety</dcat:keyword>
      <dcat:keyword xml:lang="fr">sécurité</dcat:keyword>
@@ -3068,9 +3053,6 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/public-order"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sicherheit</dcat:keyword>
      <dcat:keyword xml:lang="en">safety</dcat:keyword>
      <dcat:keyword xml:lang="fr">sécurité</dcat:keyword>
@@ -3125,9 +3107,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">sozialhilfe</dcat:keyword>
      <dcat:keyword xml:lang="en">welfare</dcat:keyword>
      <dcat:keyword xml:lang="fr">aide sociale</dcat:keyword>
@@ -3187,9 +3166,6 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/social-security"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">unterstuetzung</dcat:keyword>
      <dcat:keyword xml:lang="en">support</dcat:keyword>
      <dcat:keyword xml:lang="fr">soutien</dcat:keyword>
@@ -3244,9 +3220,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/administration"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">steuern</dcat:keyword>
      <dcat:keyword xml:lang="en">taxes</dcat:keyword>
      <dcat:keyword xml:lang="fr">impôts</dcat:keyword>
@@ -3305,9 +3278,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
      <dcat:keyword xml:lang="en">housing</dcat:keyword>
      <dcat:keyword xml:lang="fr">logement</dcat:keyword>
@@ -3371,9 +3341,6 @@ xmlns:schema = "http://schema.org/">
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/health"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnen</dcat:keyword>
      <dcat:keyword xml:lang="en">living</dcat:keyword>
      <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
@@ -3428,9 +3395,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -3485,9 +3449,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnen</dcat:keyword>
      <dcat:keyword xml:lang="en">living</dcat:keyword>
      <dcat:keyword xml:lang="fr">habiter</dcat:keyword>
@@ -3542,9 +3503,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
      <dcat:keyword xml:lang="en">housing</dcat:keyword>
      <dcat:keyword xml:lang="fr">logement</dcat:keyword>
@@ -3603,9 +3561,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/health"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -3660,9 +3615,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">gebaeude</dcat:keyword>
      <dcat:keyword xml:lang="en">building</dcat:keyword>
      <dcat:keyword xml:lang="fr">bâtiment</dcat:keyword>
@@ -3717,9 +3669,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">quartier</dcat:keyword>
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
@@ -3782,9 +3731,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
@@ -3839,9 +3785,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
-     <dct:language></dct:language>
      <dcat:keyword xml:lang="de">integration</dcat:keyword>
      <dcat:keyword xml:lang="en">integration</dcat:keyword>
      <dcat:keyword xml:lang="fr">intégration</dcat:keyword>
