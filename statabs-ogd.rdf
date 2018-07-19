@@ -9459,7 +9459,7 @@ xmlns:schema = "http://schema.org/">
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3285">
      <dct:identifier><![CDATA[3285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien]]></dct:title>
+     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien Basel-Stadt 2018-2040]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Die Bevölkerungsszenarien liefern kleinräumige Ergebnisse auf der Ebene Wahlkreise der Stadt Basel sowie gemeinsam für die Gemeinden Riehen und Bettingen. Neben der absoluten Bevölkerungsentwicklung stellen die Szenarien auch die Entwicklung der Bevölkerungsstruktur bis 2040 dar: Die Bevölkerung wird nach Alter, Geschlecht und Staatsangehörigkeit (Schweiz und Ausland) ausgewiesen. Auch stehen verschiedene demografische Komponenten wie Geburten und Sterbefälle, Einbürgerungen oder Wanderungsbewegungen zur Verfügung.]]></dct:description>
      <dct:description xml:lang = "en"><![CDATA[The population projections provide small-scale results for the city of Basel and the communities Riehen and Bettingen. In addition to the absolute population change, the scenarios show the development of the structure of the population until 2040: The population is reported according to age, gender and nationality (Switzerland and abroad). There are also various demographic components such as births and deaths, naturalizations or migration.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
