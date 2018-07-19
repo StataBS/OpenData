@@ -9517,7 +9517,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://data-bs.ch/bevoelkerungsprognose/Beschreibung_Bevoelkerungsszenarien_Basel-Stadt_2018.txt</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2018.csv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
-         <dcat:byteSize>1000</dcat:byteSize>
+         <dcat:byteSize>13000000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
