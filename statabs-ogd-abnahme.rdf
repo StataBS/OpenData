@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF
 xmlns:dct = "http://purl.org/dc/terms/"
 xmlns:dc = "http://purl.org/dc/elements/1.1/"
@@ -650,7 +650,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Altersquotient]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der über 64-jährigen Personen an den 20- bis 64-jährigen Personen auf Ebene Wohnviertel in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-02-28T11:33:02</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -688,8 +688,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4827]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -698,7 +698,7 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>4827</dct:identifier>
          <dct:description xml:lang = "de"><![CDATA[Die Datengrundlage bildet die kantonale Bevölkerungsstatistik (mittlere Wohnbevölkerung).]]></dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-28T11:33:02</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4827.tsv</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4827.tsv</dcat:downloadURL>
@@ -1209,7 +1209,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4830.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4830.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4830.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>775</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1666,7 +1666,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4724.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4724.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4724.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1788,7 +1788,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4720.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4720.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4720.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1853,7 +1853,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4721.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4721.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4721.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>251</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2384,7 +2384,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4932.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4932.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/dat/a4932.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>276</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2506,7 +2506,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4826.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4826.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4826.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>755</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2685,7 +2685,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4829.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4829.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4829.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2743,7 +2743,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4718.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4718.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4718.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>367</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2797,7 +2797,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4716.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4716.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4716.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>385</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2851,7 +2851,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4719.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4719.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4719.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>334</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2963,7 +2963,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4828.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4828.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4828.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3131,7 +3131,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4822.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4822.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4822.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>654</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3361,7 +3361,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4156.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4156.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4156.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>166</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3527,7 +3527,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4144.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4144.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4144.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>241</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3581,7 +3581,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4155.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4155.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4155.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>263</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3635,7 +3635,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4151.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4151.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4151.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>261</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3697,7 +3697,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4150.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4150.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4150.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -9459,7 +9459,7 @@ xmlns:schema = "http://schema.org/">
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3285">
      <dct:identifier><![CDATA[3285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien]]></dct:title>
+     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien Basel-Stadt 2018-2040]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Die Bevölkerungsszenarien liefern kleinräumige Ergebnisse auf der Ebene Wahlkreise der Stadt Basel sowie gemeinsam für die Gemeinden Riehen und Bettingen. Neben der absoluten Bevölkerungsentwicklung stellen die Szenarien auch die Entwicklung der Bevölkerungsstruktur bis 2040 dar: Die Bevölkerung wird nach Alter, Geschlecht und Staatsangehörigkeit (Schweiz und Ausland) ausgewiesen. Auch stehen verschiedene demografische Komponenten wie Geburten und Sterbefälle, Einbürgerungen oder Wanderungsbewegungen zur Verfügung.]]></dct:description>
      <dct:description xml:lang = "en"><![CDATA[The population projections provide small-scale results for the city of Basel and the communities Riehen and Bettingen. In addition to the absolute population change, the scenarios show the development of the structure of the population until 2040: The population is reported according to age, gender and nationality (Switzerland and abroad). There are also various demographic components such as births and deaths, naturalizations or migration.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
@@ -9517,7 +9517,7 @@ xmlns:schema = "http://schema.org/">
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://data-bs.ch/bevoelkerungsprognose/Beschreibung_Bevoelkerungsszenarien_Basel-Stadt_2018.txt</dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2018.csv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
-         <dcat:byteSize>1000</dcat:byteSize>
+         <dcat:byteSize>13000000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
