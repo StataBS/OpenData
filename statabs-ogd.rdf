@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF
 xmlns:dct = "http://purl.org/dc/terms/"
 xmlns:dc = "http://purl.org/dc/elements/1.1/"
@@ -701,7 +701,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4827.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4827.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4827.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -766,7 +766,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4823.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4823.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4823.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>771</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -831,7 +831,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4831.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4831.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4831.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>780</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -892,7 +892,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4832.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4832.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4832.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>772</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -957,7 +957,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4824.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4824.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4824.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>776</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1018,7 +1018,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4825.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4825.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4825.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>794</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1079,7 +1079,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4839.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4839.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4839.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>772</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1144,7 +1144,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4838.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4838.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4838.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>777</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1209,7 +1209,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4830.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4830.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4830.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>775</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1266,7 +1266,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4853.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4853.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4853.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>173</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1320,7 +1320,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4874.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4874.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4874.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>142</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1381,7 +1381,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4862.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4862.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4862.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>319</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1438,7 +1438,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4858.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4858.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4858.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>330</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1495,7 +1495,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4861.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4861.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4861.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>263</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1552,7 +1552,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4860.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4860.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4860.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>214</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1609,7 +1609,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4859.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4859.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4859.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>269</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1666,7 +1666,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4724.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4724.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4724.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1727,7 +1727,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4857.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4857.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4857.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>314</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1788,7 +1788,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4720.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4720.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4720.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1853,7 +1853,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4721.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4721.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4721.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>251</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1914,7 +1914,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4865.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4865.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4865.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>87</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -1975,7 +1975,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4836.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4836.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4836.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>787</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2026,7 +2026,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-18T09:54:36</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4870.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4870.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4870.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>83</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2091,7 +2091,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4837.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4837.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4837.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>691</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2148,7 +2148,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4855.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4855.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4855.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2213,7 +2213,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4833.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4833.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4833.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>773</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2270,7 +2270,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4864.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4864.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4864.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>68</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2327,7 +2327,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4931.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4931.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4931.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>150</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2384,7 +2384,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4932.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4932.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4932.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>276</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2441,7 +2441,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4849.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4849.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4849.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>172</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2506,7 +2506,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4826.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4826.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4826.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>755</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2563,7 +2563,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4872.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4872.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4872.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>255</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2620,7 +2620,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4933.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4933.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4933.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>251</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2685,7 +2685,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4829.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4829.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4829.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2743,7 +2743,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4718.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4718.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4718.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>367</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2797,7 +2797,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4716.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4716.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4716.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>385</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2851,7 +2851,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4719.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4719.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4719.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>334</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2905,7 +2905,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4856.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4856.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4856.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>259</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -2963,7 +2963,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4828.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4828.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4828.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>767</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3018,7 +3018,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4852.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4852.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4852.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3073,7 +3073,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4854.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4854.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4854.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>303</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3131,7 +3131,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4822.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4822.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4822.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>654</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3186,7 +3186,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4848.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4848.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4848.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>377</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3244,7 +3244,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4835.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4835.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4835.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>786</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3306,7 +3306,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4834.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4834.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4834.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>666</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3361,7 +3361,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4156.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4156.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4156.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>166</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3415,7 +3415,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4851.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4851.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4851.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>174</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3469,7 +3469,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4127.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4127.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4127.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>266</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3527,7 +3527,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4144.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4144.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4144.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>241</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3581,7 +3581,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4155.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4155.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4155.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>263</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3635,7 +3635,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4151.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4151.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4151.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>261</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3697,7 +3697,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4150.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4150.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4150.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>258</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3751,7 +3751,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4875.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4875.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4875.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>175</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
@@ -3805,7 +3805,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4850.tsv</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data/4850.tsv</dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://github.com/StataBS/indikatoren/tree/master/data4850.tsv</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>150</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
