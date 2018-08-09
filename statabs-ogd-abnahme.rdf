@@ -9523,5 +9523,59 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/6782">
+     <dct:identifier><![CDATA[6782@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Anzahl Arbeitsstätten]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Anzahl Arbeitsstätten. Nicht dargestellt sind die Arbeitsstätten im Schweizer Sektor des EuroAirports. Dies führt zu einer Differenz zu den offiziellen Zahlen der Arbeitsstätten für das Wohnviertel St. Johann und für den gesamten Kanton Basel-Stadt.<br><br>Verfügbar für folgende Statistische Raumeinheiten: Block, Bezirk, Wohnviertel, Gemeinde<br><br><a href='http://www.statistik.bs.ch/zahlen/tabellen/3-erwerbsleben/beschaeftigte.html'>Weitere Zahlen und Fakten zum Thema</a>]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-08-09T16:35:00</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-08-09T16:35:00</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Martina.Schriber@bs.ch]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Martina Schriber"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">erwerbstaetige</dcat:keyword>
+     <dcat:keyword xml:lang="en">labour force</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population active</dcat:keyword>
+     <dcat:keyword xml:lang="it">lavoratore</dcat:keyword>
+    <dcat:landingPage><![CDATA[https://www.basleratlas.ch/#i=03_erwerbsleben.arbeitsstaetten;v=map2]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/6782">
+         <dct:identifier>6782</dct:identifier>
+         <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-09T16:35:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-09T16:35:00</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.basleratlas.ch/geoclip_data_csv.php?iID=arbeitsstaetten&ngeo=wvi</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
  </dcat:Catalog>
  </rdf:RDF>
