@@ -18,7 +18,7 @@ xmlns:schema = "http://schema.org/">
      <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Durchschnittspreise für einzelne Nahrungsmittel, Getränke, Tabakwaren, Heizöl, Treibstoff, Zeitungen und Zeitschriften sowie Konsumationskosten in Restaurants seit 1991. Bei den Nahrungsmitteln, Getränken, Tabakwaren und Mahlzeiten in Personalrestaurants handelt es sich um nationale Durchschnittspreise, bei Heizöl, Treibstoff, Zeitungen, Zeitschriften und den Konsumationspreisen in Restaurants und Cafés um regionale Durchschnittspreise.]]></dct:description>
      <dct:description xml:lang = "en"><![CDATA[The tables show average prices for selected comestible goods, beverages, tobacco products, fuel oil, power fuels, printed press matter and consumption costs in restaurants since 1991. The latter 4 categories apply to regional average prices.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-04-25T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime"></dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -51,12 +51,6 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="fr">indice</dcat:keyword>
      <dcat:keyword xml:lang="it">indice</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html]]></dcat:landingPage>
-     <dct:temporal>
-       <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-05-31T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-05-31T00:00:00</schema:endDate>
-       </dct:PeriodOfTime>
-     </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/2663">
@@ -64,7 +58,6 @@ xmlns:schema = "http://schema.org/">
          <dct:description xml:lang = "de"><![CDATA[Seit der Revision vom Mai 1993 werden die Durchschnittspreise als nach Absatzkanal gewichtetes Mittel berechnet. Gewisse Positionen werden seit der Indexrevision 2005 vom Bundesamt für Statistik nicht mehr publiziert, da die Preishomogenität bei Grundnahrungsmitteln häufig nicht mehr gegeben ist.]]></dct:description>
          <dct:description xml:lang="en"><![CDATA[Since the index revision of May 1993 average prices are weighted by distribution channel. Certain items have been excluded from the price statistic in 2005 due to frequent lack of price homogeneity of staple foods.]]></dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-25T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dct:language>en</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://www.statistik.bs.ch/dms/statistik/tabellen/05/t05-3-01.xlsx</dcat:accessURL>
