@@ -9551,7 +9551,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="en">residential district</dcat:keyword>
      <dcat:keyword xml:lang="fr">quartier</dcat:keyword>
      <dcat:keyword xml:lang="it">quartiere</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://www.basleratlas.ch/#i=03_erwerbsleben.arbeitsstaetten;v=map2]]></dcat:landingPage>
+    <dcat:landingPage><![CDATA[https://www.basleratlas.ch]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01T00:00:00</schema:startDate>
