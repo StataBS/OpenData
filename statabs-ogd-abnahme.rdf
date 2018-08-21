@@ -9566,8 +9566,8 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-09T16:35:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-09T16:35:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.basleratlas.ch/geoclip_data_csv.php?iID=arbeitsstaetten&ngeo=wvi</dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.basleratlas.ch/geoclip_data_csv.php?iID=arbeitsstaetten&ngeo=wvi</dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.basleratlas.ch/</dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.basleratlas.ch/</dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>2000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
