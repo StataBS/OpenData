@@ -3350,7 +3350,7 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://github.com/StataBS/indikatoren/tree/master/data4156.tsv]]></dcat:accessURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://github.com/StataBS/indikatoren/tree/master/data/4156.tsv]]></dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4156.tsv]]></dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>166</dcat:byteSize>
@@ -3516,7 +3516,7 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://github.com/StataBS/indikatoren/tree/master/data4144.tsv]]></dcat:accessURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://github.com/StataBS/indikatoren/tree/master/data/4144.tsv]]></dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4144.tsv]]></dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>241</dcat:byteSize>
@@ -4199,56 +4199,6 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
          <dcat:byteSize>101972</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
-       </dcat:Distribution>
-     </dcat:distribution>
-    </dcat:Dataset>
-  </dcat:dataset>
-  <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4334">
-     <dct:identifier><![CDATA[4334@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Abfallverbrennung]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Menge der in der Kehrichtverbrennungsanlage (KVA Basel) verbrannten Abfälle, nach Anlieferungskanton. ]]></dct:description>
-     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
-     <dct:publisher>
-       <rdf:Description rdf:about = "Reference of publisher">
-         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
-       </rdf:Description>
-     </dct:publisher>
-     <dcat:contactPoint>
-       <vcard:Organization>
-         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
-       </vcard:Organization>
-     </dcat:contactPoint>
-     <dcat:contactPoint>
-       <vcard:Individual>
-         <vcard:fn><![CDATA[Björn Lietzke]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
-       </vcard:Individual>
-     </dcat:contactPoint>
-     <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
-     <dct:language>de</dct:language>
-    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4334]]></dcat:landingPage>
-     <dct:temporal>
-       <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
-       </dct:PeriodOfTime>
-     </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
-     <dcat:distribution>
-       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/73">
-         <dct:identifier>73</dct:identifier>
-         <dct:description xml:lang = "de"><![CDATA[Umweltbericht beider Basel]]></dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-23T00:00:00</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-23T00:00:00</dct:modified>
-         <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://github.com/StataBS/indikatoren/tree/master/data/4334.tsv]]></dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4334.tsv]]></dcat:downloadURL>
-         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
@@ -9441,6 +9391,73 @@ xmlns:schema = "http://schema.org/">
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://raw.githubusercontent.com/StataBS/indikatoren/master/data/4287.tsv]]></dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>248</dcat:byteSize>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3285">
+     <dct:identifier><![CDATA[3285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien Basel-Stadt 2018-2040]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Bevölkerungsszenarien liefern kleinräumige Ergebnisse auf der Ebene Wahlkreise der Stadt Basel sowie gemeinsam für die Gemeinden Riehen und Bettingen. Neben der absoluten Bevölkerungsentwicklung stellen die Szenarien auch die Entwicklung der Bevölkerungsstruktur bis 2040 dar: Die Bevölkerung wird nach Alter, Geschlecht und Staatsangehörigkeit (Schweiz und Ausland) ausgewiesen. Auch stehen verschiedene demografische Komponenten wie Geburten und Sterbefälle, Einbürgerungen oder Wanderungsbewegungen zur Verfügung.]]></dct:description>
+     <dct:description xml:lang = "en"><![CDATA[The population projections provide small-scale results for the city of Basel and the communities Riehen and Bettingen. In addition to the absolute population change, the scenarios show the development of the structure of the population until 2040: The population is reported according to age, gender and nationality (Switzerland and abroad). There are also various demographic components such as births and deaths, naturalizations or migration.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Lukas Mohler]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:lukas.mohler@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
+     <dcat:keyword xml:lang="en">population</dcat:keyword>
+     <dcat:keyword xml:lang="fr">population</dcat:keyword>
+     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
+     <dcat:keyword xml:lang="de">prognose </dcat:keyword>
+     <dcat:keyword xml:lang="en">forecast</dcat:keyword>
+     <dcat:keyword xml:lang="fr">pronostic</dcat:keyword>
+     <dcat:keyword xml:lang="it">prognosi</dcat:keyword>
+     <dcat:keyword xml:lang="de">bevoelkerungspyramide</dcat:keyword>
+     <dcat:keyword xml:lang="en">age pyramid</dcat:keyword>
+     <dcat:keyword xml:lang="fr">pyramide démographique</dcat:keyword>
+     <dcat:keyword xml:lang="it">piramide demografica</dcat:keyword>
+     <dcat:keyword xml:lang="de">altersstruktur</dcat:keyword>
+     <dcat:keyword xml:lang="en">age structure</dcat:keyword>
+     <dcat:keyword xml:lang="fr">structure d age</dcat:keyword>
+     <dcat:keyword xml:lang="it">struttura d eta</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/analysen-berichte/gesellschaft-soziales/bevoelkerungsszenarien.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2040-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/175">
+         <dct:identifier>175</dct:identifier>
+         <dct:description xml:lang = "de"><![CDATA[Die Download-URL enthält die Daten der Bevölkerungsszenarien, die Zugangs-URL eine Beschreibung der einzelnen Spalten der Daten.]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2018.csv]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Beschreibung_Bevoelkerungsszenarien_Basel-Stadt_2018.txt]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>13000000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
