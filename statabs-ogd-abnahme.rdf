@@ -9466,8 +9466,8 @@ xmlns:schema = "http://schema.org/">
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/7547">
      <dct:identifier><![CDATA[7547@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Quartierradar]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Beschreibung des Quartierradar Datensatzes]]></dct:description>
+     <dct:title xml:lang="de"><![CDATA[Wanderungsanalyse]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Zuzüge in sowie Wegzüge aus dem Kanton Basel-Stadt, wie auch Umzüge innerhalb des Kantons seit 2006.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-02-19T10:57:25</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-02-19T10:57:25</dct:modified>
      <dct:publisher>
@@ -9483,35 +9483,53 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:contactPoint>
        <vcard:Individual>
-         <vcard:fn><![CDATA[]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:nana.mittelmaier@bs.ch"/>
+         <vcard:fn><![CDATA[Christa Moll]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
      <dct:language>de</dct:language>
-     <dcat:keyword xml:lang="de">bevoelkerungsbestand</dcat:keyword>
-     <dcat:keyword xml:lang="en">population</dcat:keyword>
-     <dcat:keyword xml:lang="fr">population</dcat:keyword>
-     <dcat:keyword xml:lang="it">popolazione</dcat:keyword>
-    <dcat:landingPage><![CDATA[https://www.statistik.bs.ch/]]></dcat:landingPage>
+     <dcat:keyword xml:lang="de">zuzug</dcat:keyword>
+     <dcat:keyword xml:lang="en">immigration</dcat:keyword>
+     <dcat:keyword xml:lang="fr">immigration</dcat:keyword>
+     <dcat:keyword xml:lang="it">immigrazione</dcat:keyword>
+     <dcat:keyword xml:lang="de">nationalitaet </dcat:keyword>
+     <dcat:keyword xml:lang="en">nationality</dcat:keyword>
+     <dcat:keyword xml:lang="fr">nationalite</dcat:keyword>
+     <dcat:keyword xml:lang="it">nazionalita</dcat:keyword>
+    <dcat:landingPage><![CDATA[https://www.statistik.bs.ch/analysen-berichte/gesellschaft-soziales/wanderungsanalyse.html]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-12-31T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/285">
          <dct:identifier>285</dct:identifier>
-         <dct:title xml:lang="de">Quartierradar</dct:title>         <dct:description xml:lang = "de"><![CDATA[Beschreibung des Quartierradar Datensatzes]]></dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-19T00:00:00</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-19T00:00:00</dct:modified>
+         <dct:title xml:lang="de">Zu- und Abwanderung Basel-Stadt (Migration)</dct:title>         <dct:description xml:lang = "de"><![CDATA[Anzahl Personen, die nach Basel-Stadt zuwanderten, sowie von Basel-Stadt abwanderten, jeweils pro Jahr, Herkunfts- bzw. Ziel-Kontinent, -Land oder -kanton, seit 2006.]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/]]></dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/]]></dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/statistik/OpenDataMigration.csv]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/statistik/OpenDataMigration.csv]]></dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>1000</dcat:byteSize>
+         <dcat:byteSize>2412000</dcat:byteSize>
+         <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/286">
+         <dct:identifier>286</dct:identifier>
+         <dct:title xml:lang="de">Umzüge innerhalb Basel-Stadt</dct:title>         <dct:description xml:lang = "de"><![CDATA[Anzahle Personen, welche in Basel-Stadt umzogen, nach Jahr, Staatsangehörigkeit (Schweiz / Ausland), Wohnviertel und Wohnbezirk, seit 2006.]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/statistik/OpenDataUmzuege.csv]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/statistik/OpenDataUmzuege.csv]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>4029000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
