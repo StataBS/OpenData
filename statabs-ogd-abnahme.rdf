@@ -38,7 +38,7 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/prices"/>
      <dct:language>de</dct:language>
-     <dct:relation>         <rdf:Description rdf:about="www.statistik.bs.ch">         <rdfs:label>Test</rdfs:label>         </rdf:Description>     </dct:relation>     <dct:relation>         <rdf:Description rdf:about="test2.statistik.bs.ch">         <rdfs:label>test</rdfs:label>         </rdf:Description>     </dct:relation>     <dcat:keyword xml:lang="de">preise</dcat:keyword>
+     <dcat:keyword xml:lang="de">preise</dcat:keyword>
      <dcat:keyword xml:lang="en">prices</dcat:keyword>
      <dcat:keyword xml:lang="fr">prix</dcat:keyword>
      <dcat:keyword xml:lang="it">prezzi</dcat:keyword>
@@ -9467,7 +9467,7 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/7547">
      <dct:identifier><![CDATA[7547@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Wanderungsanalyse]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Zuzüge in sowie Wegzüge aus dem Kanton Basel-Stadt, wie auch Umzüge innerhalb des Kantons seit 2006.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Zuzüge in den Kanton Basel-Stadt, Wegzüge aus dem Kanton Basel-Stadt und Umzüge innerhalb des Kantons Basel-Stadt seit 2006.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-02-19T10:57:25</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-02-19T10:57:25</dct:modified>
      <dct:publisher>
@@ -9522,7 +9522,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/286">
          <dct:identifier>286</dct:identifier>
-         <dct:title xml:lang="de">Umzüge innerhalb Basel-Stadt</dct:title>         <dct:description xml:lang = "de"><![CDATA[Anzahle Personen, welche in Basel-Stadt umzogen, nach Jahr, Staatsangehörigkeit (Schweiz / Ausland), Wohnviertel und Wohnbezirk, seit 2006.]]></dct:description>
+         <dct:title xml:lang="de">Umzüge innerhalb Basel-Stadt</dct:title>         <dct:description xml:lang = "de"><![CDATA[Anzahl Personen, welche in Basel-Stadt umzogen, nach Jahr, Staatsangehörigkeit (Schweiz / Ausland), Wohnviertel und Wohnbezirk, seit 2006.]]></dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:modified>
          <dct:language>de</dct:language>
