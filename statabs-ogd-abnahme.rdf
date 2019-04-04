@@ -51,6 +51,12 @@ xmlns:schema = "http://schema.org/">
      <dcat:keyword xml:lang="fr">indice</dcat:keyword>
      <dcat:keyword xml:lang="it">indice</dcat:keyword>
     <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/1">
@@ -115,7 +121,7 @@ xmlns:schema = "http://schema.org/">
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/dam/jcr:f18e6f80-088e-45f1-8554-c645baa9fcf2/t18-2-03.xlsx]]></dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/dam/jcr:f18e6f80-088e-45f1-8554-c645baa9fcf2/t18-2-03.xlsx]]></dcat:downloadURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>33894</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
