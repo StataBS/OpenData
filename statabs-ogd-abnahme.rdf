@@ -114,8 +114,8 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-09T13:57:50</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[http://www.statistik.bs.ch/dms/statistik/tabellen/18/t18-2-03.xlsx]]></dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[http://www.statistik.bs.ch/dam/jcr:f18e6f80-088e-45f1-8554-c645baa9fcf2/t18-2-03.xlsx]]></dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/dam/jcr:f18e6f80-088e-45f1-8554-c645baa9fcf2/t18-2-03.xlsx]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/dam/jcr:f18e6f80-088e-45f1-8554-c645baa9fcf2/t18-2-03.xlsx]]></dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>33894</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
@@ -9508,7 +9508,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/285">
          <dct:identifier>285</dct:identifier>
-         <dct:title xml:lang="de">Zu- und Abwanderung Basel-Stadt (Migration)</dct:title>         <dct:description xml:lang = "de"><![CDATA[Anzahl Personen, die nach Basel-Stadt zuwanderten, sowie von Basel-Stadt abwanderten, jeweils pro Jahr, Herkunfts- bzw. Ziel-Kontinent, -Land oder -kanton, seit 2006.]]></dct:description>
+         <dct:title xml:lang="de">Zu- und Abwanderung Basel-Stadt (Migration)</dct:title>         <dct:description xml:lang = "de"><![CDATA[Anzahl Personen, die nach Basel-Stadt zuwanderten, sowie von Basel-Stadt abwanderten, jeweils pro Jahr, Zuzugs- bzw. Wegzugs-Kontinent, -Land oder -Kanton, seit 2006.]]></dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-03-06T00:00:00</dct:modified>
          <dct:language>de</dct:language>
