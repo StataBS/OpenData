@@ -75,6 +75,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3147">
      <dct:identifier><![CDATA[3147@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -129,6 +131,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2542">
      <dct:identifier><![CDATA[2542@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -183,6 +187,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2812">
      <dct:identifier><![CDATA[2812@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -241,6 +247,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2813">
      <dct:identifier><![CDATA[2813@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -299,6 +307,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3206">
      <dct:identifier><![CDATA[3206@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -357,6 +367,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3207">
      <dct:identifier><![CDATA[3207@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -415,6 +427,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3223">
      <dct:identifier><![CDATA[3223@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -477,6 +491,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3224">
      <dct:identifier><![CDATA[3224@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -531,6 +547,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2802">
      <dct:identifier><![CDATA[2802@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -589,6 +607,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2805">
      <dct:identifier><![CDATA[2805@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -643,6 +663,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4827">
      <dct:identifier><![CDATA[4827@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -708,6 +730,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4823">
      <dct:identifier><![CDATA[4823@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -773,6 +797,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4831">
      <dct:identifier><![CDATA[4831@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -838,6 +864,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4832">
      <dct:identifier><![CDATA[4832@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -899,6 +927,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4824">
      <dct:identifier><![CDATA[4824@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -964,6 +994,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4825">
      <dct:identifier><![CDATA[4825@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1025,6 +1057,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4839">
      <dct:identifier><![CDATA[4839@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1086,6 +1120,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4838">
      <dct:identifier><![CDATA[4838@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1148,6 +1184,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4830">
      <dct:identifier><![CDATA[4830@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1213,6 +1251,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4853">
      <dct:identifier><![CDATA[4853@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1270,6 +1310,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4874">
      <dct:identifier><![CDATA[4874@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1324,6 +1366,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4862">
      <dct:identifier><![CDATA[4862@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1385,6 +1429,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4858">
      <dct:identifier><![CDATA[4858@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1442,6 +1488,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4861">
      <dct:identifier><![CDATA[4861@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1499,6 +1547,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4860">
      <dct:identifier><![CDATA[4860@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1556,6 +1606,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4859">
      <dct:identifier><![CDATA[4859@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1613,6 +1665,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4724">
      <dct:identifier><![CDATA[4724@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1670,6 +1724,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4857">
      <dct:identifier><![CDATA[4857@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1731,6 +1787,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4720">
      <dct:identifier><![CDATA[4720@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1792,6 +1850,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4721">
      <dct:identifier><![CDATA[4721@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1857,6 +1917,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4865">
      <dct:identifier><![CDATA[4865@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1918,6 +1980,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4836">
      <dct:identifier><![CDATA[4836@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -1979,6 +2043,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4870">
      <dct:identifier><![CDATA[4870@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2030,11 +2096,14 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4837">
      <dct:identifier><![CDATA[4837@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Erwerbstätigenquote]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der erwerbstätigen Wohnbevölkerung an der gesamten erwerbsfähigen Wohnbevölkerung (15 bis 64 Jahre, Nettoerwerbstätigenquote) auf Ebene Wohnviertel in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
+     <dct:description xml:lang = "en"><![CDATA[https://opendata.swiss/de/dataset/erwerbstatigenquote]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
      <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
      <dct:publisher>
@@ -2095,6 +2164,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4855">
      <dct:identifier><![CDATA[4855@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2152,6 +2223,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4833">
      <dct:identifier><![CDATA[4833@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2217,6 +2290,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4864">
      <dct:identifier><![CDATA[4864@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2274,6 +2349,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4931">
      <dct:identifier><![CDATA[4931@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2331,6 +2408,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4932">
      <dct:identifier><![CDATA[4932@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2388,6 +2467,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4849">
      <dct:identifier><![CDATA[4849@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2445,6 +2526,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4826">
      <dct:identifier><![CDATA[4826@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2510,6 +2593,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4872">
      <dct:identifier><![CDATA[4872@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2567,6 +2652,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4933">
      <dct:identifier><![CDATA[4933@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2624,6 +2711,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4829">
      <dct:identifier><![CDATA[4829@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2689,6 +2778,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4718">
      <dct:identifier><![CDATA[4718@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2747,6 +2838,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4716">
      <dct:identifier><![CDATA[4716@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2801,6 +2894,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4719">
      <dct:identifier><![CDATA[4719@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2855,6 +2950,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4856">
      <dct:identifier><![CDATA[4856@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2909,6 +3006,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4828">
      <dct:identifier><![CDATA[4828@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -2967,6 +3066,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4852">
      <dct:identifier><![CDATA[4852@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3022,6 +3123,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4854">
      <dct:identifier><![CDATA[4854@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3077,6 +3180,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4822">
      <dct:identifier><![CDATA[4822@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3135,6 +3240,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4848">
      <dct:identifier><![CDATA[4848@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3190,6 +3297,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4835">
      <dct:identifier><![CDATA[4835@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3248,6 +3357,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4834">
      <dct:identifier><![CDATA[4834@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3310,6 +3421,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4156">
      <dct:identifier><![CDATA[4156@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3365,6 +3478,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4851">
      <dct:identifier><![CDATA[4851@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3419,9 +3534,11 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4856">
-     <dct:identifier><![CDATA[4856@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:identifier><![CDA4127856@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Zufriedenheit mit dem Wohnungsangebot]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likert-Skala die Zufriedenheit der Basler Wohnbevölkerung mit dem Wohnungsangebot im Kanton. Datengrundlage ist die kantonale Bevölkerungsbefragung, die seit 2003 alle 4 Jahre durchgeführt wird.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
@@ -3473,6 +3590,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4144">
      <dct:identifier><![CDATA[4144@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3531,6 +3650,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4155">
      <dct:identifier><![CDATA[4155@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3585,6 +3706,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4151">
      <dct:identifier><![CDATA[4151@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3639,6 +3762,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4150">
      <dct:identifier><![CDATA[4150@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3701,6 +3826,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4875">
      <dct:identifier><![CDATA[4875@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3755,6 +3882,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4850">
      <dct:identifier><![CDATA[4850@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3809,6 +3938,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4099">
      <dct:identifier><![CDATA[4099@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3866,6 +3997,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/6518">
      <dct:identifier><![CDATA[6518@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3920,6 +4053,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4100">
      <dct:identifier><![CDATA[4100@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -3978,6 +4113,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2837">
      <dct:identifier><![CDATA[2837@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4036,6 +4173,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2838">
      <dct:identifier><![CDATA[2838@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4094,6 +4233,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3980">
      <dct:identifier><![CDATA[3980@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4151,6 +4292,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5216">
      <dct:identifier><![CDATA[5216@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4209,6 +4352,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4338">
      <dct:identifier><![CDATA[4338@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4259,6 +4404,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4259">
      <dct:identifier><![CDATA[4259@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4309,6 +4456,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4257">
      <dct:identifier><![CDATA[4257@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4359,6 +4508,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4261">
      <dct:identifier><![CDATA[4261@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4409,6 +4560,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5799">
      <dct:identifier><![CDATA[5799@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4459,6 +4612,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4221">
      <dct:identifier><![CDATA[4221@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4509,6 +4664,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4231">
      <dct:identifier><![CDATA[4231@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4559,6 +4716,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4330">
      <dct:identifier><![CDATA[4330@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4609,6 +4768,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4239">
      <dct:identifier><![CDATA[4239@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4659,6 +4820,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4332">
      <dct:identifier><![CDATA[4332@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4709,6 +4872,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4309">
      <dct:identifier><![CDATA[4309@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4759,6 +4924,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4264">
      <dct:identifier><![CDATA[4264@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4809,6 +4976,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4260">
      <dct:identifier><![CDATA[4260@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4859,6 +5028,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4258">
      <dct:identifier><![CDATA[4258@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4909,6 +5080,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4246">
      <dct:identifier><![CDATA[4246@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -4959,6 +5132,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4318">
      <dct:identifier><![CDATA[4318@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5009,6 +5184,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4243">
      <dct:identifier><![CDATA[4243@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5059,6 +5236,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4307">
      <dct:identifier><![CDATA[4307@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5109,6 +5288,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4284">
      <dct:identifier><![CDATA[4284@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5159,6 +5340,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4249">
      <dct:identifier><![CDATA[4249@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5209,6 +5392,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4253">
      <dct:identifier><![CDATA[4253@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5259,6 +5444,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4230">
      <dct:identifier><![CDATA[4230@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5309,6 +5496,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4323">
      <dct:identifier><![CDATA[4323@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5359,6 +5548,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4299">
      <dct:identifier><![CDATA[4299@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5409,6 +5600,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4302">
      <dct:identifier><![CDATA[4302@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5459,6 +5652,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4335">
      <dct:identifier><![CDATA[4335@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5509,6 +5704,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4224">
      <dct:identifier><![CDATA[4224@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5559,6 +5756,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4268">
      <dct:identifier><![CDATA[4268@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5609,6 +5808,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4298">
      <dct:identifier><![CDATA[4298@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5659,6 +5860,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4273">
      <dct:identifier><![CDATA[4273@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5709,6 +5912,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4226">
      <dct:identifier><![CDATA[4226@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5759,6 +5964,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4229">
      <dct:identifier><![CDATA[4229@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5809,6 +6016,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4225">
      <dct:identifier><![CDATA[4225@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5859,6 +6068,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4222">
      <dct:identifier><![CDATA[4222@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5909,6 +6120,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4329">
      <dct:identifier><![CDATA[4329@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -5959,6 +6172,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4274">
      <dct:identifier><![CDATA[4274@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6009,6 +6224,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4278">
      <dct:identifier><![CDATA[4278@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6059,6 +6276,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4312">
      <dct:identifier><![CDATA[4312@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6109,6 +6328,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4266">
      <dct:identifier><![CDATA[4266@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6159,6 +6380,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4310">
      <dct:identifier><![CDATA[4310@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6209,6 +6432,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4316">
      <dct:identifier><![CDATA[4316@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6259,6 +6484,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4236">
      <dct:identifier><![CDATA[4236@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6309,6 +6536,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4291">
      <dct:identifier><![CDATA[4291@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6359,6 +6588,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4280">
      <dct:identifier><![CDATA[4280@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6409,6 +6640,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4252">
      <dct:identifier><![CDATA[4252@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6459,6 +6692,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4279">
      <dct:identifier><![CDATA[4279@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6509,6 +6744,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4277">
      <dct:identifier><![CDATA[4277@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6559,6 +6796,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4228">
      <dct:identifier><![CDATA[4228@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6609,6 +6848,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4300">
      <dct:identifier><![CDATA[4300@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6659,6 +6900,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4263">
      <dct:identifier><![CDATA[4263@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6709,6 +6952,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4314">
      <dct:identifier><![CDATA[4314@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6759,6 +7004,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5800">
      <dct:identifier><![CDATA[5800@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6809,6 +7056,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4292">
      <dct:identifier><![CDATA[4292@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6859,6 +7108,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4306">
      <dct:identifier><![CDATA[4306@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6909,6 +7160,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4315">
      <dct:identifier><![CDATA[4315@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -6959,6 +7212,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4301">
      <dct:identifier><![CDATA[4301@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7009,6 +7264,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4305">
      <dct:identifier><![CDATA[4305@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7059,6 +7316,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4308">
      <dct:identifier><![CDATA[4308@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7109,6 +7368,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4254">
      <dct:identifier><![CDATA[4254@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7159,6 +7420,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4275">
      <dct:identifier><![CDATA[4275@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7209,6 +7472,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4269">
      <dct:identifier><![CDATA[4269@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7259,6 +7524,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4270">
      <dct:identifier><![CDATA[4270@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7309,6 +7576,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4267">
      <dct:identifier><![CDATA[4267@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7359,6 +7628,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4241">
      <dct:identifier><![CDATA[4241@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7409,6 +7680,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4325">
      <dct:identifier><![CDATA[4325@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7463,6 +7736,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5797">
      <dct:identifier><![CDATA[5797@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7517,6 +7792,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4223">
      <dct:identifier><![CDATA[4223@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7571,6 +7848,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4232">
      <dct:identifier><![CDATA[4232@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7625,6 +7904,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4250">
      <dct:identifier><![CDATA[4250@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7679,6 +7960,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4283">
      <dct:identifier><![CDATA[4283@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7733,6 +8016,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4244">
      <dct:identifier><![CDATA[4244@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7787,6 +8072,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4294">
      <dct:identifier><![CDATA[4294@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7841,6 +8128,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4293">
      <dct:identifier><![CDATA[4293@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7895,6 +8184,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4238">
      <dct:identifier><![CDATA[4238@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -7949,6 +8240,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4331">
      <dct:identifier><![CDATA[4331@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8003,6 +8296,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4245">
      <dct:identifier><![CDATA[4245@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8057,6 +8352,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4276">
      <dct:identifier><![CDATA[4276@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8111,6 +8408,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4337">
      <dct:identifier><![CDATA[4337@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8165,6 +8464,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4255">
      <dct:identifier><![CDATA[4255@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8216,6 +8517,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4333">
      <dct:identifier><![CDATA[4333@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8270,6 +8573,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4227">
      <dct:identifier><![CDATA[4227@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8321,6 +8626,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4272">
      <dct:identifier><![CDATA[4272@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8375,6 +8682,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4281">
      <dct:identifier><![CDATA[4281@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8429,6 +8738,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4285">
      <dct:identifier><![CDATA[4285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8483,6 +8794,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4247">
      <dct:identifier><![CDATA[4247@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8537,6 +8850,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4322">
      <dct:identifier><![CDATA[4322@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8591,6 +8906,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4321">
      <dct:identifier><![CDATA[4321@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8645,6 +8962,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4303">
      <dct:identifier><![CDATA[4303@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8699,6 +9018,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4265">
      <dct:identifier><![CDATA[4265@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8753,6 +9074,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4262">
      <dct:identifier><![CDATA[4262@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8807,6 +9130,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4336">
      <dct:identifier><![CDATA[4336@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8861,6 +9186,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4319">
      <dct:identifier><![CDATA[4319@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8915,6 +9242,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5798">
      <dct:identifier><![CDATA[5798@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -8969,6 +9298,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4290">
      <dct:identifier><![CDATA[4290@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9023,6 +9354,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4288">
      <dct:identifier><![CDATA[4288@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9077,6 +9410,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4237">
      <dct:identifier><![CDATA[4237@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9131,6 +9466,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4240">
      <dct:identifier><![CDATA[4240@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9185,6 +9522,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4234">
      <dct:identifier><![CDATA[4234@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9239,6 +9578,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4233">
      <dct:identifier><![CDATA[4233@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9293,6 +9634,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4320">
      <dct:identifier><![CDATA[4320@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9347,6 +9690,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4287">
      <dct:identifier><![CDATA[4287@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9402,6 +9747,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3285">
      <dct:identifier><![CDATA[3285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9469,6 +9816,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/7547">
      <dct:identifier><![CDATA[7547@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -9541,5 +9890,7 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
  </dcat:Catalog>
  </rdf:RDF>
