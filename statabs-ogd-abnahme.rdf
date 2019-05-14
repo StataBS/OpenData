@@ -872,7 +872,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Anteil Grünflächen]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt Anteil der Grünflächen an der gesamten Fläche der Wohnvierte in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-14T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -906,8 +906,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4832]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
@@ -1988,7 +1988,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Einkommenssteuer pro Veranlagung]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die mittlere Einkommenssteuer pro Veranlagung auf Ebene Wohnviertel in Franken aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-14T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -2003,7 +2003,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:contactPoint>
        <vcard:Individual>
          <vcard:fn><![CDATA[Ulrich Gräf]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:Ulrich-Maximilian.Graef@bs.ch"/>
+         <vcard:hasEmail rdf:resource="mailto:Ulrich-Maximilian.Graef@bs.ch;"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/administration"/>
@@ -2022,8 +2022,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4836]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -2105,7 +2105,7 @@ xmlns:schema = "http://schema.org/">
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der erwerbstätigen Wohnbevölkerung an der gesamten erwerbsfähigen Wohnbevölkerung (15 bis 64 Jahre, Nettoerwerbstätigenquote) auf Ebene Wohnviertel in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:description xml:lang = "en"><![CDATA[https://opendata.swiss/de/dataset/erwerbstatigenquote]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-14T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -2119,8 +2119,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:contactPoint>
        <vcard:Individual>
-         <vcard:fn><![CDATA[Lukas Mohler]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:Lukas.Mohler@bs.ch"/>
+         <vcard:fn><![CDATA[Kevin Zaugg]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Kevin.Zaugg@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
@@ -2143,8 +2143,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4837]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -2719,7 +2719,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Jugendquotient]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt den Anteil der unter 20-jährigen Personen an den 20- bis 64-jährigen Personen auf Ebene Wohnviertel in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-14T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -2757,8 +2757,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4829]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -3305,7 +3305,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Vermögenssteuer pro Veranlagung]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die mittlere Vermögenssteuer pro Veranlagung auf Ebene Wohnviertel in Franken aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-14T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -3320,7 +3320,7 @@ xmlns:schema = "http://schema.org/">
      <dcat:contactPoint>
        <vcard:Individual>
          <vcard:fn><![CDATA[Ulrich Gräf]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:Ulrich-Maximilian.Graef@bs.ch"/>
+         <vcard:hasEmail rdf:resource="mailto:Ulrich-Maximilian.Graef@bs.ch;"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/administration"/>
@@ -3336,8 +3336,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4835]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -3537,8 +3537,8 @@ xmlns:schema = "http://schema.org/">
  </dcat:Catalog>
  </rdf:RDF>
   <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4856">
-     <dct:identifier><![CDA4127856@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4127">
+     <dct:identifier><![CDATA[4127@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Zufriedenheit mit dem Wohnungsangebot]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt auf einer 4-stufigen Likert-Skala die Zufriedenheit der Basler Wohnbevölkerung mit dem Wohnungsangebot im Kanton. Datengrundlage ist die kantonale Bevölkerungsbefragung, die seit 2003 alle 4 Jahre durchgeführt wird.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
@@ -5140,7 +5140,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Bevölkerung]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Die mittlere Wohnbevölkerung entspricht der im Durchschnitt eines Kalenderjahres in einem der Kantone wohnhaften Bevölkerung.  ]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-05-03T16:20:37</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-11T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -5154,8 +5154,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:contactPoint>
        <vcard:Individual>
-         <vcard:fn><![CDATA[Björn Lietzke]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:Bjoern.Lietzke@bs.ch"/>
+         <vcard:fn><![CDATA[Christa Moll Freddi]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Christa.Moll@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/territory"/>
@@ -5164,7 +5164,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1971-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-31T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8889,7 +8889,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/Irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/159">
          <dct:identifier>159</dct:identifier>
@@ -9886,6 +9886,267 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>4029000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/6619">
+     <dct:identifier><![CDATA[6619@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Testindikator für Schulungszwecke]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[dies ist ein Test record]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-02T09:13:06</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T08:00:23</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Jonas Eckenfels]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Jonas.Eckenfels@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=6619]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/monthly"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/296">
+         <dct:identifier>296</dct:identifier>
+         <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-02T09:13:06</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-02T09:13:06</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:mediaType></dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/5476">
+     <dct:identifier><![CDATA[5476@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Leere Wohnungen]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Anzahl leerer Wohnungen nach Dauer des Leerstands. Speziell ausgewiesen ist der Leerstand in Neubauten. Ebenfalls ausgewiesen ist die jeweilige Leerstandsquote. Die Angaben liegen seit 1987 vor.]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-08-24T15:37:34</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-08-24T15:37:34</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[Vitus Thali]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:vitus.thali@bs.ch"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dcat:theme rdf:resource="http://opendata.swiss/themes/construction"/>
+     <dct:language>de</dct:language>
+     <dcat:keyword xml:lang="de">bauwesen</dcat:keyword>
+     <dcat:keyword xml:lang="de">leerstand</dcat:keyword>
+     <dcat:keyword xml:lang="en">vacancy</dcat:keyword>
+     <dcat:keyword xml:lang="fr">logements vacants</dcat:keyword>
+     <dcat:keyword xml:lang="it">	stato sfitto</dcat:keyword>
+     <dcat:keyword xml:lang="de">wohnung</dcat:keyword>
+     <dcat:keyword xml:lang="en">housing</dcat:keyword>
+     <dcat:keyword xml:lang="fr">logement</dcat:keyword>
+     <dcat:keyword xml:lang="it">abitazioni</dcat:keyword>
+    <dcat:landingPage><![CDATA[http://www.statistik.bs.ch/zahlen/tabellen/9-bau-wohnungswesen/leerstand.html]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-06-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-06-01T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/299">
+         <dct:identifier>299</dct:identifier>
+         <dct:title xml:lang="de">Leere Wohnungen nach Leerstandsdauer</dct:title>         <dct:description xml:lang = "de"><![CDATA[Die Daten werden durch eine stichtagsbezogene Vollerhebung ermittelt. Als Leerwohnung gilt eine Wohnung, welche am Stichtag (1. Juni) unbesetzt, aber bewohnbar ist und zur dauernden Miete von mindestens drei Monaten oder zum Verkauf angeboten wird.]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T15:37:34</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T15:37:34</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/dam/jcr:ac4fd32f-35de-4f5b-98fd-6d4e0f2afa5a/t09-2-01.xlsx]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>26</dcat:byteSize>
+         <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/4212">
+     <dct:identifier><![CDATA[4212@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Anzahl Schülerinnen und Schüler im 8. und 9. Schuljahr nach Staatsangehörigkeit (einzelner Staat) und Ausbildungstyp (Gymnasium/anderes)]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T17:22:26</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T17:22:26</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4212]]></dcat:landingPage>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/301">
+         <dct:identifier>301</dct:identifier>
+         <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T17:22:26</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T17:22:26</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:mediaType></dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/6776">
+     <dct:identifier><![CDATA[6776@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Testindikator für Lesehilfe]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[Das ist eine Testbeschreibung]]></dct:description>
+     <dct:description xml:lang = "fr"><![CDATA[Ca c'est un test]]></dct:description>
+     <dct:description xml:lang = "en"><![CDATA[This is a test]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-07T15:49:37</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-07T15:49:37</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+     <dct:language>de</dct:language>
+     <dct:language>en</dct:language>
+     <dcat:keyword xml:lang="de">adressverzeichnis</dcat:keyword>
+     <dcat:keyword xml:lang="en">directory</dcat:keyword>
+     <dcat:keyword xml:lang="fr">liste d adresses</dcat:keyword>
+     <dcat:keyword xml:lang="it">indirizzario</dcat:keyword>
+     <dcat:keyword xml:lang="de">altlasten</dcat:keyword>
+     <dcat:keyword xml:lang="en">brownfield</dcat:keyword>
+     <dcat:keyword xml:lang="fr">site contaminé</dcat:keyword>
+     <dcat:keyword xml:lang="it">discarica dismessa</dcat:keyword>
+    <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=6776]]></dcat:landingPage>
+     <dct:temporal>
+       <dct:PeriodOfTime>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
+       </dct:PeriodOfTime>
+     </dct:temporal>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/302">
+         <dct:identifier>302</dct:identifier>
+         <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-07T15:49:37</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-07T15:49:37</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:mediaType></dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+ </dcat:Catalog>
+ </rdf:RDF>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2081">
+     <dct:identifier><![CDATA[2081@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Neue Unternehmen nach Wirtschaftszweig]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+    <dcat:landingPage><![CDATA[]]></dcat:landingPage>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/304">
+         <dct:identifier>304</dct:identifier>
+         <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:mediaType></dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
