@@ -8500,7 +8500,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/152">
          <dct:identifier>152</dct:identifier>
