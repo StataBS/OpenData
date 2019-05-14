@@ -75,7 +75,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
-
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3147">
      <dct:identifier><![CDATA[3147@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -130,7 +129,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
-
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2542">
      <dct:identifier><![CDATA[2542@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
@@ -185,7 +183,6 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
-
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2812">
      <dct:identifier><![CDATA[2812@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
