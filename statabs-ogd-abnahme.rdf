@@ -844,7 +844,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Anteil Grünflächen]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt Anteil der Grünflächen an der gesamten Fläche der Wohnvierte in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-14T08:00:25</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-15T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -1092,7 +1092,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Arbeitsplätze pro Kopf]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Der Indikator zeigt die Anzahl Arbeitsplätze (Beschäftigte, die in Basel-Stadt arbeiten, in Vollzeitäquivalenten) an der gesamten Wohnbevölkerung auf Ebene Wohnviertel in Prozent aufsteigend sortiert als Rangliste.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-05-17T00:00:00</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-15T08:00:25</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -1106,8 +1106,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:contactPoint>
        <vcard:Individual>
-         <vcard:fn><![CDATA[Martina Schriber]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:Martina.Schriber@bs.ch"/>
+         <vcard:fn><![CDATA[Kevin Zaugg]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:Kevin.Zaugg@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/work"/>
@@ -1127,8 +1127,8 @@ xmlns:schema = "http://schema.org/">
     <dcat:landingPage><![CDATA[https://statabs.github.io/indikatoren/chart-details.html?id=4838]]></dcat:landingPage>
      <dct:temporal>
        <dct:PeriodOfTime>
-         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-31T00:00:00</schema:endDate>
+         <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-01T00:00:00</schema:startDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -8575,7 +8575,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/Irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/159">
          <dct:identifier>159</dct:identifier>
@@ -8629,7 +8629,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/160">
          <dct:identifier>160</dct:identifier>
@@ -8683,7 +8683,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/161">
          <dct:identifier>161</dct:identifier>
@@ -8953,7 +8953,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/	Irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/166">
          <dct:identifier>166</dct:identifier>
