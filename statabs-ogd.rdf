@@ -9458,8 +9458,8 @@ xmlns:schema = "http://schema.org/">
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/175">
          <dct:identifier>175</dct:identifier>
          <dct:description xml:lang = "de"><![CDATA[Die Download-URL enthält die Daten der Bevölkerungsszenarien, die Zugangs-URL eine Beschreibung der einzelnen Spalten der Daten.]]></dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:modified>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-15T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-15T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Beschreibung_Bevoelkerungsszenarien_Basel-Stadt_2019.txt]]></dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2019.csv]]></dcat:downloadURL>
