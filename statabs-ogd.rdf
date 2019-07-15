@@ -8200,7 +8200,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/Irregular"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/152">
          <dct:identifier>152</dct:identifier>
@@ -8575,7 +8575,7 @@ xmlns:schema = "http://schema.org/">
          <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-31T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/irregular"/>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
      <dcat:distribution>
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/159">
          <dct:identifier>159</dct:identifier>
@@ -9406,11 +9406,11 @@ xmlns:schema = "http://schema.org/">
   <dcat:dataset>
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3285">
      <dct:identifier><![CDATA[3285@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien Basel-Stadt 2018-2040]]></dct:title>
+     <dct:title xml:lang="de"><![CDATA[Bevölkerungsszenarien Basel-Stadt 2019-2040]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Die Bevölkerungsszenarien liefern kleinräumige Ergebnisse auf der Ebene Wahlkreise der Stadt Basel sowie gemeinsam für die Gemeinden Riehen und Bettingen. Neben der absoluten Bevölkerungsentwicklung stellen die Szenarien auch die Entwicklung der Bevölkerungsstruktur bis 2040 dar: Die Bevölkerung wird nach Alter, Geschlecht und Staatsangehörigkeit (Schweiz und Ausland) ausgewiesen. Auch stehen verschiedene demografische Komponenten wie Geburten und Sterbefälle, Einbürgerungen oder Wanderungsbewegungen zur Verfügung.]]></dct:description>
      <dct:description xml:lang = "en"><![CDATA[The population projections provide small-scale results for the city of Basel and the communities Riehen and Bettingen. In addition to the absolute population change, the scenarios show the development of the structure of the population until 2040: The population is reported according to age, gender and nationality (Switzerland and abroad). There are also various demographic components such as births and deaths, naturalizations or migration.]]></dct:description>
-     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:modified>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-07-15T10:49:54</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2020-07-15T10:49:54</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -9424,8 +9424,8 @@ xmlns:schema = "http://schema.org/">
      </dcat:contactPoint>
      <dcat:contactPoint>
        <vcard:Individual>
-         <vcard:fn><![CDATA[Lukas Mohler]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:lukas.mohler@bs.ch"/>
+         <vcard:fn><![CDATA[Tobias Erhardt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:tobias.erhardt@bs.ch"/>
        </vcard:Individual>
      </dcat:contactPoint>
      <dcat:theme rdf:resource="http://opendata.swiss/themes/population"/>
@@ -9461,10 +9461,10 @@ xmlns:schema = "http://schema.org/">
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:issued>
          <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-13T10:49:54</dct:modified>
          <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2018.csv]]></dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Beschreibung_Bevoelkerungsszenarien_Basel-Stadt_2018.txt]]></dcat:downloadURL>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Beschreibung_Bevoelkerungsszenarien_Basel-Stadt_2019.txt]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://data-bs.ch/bevoelkerungsprognose/Bevoelkerungsszenarien_Basel-Stadt_2019.csv]]></dcat:downloadURL>
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>13000000</dcat:byteSize>
+         <dcat:byteSize>25800000</dcat:byteSize>
          <dcat:mediaType>text/tab-separated-values</dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
@@ -9597,6 +9597,48 @@ xmlns:schema = "http://schema.org/">
          <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
          <dcat:byteSize>26</dcat:byteSize>
          <dcat:mediaType>application/vnd.ms-excel</dcat:mediaType>
+       </dcat:Distribution>
+     </dcat:distribution>
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2081">
+     <dct:identifier><![CDATA[2081@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
+     <dct:title xml:lang="de"><![CDATA[Neue Unternehmen nach Wirtschaftszweig]]></dct:title>
+     <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:issued>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:modified>
+     <dct:publisher>
+       <rdf:Description rdf:about = "Reference of publisher">
+         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
+       </rdf:Description>
+     </dct:publisher>
+     <dcat:contactPoint>
+       <vcard:Organization>
+         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
+       </vcard:Organization>
+     </dcat:contactPoint>
+     <dcat:contactPoint>
+       <vcard:Individual>
+         <vcard:fn><![CDATA[]]></vcard:fn>
+         <vcard:hasEmail rdf:resource="mailto:"/>
+       </vcard:Individual>
+     </dcat:contactPoint>
+    <dcat:landingPage><![CDATA[]]></dcat:landingPage>
+     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/"/>
+     <dcat:distribution>
+       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/304">
+         <dct:identifier>304</dct:identifier>
+         <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:modified>
+         <dct:language>de</dct:language>
+         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:accessURL>
+         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
+         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+         <dcat:byteSize>0</dcat:byteSize>
+         <dcat:mediaType></dcat:mediaType>
        </dcat:Distribution>
      </dcat:distribution>
     </dcat:Dataset>
