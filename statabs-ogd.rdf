@@ -9601,47 +9601,5 @@ xmlns:schema = "http://schema.org/">
      </dcat:distribution>
     </dcat:Dataset>
   </dcat:dataset>
-  <dcat:dataset>
-    <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/2081">
-     <dct:identifier><![CDATA[2081@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
-     <dct:title xml:lang="de"><![CDATA[Neue Unternehmen nach Wirtschaftszweig]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
-     <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:modified>
-     <dct:publisher>
-       <rdf:Description rdf:about = "Reference of publisher">
-         <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
-       </rdf:Description>
-     </dct:publisher>
-     <dcat:contactPoint>
-       <vcard:Organization>
-         <vcard:fn><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:stata@bs.ch"/>
-       </vcard:Organization>
-     </dcat:contactPoint>
-     <dcat:contactPoint>
-       <vcard:Individual>
-         <vcard:fn><![CDATA[]]></vcard:fn>
-         <vcard:hasEmail rdf:resource="mailto:"/>
-       </vcard:Individual>
-     </dcat:contactPoint>
-    <dcat:landingPage><![CDATA[]]></dcat:landingPage>
-     <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/"/>
-     <dcat:distribution>
-       <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/304">
-         <dct:identifier>304</dct:identifier>
-         <dct:description xml:lang = "de"><![CDATA[]]></dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-13T09:20:24</dct:modified>
-         <dct:language>de</dct:language>
-         <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:accessURL>
-         <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
-         <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
-         <dcat:byteSize>0</dcat:byteSize>
-         <dcat:mediaType></dcat:mediaType>
-       </dcat:Distribution>
-     </dcat:distribution>
-    </dcat:Dataset>
-  </dcat:dataset>
  </dcat:Catalog>
  </rdf:RDF>
