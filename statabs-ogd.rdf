@@ -361,9 +361,9 @@ xmlns:schema = "http://schema.org/">
     <dcat:Dataset rdf:about="http://statistisches-amt-kanton-basel-stadt/3207">
      <dct:identifier><![CDATA[3207@statistisches-amt-kanton-basel-stadt]]></dct:identifier>
      <dct:title xml:lang="de"><![CDATA[Leerwohnungen nach Zimmerzahl, Wohnviertel und Gemeinde]]></dct:title>
-     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Anzahl leerer Wohnungen nach Wohnviertel und Landgemeinde. Die Angaben sind zusätzlich unterteilt nach der Anzahl der Zimmer pro Wohnung. Ebenfalls ausgewiesen ist die Leerstandsquote pro Wohnviertel und Landgemeinde. Die liegen seit 1995 vor.]]></dct:description>
+     <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Anzahl leerer Wohnungen nach Wohnviertel und Landgemeinde. Die Angaben sind zusätzlich unterteilt nach Anzahl der Zimmer pro Wohnung. Ebenfalls ausgewiesen ist die Leerstandsquote pro Wohnviertel und Landgemeinde. Die Daten liegen seit 1995 vor.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-08-22T13:24:39</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -395,7 +395,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-06-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-06-01T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-01T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -404,7 +404,7 @@ xmlns:schema = "http://schema.org/">
          <dct:identifier>7</dct:identifier>
          <dct:description xml:lang = "de"><![CDATA[Die Daten werden durch eine stichtagsbezogene Vollerhebung ermittelt. Als Leerwohnung gilt eine Wohnung, welche am Stichtag (1. Juni) unbesetzt, aber bewohnbar ist und zur dauernden Miete von mindestens drei Monaten oder zum Verkauf angeboten wird.]]></dct:description>
          <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-10T13:24:39</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-19T00:00:00</dct:modified>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-08-22T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[http://www.statistik.bs.ch/dam/jcr:46821755-9b73-47d6-a6d8-d20c442c065a/t09-2-03.xlsx]]></dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[http://www.statistik.bs.ch/dam/jcr:46821755-9b73-47d6-a6d8-d20c442c065a/t09-2-03.xlsx]]></dcat:downloadURL>
@@ -9548,7 +9548,7 @@ xmlns:schema = "http://schema.org/">
      <dct:title xml:lang="de"><![CDATA[Leere Wohnungen]]></dct:title>
      <dct:description xml:lang = "de"><![CDATA[Die Tabellen zeigen die Anzahl leerer Wohnungen nach Dauer des Leerstands. Speziell ausgewiesen ist der Leerstand in Neubauten. Ebenfalls ausgewiesen ist die jeweilige Leerstandsquote. Die Angaben liegen seit 1987 vor.]]></dct:description>
      <dct:issued rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-08-24T15:37:34</dct:issued>
-     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2018-08-24T15:37:34</dct:modified>
+     <dct:modified rdf:datatype = "http://www.w3.org/2001/XMLSchema#dateTime">2019-08-22T15:37:34</dct:modified>
      <dct:publisher>
        <rdf:Description rdf:about = "Reference of publisher">
          <rdfs:label><![CDATA[Statistisches Amt des Kantons Basel-Stadt]]></rdfs:label>
@@ -9581,7 +9581,7 @@ xmlns:schema = "http://schema.org/">
      <dct:temporal>
        <dct:PeriodOfTime>
          <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-06-01T00:00:00</schema:startDate>
-         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-06-01T00:00:00</schema:endDate>
+         <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-01T00:00:00</schema:endDate>
        </dct:PeriodOfTime>
      </dct:temporal>
      <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/annual"/>
@@ -9589,8 +9589,8 @@ xmlns:schema = "http://schema.org/">
        <dcat:Distribution rdf:about="http://www.statistik.bs.ch/de/299">
          <dct:identifier>299</dct:identifier>
          <dct:title xml:lang="de">Leere Wohnungen nach Leerstandsdauer</dct:title>         <dct:description xml:lang = "de"><![CDATA[Die Daten werden durch eine stichtagsbezogene Vollerhebung ermittelt. Als Leerwohnung gilt eine Wohnung, welche am Stichtag (1. Juni) unbesetzt, aber bewohnbar ist und zur dauernden Miete von mindestens drei Monaten oder zum Verkauf angeboten wird.]]></dct:description>
-         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T15:37:34</dct:issued>
-         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-03T15:37:34</dct:modified>
+         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-08-24T00:00:00</dct:issued>
+         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-08-22T00:00:00</dct:modified>
          <dct:language>de</dct:language>
          <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[https://www.statistik.bs.ch/dam/jcr:ac4fd32f-35de-4f5b-98fd-6d4e0f2afa5a/t09-2-01.xlsx]]></dcat:accessURL>
          <dcat:downloadURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"><![CDATA[]]></dcat:downloadURL>
